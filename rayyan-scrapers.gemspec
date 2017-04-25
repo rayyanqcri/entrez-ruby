@@ -2,16 +2,16 @@
 
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'entrez-ruby/version'
+require 'rayyan-scrapers/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "entrez-ruby"
-  spec.version       = Entrez::VERSION
+  spec.name          = "rayyan-scrapers"
+  spec.version       = RayyanScrapers::VERSION
   spec.authors       = ["Hossam Hammady"]
   spec.email         = ["github@hammady.net"]
-  spec.description   = %q{Ruby library to consume the NCBI Entrez API used for PubMed. Currently It supports esearch, efetch and elink}
-  spec.summary       = %q{Ruby library to consume the NCBI Entrez API}
-  spec.homepage      = "https://github.com/rayyanqcri/entrez-ruby"
+  spec.description   = %q{Rayyan scrapers that fetch external references like PubMed}
+  spec.summary       = %q{Rayyan scrapers that fetch external references}
+  spec.homepage      = "https://github.com/rayyanqcri/rayyan-scrapers"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

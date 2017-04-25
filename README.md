@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rayyanqcri/entrez-ruby.svg?branch=master)](https://travis-ci.org/rayyanqcri/entrez-ruby)
+[![Build Status](https://travis-ci.org/rayyanqcri/rayyan-scrapers.svg?branch=master)](https://travis-ci.org/rayyanqcri/rayyan-scrapers)
 
 # EntrezRuby
 
@@ -8,7 +8,7 @@ TODO
 
 Add this line to your application's Gemfile:
 
-    gem 'entrez-ruby'
+    gem 'rayyan-scrapers'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install entrez-ruby
+    $ gem install rayyan-scrapers
 
 ## Testing
 

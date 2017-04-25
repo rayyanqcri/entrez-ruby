@@ -3,11 +3,11 @@
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
-require 'entrez-ruby'
+require 'rayyan-scrapers'
 require 'log4r'
 
-logger = Log4r::Logger.new('EntrezRuby')
+logger = Log4r::Logger.new('RayyanScrapers')
 logger.outputters = Log4r::Outputter.stdout
-#Entrez::Base.logger = logger
+#RayyanScrapers::Base.logger = logger
 
 # TODO
