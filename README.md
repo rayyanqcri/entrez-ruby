@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/rayyanqcri/rayyan-scrapers.svg?branch=master)](https://travis-ci.org/rayyanqcri/rayyan-scrapers)
+[![Coverage Status](https://coveralls.io/repos/github/rayyanqcri/rayyan-scrapers/badge.svg?branch=master)](https://coveralls.io/github/rayyanqcri/rayyan-scrapers?branch=master)
 
 # EntrezRuby
 
