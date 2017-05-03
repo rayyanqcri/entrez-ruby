@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10026684</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0025-729X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>170</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Medical journal of Australia</Title>
+                <ISOAbbreviation>Med. J. Aust.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical pathways in hip and knee arthroplasty: a prospective randomised controlled study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59-62</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To ascertain the effectiveness of clinical pathways for improving patient outcomes and decreasing lengths of stay after hip and knee arthroplasty.</AbstractText>
+                <AbstractText Label="DESIGN AND SETTING" NlmCategory="METHODS">Twelve-month randomised prospective trial comparing patients treated through a clinical pathway with those treated by an established standard of care at a single tertiary referral university hospital.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">163 patients (56 men and 107 women; mean age, 66 years) undergoing primary hip or knee arthroplasty, and randomly allocated to the clinical pathway (92 patients) and the control group (71 patients).</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Time to sitting out of bed and walking; rates of complications and readmissions; match to planned discharge destination; and length of hospital stay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Clinical pathway patients had a shorter mean length of stay (P = 0.011), earlier ambulation (P = 0.001), a lower readmission rate (P = 0.06) and closer matching of discharge destination. There were beneficial effects of attending patient seminars and preadmission clinics for both pathway and control patients.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Clinical pathway is an effective method of improving patient outcomes and decreasing length of stay following hip and knee arthroplasty.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Orthopaedics, St Vincent's Hospital, Melbourne, VIC.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dowsey</LastName>
+                    <ForeName>M M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kilgour</LastName>
+                    <ForeName>M L</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santamaria</LastName>
+                    <ForeName>N M</ForeName>
+                    <Initials>NM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choong</LastName>
+                    <ForeName>P F</ForeName>
+                    <Initials>PF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>AUSTRALIA</Country>
+            <MedlineTA>Med J Aust</MedlineTA>
+            <NlmUniqueID>0400714</NlmUniqueID>
+            <ISSNLinking>0025-729X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Aug 16;171(4):218-9</RefSource>
+                <PMID Version="1">10494241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Jan 18;170(2):54-5</RefSource>
+                <PMID Version="1">10026682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Jun 7;170(11):568</RefSource>
+                <PMID Version="1">10397057</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arthroplasty, Replacement, Hip</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">nursing</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arthroplasty, Replacement, Knee</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">nursing</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Critical Pathways</DescriptorName>
+                <QualifierName MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Early Ambulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Length of Stay</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Discharge</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Education as Topic</DescriptorName>
+                <QualifierName MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Readmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quality Indicators, Health Care</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10026684</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

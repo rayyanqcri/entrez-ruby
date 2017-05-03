@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10024959</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0942-2056</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Knee surgery, sports traumatology, arthroscopy</Title>
+                <ISOAbbreviation>Knee Surg Sports Traumatol Arthrosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Intra-articular ACL reconstruction in the over-40-year-old patient.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>25-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We compared two groups of patients who had undergone anterior cruciate ligament (ACL) reconstruction. The groups were similar in regard to sex distribution, index injury, absence of meniscal or chondral lesions, surgical technique, and postoperative rehabilitation programs, but different in age. In the study group the mean age was 42.6 years, while in the control group the mean age was 20 years. The clinical results were assessed at a mean of 29 months after surgery using the Lysholm score, International Knee Documentation Committee form, Tegner activity level, and the KT-1000 arthrometer test. No significant differences were reported. Standard X-ray studies showed no variation between the two groups in the postoperative period. Intra-articular ACL reconstruction using a bone-patellar tendon-bone graft can be recommended in selected patients over 40 years of age as an alternative to conservative treatment.</AbstractText>
+            </Abstract>
+            <Affiliation>Arthroscopy and Knee Surgery Department, Hospital of Sandrigo, Vicenza, Italy.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Viola</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vianello</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Knee Surg Sports Traumatol Arthrosc</MedlineTA>
+            <NlmUniqueID>9314730</NlmUniqueID>
+            <ISSNLinking>0942-2056</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anterior Cruciate Ligament</DescriptorName>
+                <QualifierName MajorTopicYN="Y">injuries</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chronic Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Knee Injuries</DescriptorName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rupture</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10024959</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

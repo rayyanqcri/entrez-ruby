@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10048740</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0036-5521</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scandinavian journal of gastroenterology</Title>
+                <ISOAbbreviation>Scand. J. Gastroenterol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of early postoperative enteral nutrition versus placebo on cell-mediated immunity, as measured with the Multitest CMI.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>98-102</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patients who become anergic after surgery have a very high death rate, mainly due to infectious complications. It has earlier been shown that preoperative skin testing has predictive value for the clinical outcome in gastrointestinal surgery. This study investigated the effect of early postoperative enteral nutrition versus placebo on cell-mediated immunity with the Multitest CMI and correlated the results to the clinical outcome and to the preoperative nutritional status.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Sixty patients were randomized to receive either enteral nutrition or placebo. All patients were stratified in accordance with preoperative nutritional status. CMI tests were applied 2 days before surgery and days 1 and 5 postoperatively. All tests were applied and recorded by the same investigator.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">No significant differences in the score were seen between the groups. Nine patients were malnourished. No significant difference was seen preoperatively with regard to nutritional status, but the malnourished patients had a lower median value on the 3rd postoperative day. In patients with complications the preoperative median CMI score was 17.0 mm (95% confidence limits, 10.5-24 mm), and in patients without complications 9.5 mm (95% confidence limits, 5.5-16 mm). This result is significant and unexpected. Ten patients were anergic preoperatively, and three of these developed complications (30%). The overall complication rate was 27 of 60 (45%). A change in immunologic status from responding preoperatively to anergy postoperatively was significantly associated with severe complications (P = 0.043).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Early enteral nutrition does not influence the CMI score. Preoperative anergy was not related to increased mortality/morbidity, whereas the change in CMI response towards anergy was significant.</AbstractText>
+            </Abstract>
+            <Affiliation>Dept. of Surgical Gastroenterology D, KAS-Glostrup, Denmark.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beier-Holgersen</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brandstrup</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NORWAY</Country>
+            <MedlineTA>Scand J Gastroenterol</MedlineTA>
+            <NlmUniqueID>0060105</NlmUniqueID>
+            <ISSNLinking>0036-5521</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Reagent Kits, Diagnostic</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Digestive System Surgical Procedures</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Enteral Nutrition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunity, Cellular</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nutrition Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="N">diet therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nutritional Status</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Postoperative Period</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reagent Kits, Diagnostic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10048740</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

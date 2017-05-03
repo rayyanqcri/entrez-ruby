@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10025057</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0044-2771</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>36</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zeitschrift für Gastroenterologie</Title>
+                <ISOAbbreviation>Z Gastroenterol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Successful conservative therapy of hepatorenal syndrome with vasopressin-1-receptor antagonist ornipressin].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1053-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A 47-year-old male patient with alcoholic cirrhosis Child-Pugh grade C was admitted to our center for evaluation of liver transplantation. Serum creatinine had increased from 1.6 to 4.3 mg/100 ml within the previous two weeks, creatinine clearance was 12 ml/min, and urinary sodium 12 mmol/24 h. The diagnosis of HRS type I was established. Diuretic treatment was discontinued. Following albumin infusion, central venous pressure was increased to above 10 cm H2O and dopamine (2 micrograms/kg/min) infusion was started. However, renal function did not improve. An i.v. infusion of ornipressin (POR8, Sandoz; 6 IU/h) was started and dopamine infusion continued. During a four-hour interval, urinary volume and sodium excretion doubled. Therefore treatment was continued for three weeks. After 22 days, renal function had normalized (creatinine 1.2 mg/100 ml, creatinine clearance 65 ml/min, urinary sodium 62 mmol/24 h) and diuretic therapy was resumed. No adverse effects were observed. Ornipressin/dopamine infusion was discontinued and renal function remained normal. Three weeks later, the patient underwent liver transplantation with normal renal function. Ornipressin infusion had no effect on circulating endothelin, but decreased the activation of the renin-aldosterone system and of the sympathetic activity. So far, no noninvasive therapy of hepatorenal syndrome has been established. This is the first report of successful medical treatment of HRS type I with a three-week infusion of the vasopressin-l-receptor agonist ornipressin.</AbstractText>
+            </Abstract>
+            <Affiliation>Medizinische Klinik II, Ludwig-Maximilians-Universität, München.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gülberg</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luppa</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pauletzki</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paumgartner</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerbes</LastName>
+                    <ForeName>A L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Erfolgreiche konservative Therapie des hepatorenalen Syndroms mit dem Vasopressin-l-Rezeptoragonisten Ornipressin.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Z Gastroenterol</MedlineTA>
+            <NlmUniqueID>0033370</NlmUniqueID>
+            <ISSNLinking>0044-2771</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Renal Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3397-23-7</RegistryNumber>
+                <NameOfSubstance>Ornipressin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Administration Schedule</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hepatorenal Syndrome</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infusions, Intravenous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver Cirrhosis, Alcoholic</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ornipressin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Renal Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Renin-Angiotensin System</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10025057</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

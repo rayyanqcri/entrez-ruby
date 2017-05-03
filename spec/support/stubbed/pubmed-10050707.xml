@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10050707</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1048</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of haematology</Title>
+                <ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Abnormal cytogenetic clones in patients with aplastic anaemia: response to immunosuppressive therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>271-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We report the response to immunosuppressive therapy with antithymocyte globulin (ATG) and cyclosporin or oxymetholone in 13 cases of aplastic anaemia (AA) with an abnormal cytogenetic clone detected at or sometime after diagnosis. Blood and bone marrow examination showed no distinctive morphological features of myelodysplasia (MDS) at diagnosis. Haematological response occurred promptly in eight cases; the remainder responded after additional immunosuppression with or without oxymetholone. Three patients had a late relapse of AA, treated successfully by allogeneic bone marrow transplantation in one; the others responded to oxymetholone. Transformation to MDS or acute leukaemia was not observed after a median follow-up of 4.1 years (range 1.2-11.2). In four patients the cytogenetic clone disappeared after treatment.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Haematology, Manchester Royal Infirmary, London.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Geary</LastName>
+                    <ForeName>C G</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrison</LastName>
+                    <ForeName>C J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Philpott</LastName>
+                    <ForeName>N J</ForeName>
+                    <Initials>NJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hows</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordon-Smith</LastName>
+                    <ForeName>E C</ForeName>
+                    <Initials>EC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marsh</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Br J Haematol</MedlineTA>
+            <NlmUniqueID>0372544</NlmUniqueID>
+            <ISSNLinking>0007-1048</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antilymphocyte Serum</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>434-07-1</RegistryNumber>
+                <NameOfSubstance>Oxymetholone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59865-13-3</RegistryNumber>
+                <NameOfSubstance>Cyclosporine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anemia, Aplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antilymphocyte Serum</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromosome Aberrations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cyclosporine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Karyotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxymetholone</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10050707</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

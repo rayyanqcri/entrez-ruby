@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10024097</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-4932</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>229</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of surgery</Title>
+                <ISOAbbreviation>Ann. Surg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Colon and rectal anastomoses do not require routine drainage: a systematic review and meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>174-80</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Many surgeons continue to place a prophylactic drain in the pelvis after completion of a colorectal anastomosis, despite considerable evidence that this practice may not be useful. The authors conducted a systematic review and meta-analysis of randomized controlled trials to determine if placement of a drain after a colonic or rectal anastomosis can reduce the rate of complications.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A search of the Medline database of English-language articles published from 1987 to 1997 was conducted using the terms &quot;colon,&quot; &quot;rectum,&quot; &quot;postoperative complications,&quot; &quot;surgical anastomosis,&quot; and &quot;drainage.&quot; A manual search was also conducted. Four randomized controlled trials, including a total of 414 patients, were identified that compared the routine use of drainage of colonic and/or rectal anastomoses to no drainage. Two reviewers assessed the trials independently. Trial quality was critically appraised using a previously published scale, and data on mortality, clinical and radiologic anastomotic leakage rate, wound infection rate, and major complication rate were extracted.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The overall quality of the studies was poor. Use of a drain did not significantly affect the rate of any of the outcomes examined, although the power of this analysis to exclude any difference was low. Comparison of pooled results revealed an odds ratio for clinical leak of 1.5 favoring the control (no drain) group. Of the 20 observed leaks among all four studies that occurred in a patient with a drain in place, in only one case (5%) did pus or enteric content actually appear in the effluent of the existing drain.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Any significant benefit of routine drainage of colon and rectal anastomoses in reducing the rate of anastomotic leakage or other surgical complications can be excluded with more confidence based on pooled data than by the individual trials alone. Additional well-designed randomized controlled trials would further reinforce this conclusion.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Surgery, Maternal, Infant and Reproductive Health Research Unit at the Centre for Research in Women's Health, University of Toronto, Ontario, Canada.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Urbach</LastName>
+                    <ForeName>D R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kennedy</LastName>
+                    <ForeName>E D</ForeName>
+                    <Initials>ED</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>M M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Meta-Analysis</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Ann Surg</MedlineTA>
+            <NlmUniqueID>0372354</NlmUniqueID>
+            <ISSNLinking>0003-4932</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1959 Apr;22(4):719-48</RefSource>
+                <PMID Version="1">13655060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1993 Jun 2;269(21):2749-53</RefSource>
+                <PMID Version="1">8492400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Surg. 1964 Oct;89:686-9</RefSource>
+                <PMID Version="1">14186803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Epidemiol. 1992 Mar;45(3):255-65</RefSource>
+                <PMID Version="1">1569422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1991 Mar;34(3):223-8</RefSource>
+                <PMID Version="1">1999128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J R Soc Med. 1989 Nov;82(11):661-4</RefSource>
+                <PMID Version="1">2687467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Cardiovasc Dis. 1985 Mar-Apr;27(5):335-71</RefSource>
+                <PMID Version="1">2858114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 1987 Apr-May;6(3):315-28</RefSource>
+                <PMID Version="1">2887023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1989 Mar;32(3):223-6</RefSource>
+                <PMID Version="1">2920630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CMAJ. 1988 May 15;138(10):891-5</RefSource>
+                <PMID Version="1">3365624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann R Coll Surg Engl. 1988 May;70(3):158-60</RefSource>
+                <PMID Version="1">3408174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1987 Jun;30(6):449-52</RefSource>
+                <PMID Version="1">3595364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1987 Feb 19;316(8):450-5</RefSource>
+                <PMID Version="1">3807986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 1985 Apr;145(4):709-12</RefSource>
+                <PMID Version="1">3985731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1973 Jul-Aug;16(4):272-7</RefSource>
+                <PMID Version="1">4352614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1972 Nov 23;287(21):1081-3</RefSource>
+                <PMID Version="1">4627940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1973 Nov-Dec;16(6):485-9</RefSource>
+                <PMID Version="1">4769224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Surg. 1982 Mar;69(3):153-5</RefSource>
+                <PMID Version="1">7066655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1982 Oct;25(7):680-4</RefSource>
+                <PMID Version="1">7128370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1995 Jul;38(7):687-94</RefSource>
+                <PMID Version="1">7607026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1995 Mar;38(3):254-8</RefSource>
+                <PMID Version="1">7882787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Surg. 1993 Jun;80(6):769-71</RefSource>
+                <PMID Version="1">8330173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 1993 Jan;36(1):43-8</RefSource>
+                <PMID Version="1">8416778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Ann Surg. 2000 Apr;231(4):613-4</RefSource>
+                <PMID Version="1">10749623</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anastomosis, Surgical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Colon</DescriptorName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Drainage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Postoperative Complications</DescriptorName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rectum</DescriptorName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1191628</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10024097</ArticleId>
+            <ArticleId IdType="pmc">PMC1191628</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

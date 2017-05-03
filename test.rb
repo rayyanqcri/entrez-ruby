@@ -4,10 +4,9 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 require 'rayyan-scrapers'
-require 'log4r'
+require 'logger'
 
-logger = Log4r::Logger.new('RayyanScrapers')
-logger.outputters = Log4r::Outputter.stdout
-#RayyanScrapers::Base.logger = logger
+logger = Logger.new(STDOUT)
+logger.level = Logger::DEBUG
 
-# TODO
+logger.warn "Test log line"

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10030314</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-9926</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>159</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of internal medicine</Title>
+                <ISOAbbreviation>Arch. Intern. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of same-day screening mammography availability: results of a controlled clinical trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>393-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">We conducted a prospective controlled clinical trial in an urban academic general medicine practice to test the effect of same-day mammography availability on adherence to physicians' screening mammography recommendations.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Participants were a consecutive sample of 920 female patients aged 50 years or older who had received a physician's recommendation for screening mammography at an office visit and had no active breast symptoms, history of breast cancer, or a mammogram within the previous 12 months. Women were assigned to same-day screening mammography availability (intervention group) or usual screening mammography scheduling (control group).</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Three-, 6-, and 12-month rates of adherence to physicians' recommendations for screening mammography.</AbstractText>
+                <AbstractText Label="RESULT" NlmCategory="RESULTS">Twenty-six percent of women in the intervention group obtained a same-day screening mammogram. At 3 months, 58% of the women in the intervention group underwent the recommended screening mammography compared with 43% of the women in the control group (P&lt;.001), increasing to 61% and 49% at 6 months (P&lt;.001), and 268 (66%) of 408 vs 287 (56%) of 512 at 12 months (P = .003). The difference between the intervention and control groups 3-month adherence rates was most marked among women aged 65 years or older (58% vs 34%; P&lt;.001), women who were not employed (54% vs 36%; P&lt;.001), and women with a history of having had either no mammograms (39% vs 20%; P = .02) or only 1 to 2 mammograms (57% vs 38%; P&lt;.001) within the last 5 years.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Same-day mammography availability increased 3-, 6-, and 12-month screening mammography adherence rates in this urban academic general medicine practice. The effect was most marked among women aged 65 years or older, women who were not employed, and those who had had fewer than 3 mammograms in the last 5 years. The efficacy of this intervention in other settings still needs to be demonstrated.</AbstractText>
+            </Abstract>
+            <Affiliation>Division of General Internal Medicine, Northwestern University Medical School, Chicago, Ill 60611, USA. ndo428@nwu.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dolan</LastName>
+                    <ForeName>N C</ForeName>
+                    <Initials>NC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDermott</LastName>
+                    <ForeName>M M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrow</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venta</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>G J</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Controlled Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Arch Intern Med</MedlineTA>
+            <NlmUniqueID>0372440</NlmUniqueID>
+            <ISSNLinking>0003-9926</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Academic Medical Centers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mammography</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mass Screening</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Office Visits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urban Health</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10030314</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

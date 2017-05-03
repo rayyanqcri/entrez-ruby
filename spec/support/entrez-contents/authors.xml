@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article>
+  <AuthorList>
+    <Author>
+      <LastName>a1l</LastName><ForeName>a1f</ForeName>
+    </Author>
+    <Author>
+      <CollectiveName>a2l</CollectiveName><ForeName>a2f</ForeName>
+    </Author>
+    <Author>
+      <LastName>a3l</LastName>
+    </Author>
+  </AuthorList>
+</Article>

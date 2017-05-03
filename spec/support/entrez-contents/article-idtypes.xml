@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article>
+  <Data>
+    <ArticleIdList>
+      <ArticleId IdType="idtype1">value1</ArticleId>
+      <ArticleId IdType="idtype2">value2</ArticleId>
+      <ArticleId IdType="idtype3">value3</ArticleId>
+    </ArticleIdList>
+  </Data>
+</Article>

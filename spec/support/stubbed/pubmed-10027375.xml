@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10027375</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1323</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>86</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The British journal of surgery</Title>
+                <ISOAbbreviation>Br J Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prospective randomized double-blind trial between laparoscopic Nissen fundoplication and anterior partial fundoplication.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>123-30</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In the operative management of gastro-oesophageal reflux, a balance must be achieved between adequate control of reflux and excessive dysphagia. The ideal technique is not known. A randomized study was performed to determine whether laparoscopic anterior fundoplication is associated with a lower incidence of postoperative dysphagia than laparoscopic Nissen fundoplication, while achieving equivalent control of reflux.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients presenting for laparoscopic antireflux surgery were randomized to undergo either a Nissen fundoplication (n = 53) or an anterior 180 degrees hemifundoplication (n = 54). Patients were blinded to which procedure had been performed, and follow-up was obtained by a blinded independent investigator. Standardized clinical grading systems were used to assess dysphagia, heartburn and patient satisfaction 1, 3 and 6 months after operation. Objective measurement of lower oesophageal sphincter pressure, oesophageal emptying time, distal oesophageal acid exposure and endoscopic healing of oesophagitis was also performed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Operating time was similar for the two procedures (58 min for the Nissen procedure versus 60 min for anterior fundoplication). Resting and residual lower oesophageal sphincter pressures were lower following anterior fundoplication (29 versus 18 mmHg, and 13 versus 6 mmHg), and oesophageal emptying times were faster (92 versus 116 s). Acid exposure times and ability to heal oesophagitis were similar. At 3 months' follow-up clinical outcomes were similar for the two procedures. At 6 months, however, patients who had undergone anterior fundoplication experienced significantly less dysphagia for solid food and were more likely to be satisfied with the clinical outcome.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Laparoscopic anterior fundoplication achieved equivalent control of reflux, more physiological postoperative manometry parameters, and an improved clinical outcome at 6 months. Continued follow-up remains necessary to confirm the long-term efficacy of the partial fundoplication procedure.</AbstractText>
+            </Abstract>
+            <Affiliation>The Royal Adelaide Centre for Endoscopic Surgery and University Department of Surgery, Royal Adelaide Hospital, South Australia, Australia.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Watson</LastName>
+                    <ForeName>D I</ForeName>
+                    <Initials>DI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jamieson</LastName>
+                    <ForeName>G G</ForeName>
+                    <Initials>GG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pike</LastName>
+                    <ForeName>G K</ForeName>
+                    <Initials>GK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davies</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richardson</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Devitt</LastName>
+                    <ForeName>P G</ForeName>
+                    <Initials>PG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Br J Surg</MedlineTA>
+            <NlmUniqueID>0372553</NlmUniqueID>
+            <ISSNLinking>0007-1323</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Br J Surg. 1999 Jul;86(7):970-1</RefSource>
+                <PMID Version="1">10475704</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fundoplication</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gastroesophageal Reflux</DescriptorName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Length of Stay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Manometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Postoperative Care</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Preoperative Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pressure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10027375</ArticleId>
+            <ArticleId IdType="doi">10.1046/j.1365-2168.1999.00969.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

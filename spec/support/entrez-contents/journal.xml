@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article>
+  <Journal>
+    <ISSN IssnType="Print">issn1</ISSN>
+    <JournalIssue CitedMedium="Print">
+      <Volume>10</Volume>
+      <Issue>1</Issue>
+      <PubDate>
+        <Year>2017</Year>
+        <Month>4</Month>
+        <Day>1</Day>
+        <MedlineDate>
+          1999 Jan-Feb
+        </MedlineDate>
+      </PubDate>
+    </JournalIssue>
+    <Title>title1</Title>
+    <ISOAbbreviation>abbrev1</ISOAbbreviation>
+  </Journal>
+  <Pagination>
+    <MedlinePgn>pages1</MedlinePgn>
+  </Pagination>
+</Article>

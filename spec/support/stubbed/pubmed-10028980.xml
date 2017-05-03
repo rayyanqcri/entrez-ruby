@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10028980</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0140-6736</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>353</Volume>
+                    <Issue>9152</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Control of sexually transmitted diseases for AIDS prevention in Uganda: a randomised community trial. Rakai Project Study Group.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>525-35</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The study tested the hypothesis that community-level control of sexually transmitted disease (STD) would result in lower incidence of HIV-1 infection in comparison with control communities.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This randomised, controlled, single-masked, community-based trial of intensive STD control, via home-based mass antibiotic treatment, took place in Rakai District, Uganda. Ten community clusters were randomly assigned to intervention or control groups. All consenting residents aged 15-59 years were enrolled; visited in the home every 10 months; interviewed; asked to provide biological samples for assessment of HIV-1 infection and STDs; and were provided with mass treatment (azithromycin, ciprofloxacin, metronidazole in the intervention group, vitamins/anthelmintic drug in the control). Intention-to-treat analyses used multivariate, paired, cluster-adjusted rate ratios.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">The baseline prevalence of HIV-1 infection was 15.9%. 6602 HIV-1-negative individuals were enrolled in the intervention group and 6124 in the control group. 75.0% of intervention-group and 72.6% of control-group participants provided at least one follow-up sample for HIV-1 testing. At enrolment, the two treatment groups were similar in STD prevalence rates. At 20-month follow-up, the prevalences of syphilis (352/6238 [5.6%]) vs 359/5284 [6.8%]; rate ratio 0.80 [95% CI 0.71-0.89]) and trichomoniasis (182/1968 [9.3%] vs 261/1815 [14.4%]; rate ratio 0.59 [0.38-0.91]) were significantly lower in the intervention group than in the control group. The incidence of HIV-1 infection was 1.5 per 100 person-years in both groups (rate ratio 0.97 [0.81-1.16]). In pregnant women, the follow-up prevalences of trichomoniasis, bacterial vaginosis, gonorrhoea, and chlamydia infection were significantly lower in the intervention group than in the control group. No effect of the intervention on incidence of HIV-1 infection was observed in pregnant women or in stratified analyses.</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">We observed no effect of the STD intervention on the incidence of HIV-1 infection. In the Rakai population, a substantial proportion of HIV-1 acquisition appears to occur independently of treatable STD cofactors.</AbstractText>
+            </Abstract>
+            <Affiliation>Centre for Population and Family Health, Columbia University School of Public Health, New York 10032, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wawer</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sewankambo</LastName>
+                    <ForeName>N K</ForeName>
+                    <Initials>NK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serwadda</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quinn</LastName>
+                    <ForeName>T C</ForeName>
+                    <Initials>TC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paxton</LastName>
+                    <ForeName>L A</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiwanuka</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wabwire-Mangen</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lutalo</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nalugoda</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaydos</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moulton</LastName>
+                    <ForeName>L H</ForeName>
+                    <Initials>LH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meehan</LastName>
+                    <ForeName>M O</ForeName>
+                    <Initials>MO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmed</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gray</LastName>
+                    <ForeName>R H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5P30HD06826</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI34826</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI34826S</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Infective Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 1999 Feb 13;353(9152):513-5</RefSource>
+                <PMID Version="1">10028974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 1999 May 1;353(9163):1522; author reply 1523-4</RefSource>
+                <PMID Version="1">10232336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 1999 May 1;353(9163):1522-3; author reply 1523-4</RefSource>
+                <PMID Version="1">10232337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 1999 May 1;353(9163):1523-4</RefSource>
+                <PMID Version="1">10232338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 2000 Nov 4;356(9241):1602-3</RefSource>
+                <PMID Version="1">11075790</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acquired Immunodeficiency Syndrome</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Infective Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">HIV-1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Complications, Infectious</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sexually Transmitted Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Uganda</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10028980</ArticleId>
+            <ArticleId IdType="pii">S0140673698064393</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

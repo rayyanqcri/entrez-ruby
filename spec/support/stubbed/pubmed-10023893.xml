@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10023893</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0140-6736</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>353</Volume>
+                    <Issue>9147</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                        <Day>9</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevention of falls in the elderly trial (PROFET): a randomised controlled trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>93-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Falls in elderly people are a common presenting complaint to accident and emergency departments. Current practice commonly focuses on the injury, with little systematic assessment of the underlying cause, functional consequences, and possibilities for future prevention. We undertook a randomised controlled study to assess the benefit of a structured inderdisciplinary assessment of people who have fallen in terms of further falls.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Eligible patients were aged 65 years and older, lived in the community, and presented to an accident and emergency department with a fall. Patients assigned to the intervention group (n=184) underwent a detailed medical and occupational-therapy assessment with referral to relevant services if indicated; those assigned to the control group (n=213) received usual care only. The analyses were by intention to treat. Follow-up data were collected every 4 months for 1 year.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">At 12-month follow-up, 77% of both groups remained in the study. The total reported number of falls during this period was 183 in the intervention group compared with 510 in the control group (p=0.0002). The risk of falling was significantly reduced in the intervention group (odds ratio 0.39 [95% CI 0.23-0.66]) as was the risk of recurrent falls (0.33 [0.16-0.68]). In addition, the odds of admission to hospital were lower in the intervention group (0.61 [0.35-1.05]) whereas the decline in Barthel score with time was greater in the control group (p&lt;0.00001).</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">The study shows that an interdisciplinary approach to this high-risk population can significantly decrease the risk of further falls and limit functional impairment.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Health Care of the Elderly, Guy's King's, and St Thomas' School of Medicine, King's College Hospital, London, UK. jacqueline.close@kcl.ac.uk</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Close</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ellis</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hooper</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glucksman</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jackson</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swift</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 1999 Mar 13;353(9156):928</RefSource>
+                <PMID Version="1">10094011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Lancet. 1999 Mar 13;353(9156):928-9</RefSource>
+                <PMID Version="1">10094012</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Accidental Falls</DescriptorName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Frail Elderly</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Geriatric Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Occupational Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Patient Care Team</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recurrence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Referral and Consultation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10023893</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(98)06119-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(98)06119-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

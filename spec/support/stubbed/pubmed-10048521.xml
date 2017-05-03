@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10048521</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0363-5023</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of hand surgery</Title>
+                <ISOAbbreviation>J Hand Surg Am</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Splinting in the treatment of arthritis of the first carpometacarpal joint.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>86-91</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Although much has been written about surgical treatment of arthritis of the first carpometacarpal joint, no literature exists on splinting as a conservative treatment. One hundred fourteen patients (130 thumbs) were retrospectively reviewed to determine the efficacy of splinting. Patients were grouped according to their stage of disease and whether they had carpometacarpal joint surgery. Seventy-six percent of patients with stage I and II disease and 54% of patients with stage III and IV disease had improvement in their symptoms with splinting. There was no significant difference in the degree of improvement between the 2 groups. All patients who had initial improvement in their symptoms with splinting had between 54% and 61% average improvement in symptom severity 6 months after splinting. All groups were found to be equally tolerant of the splinting protocol and no group had a significantly higher rate of activity modification. Overall, splinting was found to be a well-tolerated and effective conservative treatment to diminish, but not completely eliminate, the symptoms of carpometacarpal joint arthritis and inflammation.</AbstractText>
+            </Abstract>
+            <Affiliation>C. V. Starr Hand Surgery Center, St Luke's/Roosevelt Hospital Center, New York, NY, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Swigart</LastName>
+                    <ForeName>C R</ForeName>
+                    <Initials>CR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eaton</LastName>
+                    <ForeName>R G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glickel</LastName>
+                    <ForeName>S Z</ForeName>
+                    <Initials>SZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Hand Surg Am</MedlineTA>
+            <NlmUniqueID>7609631</NlmUniqueID>
+            <ISSNLinking>0363-5023</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arthritis</DescriptorName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pain</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pain Management</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Splints</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Thumb</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wrist Joint</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10048521</ArticleId>
+            <ArticleId IdType="pii">S0363-5023(99)83777-0</ArticleId>
+            <ArticleId IdType="doi">10.1053/jhsu.1999.jhsu24a0086</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

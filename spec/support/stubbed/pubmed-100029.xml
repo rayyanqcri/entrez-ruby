@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">100029</PMID>
+        <DateCreated>
+            <Year>1978</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1978</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-0805</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>118</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1978</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American review of respiratory disease</Title>
+                <ISOAbbreviation>Am. Rev. Respir. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Controlled trial of 6-month and 8-month regimens in the treatment of pulmonary tuberculosis. First report.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>219-28</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Four short-course antituberculosis regimens allocated at random were studied; (1) streptomycin, isoniazid, and rifampin given daily for 6 months; (2) these 3 drugs plus pyrazinamide given daily for 2 months, followed by twice-weekly administration of streptomycin, isoniazid, and pyrazinamide; (3) a regimen that differed from regimen 2 only in that ethambutol replaced pyrazinamide, and (4) streptomycin plus isoniazid plus rifampin plus pyrazinamide given 3 times per week for 4 months, followed by streptomycin plus isoniazid plus pyrazinamide administered twice per week. The last 3 regimens were given for 6 or 8 months at random. All except 1 of 680 patients with tubercle bacilli drug-susceptible before treatment had a favorable bacteriologic response during chemotherapy. The relapse rates during the first 6 months after chemotherapy were low, except in the ethambutol series, in which 19 per cent of the patients relapsed after 6 months of treatment, and 8 per cent relapsed after 8 months. A substantial proportion of the patients with strains initially resistant to either isoniazid or streptomycin had a favorable response to their allocated regimen, but the results were not as good for those patients with strains resistant to both drugs. An important finding is that the incidences of immunologic febrile reactions to rifampin and of rifampin-dependent antibodies were very low during the 3-times-weekly regimen.</AbstractText>
+            </Abstract>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am Rev Respir Dis</MedlineTA>
+            <NlmUniqueID>0370523</NlmUniqueID>
+            <ISSNLinking>0003-0805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antitubercular Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>13292-46-1</RegistryNumber>
+                <NameOfSubstance>Rifampin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>54-85-3</RegistryNumber>
+                <NameOfSubstance>Isoniazid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57-92-1</RegistryNumber>
+                <NameOfSubstance>Streptomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>74-55-5</RegistryNumber>
+                <NameOfSubstance>Ethambutol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>98-96-4</RegistryNumber>
+                <NameOfSubstance>Pyrazinamide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antitubercular Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Administration Schedule</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Evaluation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ethambutol</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Isoniazid</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrazinamide</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Random Allocation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rifampin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Streptomycin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tuberculosis, Pulmonary</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1978</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1978</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1978</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">100029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

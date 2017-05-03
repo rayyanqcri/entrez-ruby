@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10029064</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-5472</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>59</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer research</Title>
+                <ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inactivation of the DNA repair gene O6-methylguanine-DNA methyltransferase by promoter hypermethylation is a common event in primary human neoplasia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>793-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The DNA repair protein O6-methylguanine DNA methyltransferase (MGMT) removes alkyl adducts from the O6 position of guanine. MGMT expression is decreased in some tumor tissues, and lack of activity has been observed in some cell lines. Loss of expression is rarely due to deletion, mutation, or rearrangement of the MGMT gene, but methylation of discrete regions of the CpG island of MGMT has been associated with the silencing of the gene in cell lines. We used methylation-specific PCR to study the promoter methylation of the MGMT gene. All normal tissues and expressing cancer cell lines were unmethylated, whereas nonexpressing cancer cell lines were methylated. Among the more than 500 primary human tumors examined, MGMT hypermethylation was present in a subset of specific types of cancer. In gliomas and colorectal carcinomas, aberrant methylation was detected in 40% of the tumors, whereas in non-small cell lung carcinomas, lymphomas, and head and neck carcinomas, this alteration was found in 25% of the tumors. MGMT methylation was found rarely or not at all in other tumor types. We also analyzed MGMT expression by immunohistochemistry in relation to the methylation status in 31 primary tumors. The presence of aberrant hypermethylation was associated with loss of MGMT protein, in contrast to retention of protein in the majority of tumors without aberrant hypermethylation. Our results suggest that epigenetic inactivation of MGMT plays an important role in primary human neoplasia.</AbstractText>
+            </Abstract>
+            <Affiliation>Tumor Biology, The Johns Hopkins Oncology Center, The Johns Hopkins University School of Medicine, Baltimore, Maryland 21231, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Esteller</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamilton</LastName>
+                    <ForeName>S R</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burger</LastName>
+                    <ForeName>P C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baylin</LastName>
+                    <ForeName>S B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herman</LastName>
+                    <ForeName>J G</ForeName>
+                    <Initials>JG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="N">
+                <Grant>
+                    <GrantID>CA43318</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA62924</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA64928</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Cancer Res</MedlineTA>
+            <NlmUniqueID>2984705R</NlmUniqueID>
+            <ISSNLinking>0008-5472</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.63</RegistryNumber>
+                <NameOfSubstance>O(6)-Methylguanine-DNA Methyltransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CpG Islands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">DNA Methylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">DNA Repair</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, ras</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">O(6)-Methylguanine-DNA Methyltransferase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10029064</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

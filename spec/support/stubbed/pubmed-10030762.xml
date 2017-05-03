@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10030762</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0277-0008</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacotherapy</Title>
+                <ISOAbbreviation>Pharmacotherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Health care professional staffing, hospital characteristics, and hospital mortality rates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>130-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>To evaluate associations among hospital characteristics, staffing levels of health care professionals, and mortality rates in 3763 United States hospitals, a data base was constructed from the American Hospital Association's Abridged Guide to the Health Care Field and hospital Medicare mortality rates from the Health Care Financing Administration. A multivariate regression analysis controlling for severity of illness was employed to determine the associations. Hospital characteristics associated with lower mortality were occupancy rate and private nonprofit and private for-profit ownership. Mortality rates decreased as staffing level per occupied bed increased for medical residents, registered nurses, registered pharmacists, medical technologists, and total hospital personnel. Mortality rates increased as staffing level per occupied bed increased for hospital administrators and licensed practical-vocational nurses. To our knowledge, this is the first study to show that pharmacists were associated with lower mortality rates.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Pharmacy Practice, School of Pharmacy, Texas Tech University Health Sciences Center-Amarillo, 79106, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bond</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raehl</LastName>
+                    <ForeName>C L</ForeName>
+                    <Initials>CL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pitterle</LastName>
+                    <ForeName>M E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franke</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Pharmacotherapy</MedlineTA>
+            <NlmUniqueID>8111305</NlmUniqueID>
+            <ISSNLinking>0277-0008</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Pharmacotherapy. 1999 May;19(5):555</RefSource>
+                <PMID Version="1">10331817</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hospital Mortality</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Medical Staff, Hospital</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Personnel Staffing and Scheduling</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Personnel, Hospital</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10030762</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

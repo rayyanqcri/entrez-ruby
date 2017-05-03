@@ -1,0 +1,15 @@
+<Article>
+  <Sections>
+    <Section>
+      <LocationLabel Type="type1">loc1</LocationLabel>
+      <SectionTitle part="code1">title1</SectionTitle>
+    </Section>
+    <Section>
+      <LocationLabel>loc2</LocationLabel>
+      <SectionTitle>title2</SectionTitle>
+    </Section>
+    <Section>
+      <SectionTitle>title3</SectionTitle>
+    </Section>
+  </Sections>
+</Article>

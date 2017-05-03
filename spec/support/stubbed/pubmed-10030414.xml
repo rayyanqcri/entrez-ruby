@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10030414</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1068-9265</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>1999 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of surgical oncology</Title>
+                <ISOAbbreviation>Ann. Surg. Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Preoperative chemoradiation for patients with locally advanced adenocarcinoma of the pancreas.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38-45</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Improved resectability is a major theoretical benefit of preoperative chemoradiation for pancreatic cancer. Since 1994, patients at Duke University Medical Center with locally advanced pancreatic cancer have been treated with multimodality preoperative therapy. The purpose of this study was to review our experience with preoperative therapy for locally advanced pancreatic cancer and determine if an aggressive neoadjuvant regimen would not only downstage these tumors pathologically but also improve the odds of complete surgical resection.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The charts of 25 patients treated with neoadjuvant chemoradiation at Duke University Medical Center with biopsy-proven, locally advanced adenocarcinoma of the pancreas were reviewed. Tumors were defined as locally advanced based on radiographic or intraoperative evidence of disease that abuts the superior mesenteric artery or vein (n = 22) or involves lymph nodes that are within the proposed radiation field (n = 3). All 25 patients received external beam radiotherapy (median dose 4500 cGy) in daily fractions of 180 cGy over 5 weeks. All patients concurrently received 5-fluorouracil (FU), and many also received mitomycin C or cisplatin, or both. Patients were given a 3- to 4-week break before a restaging computed tomographic (CT) scan was performed. Three patients were not restaged: one died from metastatic disease; one was reclassified as having a neuroendocrine tumor; and one was lost to follow-up.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">On restaging after neoadjuvant therapy, 64% of patients had stable or decreased primary tumor size. Radiographically, two patients appeared potentially resectable, and seven others developed evidence of metastatic disease. Eight patients underwent exploration, but only five could be resected. Of the five patients resected, only one had negative margins and negative lymph nodes. This patient had significant pancreatitis on initial exploration. After neoadjuvant therapy, he had a complete response radiographically, and there was no residual cancer in his resection specimen. Pathologic examination of the other resection specimens suggested that despite significant tumor fibrosis, malignant cells persist even at the periphery of the lesions.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Although neoadjuvant chemoradiation has many theoretical advantages in managing pancreatic malignancy, true pathologic downstaging of locally advanced lesions into tumors that can be removed with negative nodes and margins appears to be a rare event with currently used therapeutic regimens.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Surgery, Duke University Medical Center, Durham, North Carolina 27710, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anscher</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gottfried</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolff</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keogan</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pappas</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hurwitz</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tyler</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Ann Surg Oncol</MedlineTA>
+            <NlmUniqueID>9420840</NlmUniqueID>
+            <ISSNLinking>1068-9265</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibiotics, Antineoplastic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antimetabolites, Antineoplastic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>15663-27-1</RegistryNumber>
+                <NameOfSubstance>Cisplatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50-07-7</RegistryNumber>
+                <NameOfSubstance>Mitomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>51-21-8</RegistryNumber>
+                <NameOfSubstance>Fluorouracil</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Ann Surg Oncol. 1999 Jan-Feb;6(1):4-7</RefSource>
+                <PMID Version="1">10030405</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenocarcinoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName MajorTopicYN="Y">radiotherapy</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibiotics, Antineoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antimetabolites, Antineoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemotherapy, Adjuvant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cisplatin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose Fractionation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorouracil</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mitomycin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pancreatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pancreatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName MajorTopicYN="Y">radiotherapy</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Preoperative Care</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Radiotherapy</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Radiotherapy, Adjuvant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10030414</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

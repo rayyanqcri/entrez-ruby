@@ -2,8 +2,8 @@ module RayyanScrapers
   class EricScraper < ScraperBase
     attr_reader :query
 
-    def initialize(query, content_dir = 'eric-contents')
-      super('eric.log', content_dir)
+    def initialize(query, logger = nil)
+      super(logger)
       @base_url = 'http://www.eric.ed.gov/ERICWebPortal'
       @search_url = "#{@base_url}/search/simpleSearch.jsp?searchtype=advanced"
       @detail_url = "#{@base_url}/detail?accno="
@@ -36,7 +36,6 @@ module RayyanScrapers
       @logger.debug "ERIC scraper initialized with query #{@query}"
       
   	  @source = Source.find_by_name 'ERIC'
-      @stop_on_seen_page = false
     end
 
     def create_search_url(page)
@@ -77,9 +76,9 @@ module RayyanScrapers
       end
     end
     
-    def get_next_page_link(page)
+    def get_next_page_link(page, page_id)
       begin
-        create_search_url @curr_page
+        create_search_url page_id
       rescue
         nil
       end
@@ -240,7 +239,6 @@ module RayyanScrapers
       end
       
       mArticle.save
-      page.save_as("#{@content_dir}/eric-#{ericid}.html")
       mArticle
     end
 

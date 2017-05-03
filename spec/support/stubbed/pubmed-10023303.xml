@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10023303</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0959-8049</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of cancer (Oxford, England 1990)</Title>
+                <ISOAbbreviation>Eur. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy of 5-HT3 receptor antagonists in radiotherapy-induced nausea and vomiting: a quantitative systematic review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1836-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>5-HT3 receptor antagonists are used to treat radiation-induced sickness. The purpose of this study was to define anti-emetic efficacy and potential for harm of these drugs in radiotherapy. A systematic search, critical appraisal and quantitative analysis of relevant data using the number-needed-to-treat or harm (NNT/H) were conducted. Acute (0 to 24h) and delayed (beyond 24 h) anti-emetic efficacy were analysed separately. Data from 1,404 patients were found in 40 trials published in 36 reports. Data from 197 patients receiving ondansetron or granisetron in five randomised trials were regarded as valid according to preset criteria. One placebo-controlled trial had 10 patients per group and in this ondansetron was not significantly different from placebo. In a larger (n = 105) placebo-controlled trial, ondansetron was significantly more efficacious than metoclopramide for complete control of acute vomiting (NNT 2.2, 95% confidence interval (CI) 1.7-3.3) and acute nausea (NNT 3.6, 95% CI 2.2-10.2). Three trials reported delayed outcomes with ondansetron or granisetron: there was no evidence of any difference compared with placebo or other anti-emetics. Two trials reported no acute or delayed but a 'worst day' outcome; in these ondansetron's antivomiting effect was significantly better than placebo (NNT 4.4, 95% CI 2.5-23) or prochlorperazine (NNT 3.8, 95% CI 2.4-10.3), but not its antinausea effect. Constipation and headache were associated significantly with 5-HT3 receptor antagonists compared with other anti-emetics or placebo (NNH 6.4 and 17.1, respectively). Only 14% of published data enabled valid estimation of the anti-emetic efficacy of 5-HT3 receptor antagonists in radiotherapy. There was some evidence that these drugs prevent acute vomiting: 40% of treated patients will benefit (NNT approximately 2.5). The evidence for nausea was less clear. There was no evidence that these drugs are of any benefit beyond 24 h. There was evidence that they produce specific adverse effects.</AbstractText>
+            </Abstract>
+            <Affiliation>University of Oxford, Oxford Radcliffe Hospital, U.K.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tramèr</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reynolds</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoner</LastName>
+                    <ForeName>N S</ForeName>
+                    <Initials>NS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>R A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McQuay</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Meta-Analysis</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Eur J Cancer</MedlineTA>
+            <NlmUniqueID>9005373</NlmUniqueID>
+            <ISSNLinking>0959-8049</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antiemetics</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Serotonin Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>109889-09-0</RegistryNumber>
+                <NameOfSubstance>Granisetron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>99614-02-5</RegistryNumber>
+                <NameOfSubstance>Ondansetron</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antiemetics</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granisetron</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nausea</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ondansetron</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Radiotherapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serotonin Antagonists</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vomiting</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10023303</ArticleId>
+            <ArticleId IdType="pii">S0959-8049(98)00161-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

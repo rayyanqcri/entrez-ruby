@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10029978</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0148-5717</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>26</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sexually transmitted diseases</Title>
+                <ISOAbbreviation>Sex Transm Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Herpes in the time of AIDS: a comparison of the epidemiology of HIV-1 and HSV-2 in young men in northern Thailand.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>67-74</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To compare the epidemiologic pattern of HIV-1, a recently introduced sexually transmitted disease (STD) agent in Thailand, with the pattern of HSV-2, a well-established STD agent, so that future trends for both viruses can be better understood.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We obtained questionnaire data and determined HSV-2 (by specific gG-2) and HIV-1 seroreactivity in a cohort of 1,115 young male army conscripts who entered service in northern Thailand in 1991.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Seroprevalence of HIV-1 and HSV-2 was 6.9% and 14.9%, respectively. For HSV-2-seropositive men who reported previous genital ulcers, HIV-1 seroprevalence was 32%. For most variables, there was a close correspondence between the prevalence ratios for HIV-1 and for HSV-2, except that prevalence ratios for HIV-1 tended to be greater than the corresponding ratios for HSV-2. The seroprevalence of both viruses was strongly related to early and frequent contact with female sex workers (FSWs), infrequent use of condoms with FSWs, and residence in the upper north region of Thailand. When differences in sexual behavior between the upper north and lower north were controlled for, the seroprevalence of both viruses still differed significantly by region.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although the seroprevalence levels of HSV-2 and HIV-1 were quite different in this cohort of Thai army conscripts in 1991, the patterns of infection in terms of demographic, residential, and behavioral variables were similar. Seroprevalence studies of HSV-2 in other populations, particularly where the HIV-1 epidemic is just beginning, may be useful in predicting which subgroups might be most vulnerable to the epidemic and could therefore benefit the most from public health intervention. Where differences in the patterns of the two viruses have been noted, we hypothesize that the pattern for HIV-1 will evolve toward that seen for HSV-2.</AbstractText>
+            </Abstract>
+            <Affiliation>Centers for Disease Control and Prevention, Atlanta, Georgia, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dobbins</LastName>
+                    <ForeName>J G</ForeName>
+                    <Initials>JG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mastro</LastName>
+                    <ForeName>T D</ForeName>
+                    <Initials>TD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nopkesorn</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sangkharomya</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Limpakarnjanarat</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weniger</LastName>
+                    <ForeName>B G</ForeName>
+                    <Initials>BG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmid</LastName>
+                    <ForeName>D S</ForeName>
+                    <Initials>DS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Sex Transm Dis</MedlineTA>
+            <NlmUniqueID>7705941</NlmUniqueID>
+            <ISSNLinking>0148-5717</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HIV Antibodies</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Viral</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Antibodies</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Herpes Genitalis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Herpesvirus 2, Human</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Military Personnel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Seroepidemiologic Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sexual Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Thailand</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="PIP">140845</OtherID>
+        <OtherID Source="POP">00285739</OtherID>
+        <OtherAbstract Language="eng" Type="PIP">
+            <AbstractText>Herpes simplex virus type 2 (HSV-2) has been in Thailand longer than has been HIV-1. The epidemiology of the 2 viruses was compared in an attempt to gain insight into likely future trends of the dissemination of HIV-1 and HSV-2 in the country. Findings are based upon questionnaire and serostatus data on a cohort of 1115 young male army conscripts who entered service in northern Thailand in 1991. The 1061 conscripts were 21 years old and the remainder were 22-27 years old. 879 were unmarried, 598 were farmers, and 55 were students. 6.9% of the young men were infected with HIV-1 and 14.9% with HSV-2. Among HSV-2-seropositive men who reported previous genital ulcers, HIV-1 seroprevalence was 32%. For most variables, there was a close correspondence between the prevalence ratios for HIV-1 and HSV-2, except that prevalence ratios for HIV-1 tended to be greater than the corresponding ratios for HSV-2. The seroprevalence of both viruses was strongly related to early and frequent contact with female prostitutes, infrequent condom use with such prostitutes, and residence in the upper northern region of Thailand. The patterns of infection were similar for the 2 viruses, suggesting the direction in which HIV-1 seroprevalence levels will go.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="Y">Acquired Immunodeficiency Syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Age Factors</Keyword>
+            <Keyword MajorTopicYN="N">Asia</Keyword>
+            <Keyword MajorTopicYN="N">Behavior</Keyword>
+            <Keyword MajorTopicYN="N">Biology</Keyword>
+            <Keyword MajorTopicYN="N">Demographic Factors</Keyword>
+            <Keyword MajorTopicYN="N">Developing Countries</Keyword>
+            <Keyword MajorTopicYN="N">Diseases</Keyword>
+            <Keyword MajorTopicYN="Y">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Government</Keyword>
+            <Keyword MajorTopicYN="N">Health</Keyword>
+            <Keyword MajorTopicYN="Y">Herpes Genitalis</Keyword>
+            <Keyword MajorTopicYN="Y">Hiv Infections</Keyword>
+            <Keyword MajorTopicYN="N">Infections</Keyword>
+            <Keyword MajorTopicYN="N">Measurement</Keyword>
+            <Keyword MajorTopicYN="Y">Men</Keyword>
+            <Keyword MajorTopicYN="Y">Military Personnel--men</Keyword>
+            <Keyword MajorTopicYN="N">Political Factors</Keyword>
+            <Keyword MajorTopicYN="N">Population</Keyword>
+            <Keyword MajorTopicYN="N">Population Characteristics</Keyword>
+            <Keyword MajorTopicYN="Y">Prevalence</Keyword>
+            <Keyword MajorTopicYN="Y">Prostitutes</Keyword>
+            <Keyword MajorTopicYN="N">Public Health</Keyword>
+            <Keyword MajorTopicYN="N">Reproductive Tract Infections</Keyword>
+            <Keyword MajorTopicYN="N">Research Methodology</Keyword>
+            <Keyword MajorTopicYN="Y">Research Report</Keyword>
+            <Keyword MajorTopicYN="Y">Risk Behavior--men</Keyword>
+            <Keyword MajorTopicYN="Y">Risk Factors</Keyword>
+            <Keyword MajorTopicYN="Y">Sex Behavior--men</Keyword>
+            <Keyword MajorTopicYN="N">Sexually Transmitted Diseases</Keyword>
+            <Keyword MajorTopicYN="N">Southeastern Asia</Keyword>
+            <Keyword MajorTopicYN="N">Thailand</Keyword>
+            <Keyword MajorTopicYN="N">Viral Diseases</Keyword>
+            <Keyword MajorTopicYN="Y">Youth--men</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: SEXUALLY TRANSMITTED DISEASES.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10029978</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

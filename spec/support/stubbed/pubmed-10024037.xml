@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10024037</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0749-8063</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>1999 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arthroscopy official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Title>
+                <ISOAbbreviation>Arthroscopy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Arthroscopic treatment of osteochondral lesions of the talar dome: a retrospective study of 48 cases.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>77-84</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We treated 48 symptomatic osteochondral lesions of the talar dome arthroscopically. Of these, 18 patients had an osteochondral fracture with a loose fragment located in every case on the anteriolateral side of the talus. Treatment consisted of removal (16 cases) or fixation (2 cases) of the bone fragment. Thirty patients had chronic lesions (27 subchondral necrosis with a sequestrum and 3 extensive cysts). The lesion was posteromedial in 27 cases and the treatment consisted of removal of the sequestrum with curettage of the subchondral bone necrosis (27 cases) or transchondral drilling if the cartilage surface was intact (3 cases). All the patients were clinically and radiogically reviewed with a mean follow-up of 5 years (7 months to 11 years). Patients treated for an osteochondral fracture obtained significant better results (16 excellent or good results out of 18 cases) than those treated for chronic lesions (20 excellent or good results out of 30 cases). On radiographic examination, we noticed that, even at the longest follow-up, the bone healing was usually incomplete and the bone defect persisted indefinitely in case of extensive subchondral bone necrosis. The articular surface could be seen in 11 cases (8 computed arthrotomographies, 1 magnetic resonance imaging, and 2 second-look arthroscopies). The fibrous cartilaginous surface was apparently regular in 6 cases without any clear correlation with our clinical results. This study suggests that we must make a distinction between osteochondral fractures (recent or not healed) located in the anterolateral part of the talar dome, which carry a good prognosis, and necrotic lesions located medially, which are less likely to have a favorable outcome.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Orthopaedic Surgery, Paul Cézanne Hospital, Aix en Provence, France.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kelbérine</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frank</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Arthroscopy</MedlineTA>
+            <NlmUniqueID>8506498</NlmUniqueID>
+            <ISSNLinking>0749-8063</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arthrography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arthroplasty</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Arthroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Cysts</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cartilage, Articular</DescriptorName>
+                <QualifierName MajorTopicYN="N">injuries</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endoscopy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fractures, Bone</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fractures, Cartilage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Joint Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteochondritis</DescriptorName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Talus</DescriptorName>
+                <QualifierName MajorTopicYN="N">injuries</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tarsal Joints</DescriptorName>
+                <QualifierName MajorTopicYN="N">injuries</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10024037</ArticleId>
+            <ArticleId IdType="pii">S0749-8063(99)00163-2</ArticleId>
+            <ArticleId IdType="doi">10.1053/ar.1999.v15.0150071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

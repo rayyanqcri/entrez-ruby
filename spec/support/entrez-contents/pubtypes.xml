@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article>
+  <PublicationTypeList>
+    <PublicationType>pubtype1</PublicationType>
+    <PublicationType>pubtype2</PublicationType>
+    <PublicationType>pubtype3</PublicationType>
+  </PublicationTypeList>
+</Article>

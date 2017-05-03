@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10029122</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0098-7484</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>281</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA</Title>
+                <ISOAbbreviation>JAMA</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comprehensive discharge planning and home follow-up of hospitalized elders: a randomized clinical trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>613-20</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Comprehensive discharge planning by advanced practice nurses has demonstrated short-term reductions in readmissions of elderly patients, but the benefits of more intensive follow-up of hospitalized elders at risk for poor outcomes after discharge has not been studied.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To examine the effectiveness of an advanced practice nurse-centered discharge planning and home follow-up intervention for elders at risk for hospital readmissions.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Randomized clinical trial with follow-up at 2, 6, 12, and 24 weeks after index hospital discharge.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Two urban, academically affiliated hospitals in Philadelphia, Pa.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Eligible patients were 65 years or older, hospitalized between August 1992 and March 1996, and had 1 of several medical and surgical reasons for admission.</AbstractText>
+                <AbstractText Label="INTERVENTION" NlmCategory="METHODS">Intervention group patients received a comprehensive discharge planning and home follow-up protocol designed specifically for elders at risk for poor outcomes after discharge and implemented by advanced practice nurses.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Readmissions, time to first readmission, acute care visits after discharge, costs, functional status, depression, and patient satisfaction.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 363 patients (186 in the control group and 177 in the intervention group) were enrolled in the study; 70% of intervention and 74% of control subjects completed the trial. Mean age of sample was 75 years; 50% were men and 45% were black. By week 24 after the index hospital discharge, control group patients were more likely than intervention group patients to be readmitted at least once (37.1 % vs 20.3 %; P&lt;.001). Fewer intervention group patients had multiple readmissions (6.2% vs 14.5%; P = .01) and the intervention group had fewer hospital days per patient (1.53 vs 4.09 days; P&lt;.001). Time to first readmission was increased in the intervention group (P&lt;.001). At 24 weeks after discharge, total Medicare reimbursements for health services were about $1.2 million in the control group vs about $0.6 million in the intervention group (P&lt;.001). There were no significant group differences in post-discharge acute care visits, functional status, depression, or patient satisfaction.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An advanced practice nurse-centered discharge planning and home care intervention for at-risk hospitalized elders reduced readmissions, lengthened the time between discharge and readmission, and decreased the costs of providing health care. Thus, the intervention demonstrated great potential in promoting positive outcomes for hospitalized elders at high risk for rehospitalization while reducing costs.</AbstractText>
+            </Abstract>
+            <Affiliation>School of Nursing, University of Pennsylvania, Philadelphia 19104, USA. naylor@pobox.upenn.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Naylor</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brooten</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campbell</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacobsen</LastName>
+                    <ForeName>B S</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mezey</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pauly</LastName>
+                    <ForeName>M V</ForeName>
+                    <Initials>MV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwartz</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01-NR02095</GrantID>
+                    <Acronym>NR</Acronym>
+                    <Agency>NINR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>JAMA</MedlineTA>
+            <NlmUniqueID>7501160</NlmUniqueID>
+            <ISSNLinking>0098-7484</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>JAMA. 1999 Sep 22-29;282(12):1129</RefSource>
+                <PMID Version="1">10501107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>ACP J Club. 1999 Sep-Oct;131(2):32</RefSource>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>JAMA. 1999 Feb 17;281(7):656-7</RefSource>
+                <PMID Version="1">10029129</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Case Management</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Continuity of Patient Care</DescriptorName>
+                <QualifierName MajorTopicYN="N">economics</QualifierName>
+                <QualifierName MajorTopicYN="Y">organization &amp; administration</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Geriatric Nursing</DescriptorName>
+                <QualifierName MajorTopicYN="N">economics</QualifierName>
+                <QualifierName MajorTopicYN="Y">organization &amp; administration</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Home Care Services</DescriptorName>
+                <QualifierName MajorTopicYN="N">economics</QualifierName>
+                <QualifierName MajorTopicYN="Y">organization &amp; administration</QualifierName>
+                <QualifierName MajorTopicYN="N">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hospitals, University</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hospitals, Urban</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Medicare</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Patient Discharge</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Readmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">economics</QualifierName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Satisfaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Philadelphia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10029122</ArticleId>
+            <ArticleId IdType="pii">joc80991</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

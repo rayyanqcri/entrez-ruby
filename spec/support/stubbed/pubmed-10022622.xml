@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10022622</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9270</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>94</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of gastroenterology</Title>
+                <ISOAbbreviation>Am. J. Gastroenterol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hyperbaric oxygen therapy for perineal Crohn disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>318-21</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Perineal lesions are a frequent and troublesome complication of Crohn's disease. Although there are various surgical and medical therapeutic regimens available to treat these lesions, all have significant associated morbidity, mortality, and toxicity. Recently, the beneficial effects of hyperbaric oxygen therapy (HBOT) have been described in patients with severe or refractory perineal disease, but the role of HBOT in larger groups or less severely affected patients has not yet been studied, nor has the minimum number of treatments required for initial or complete healing of perineal disease in this population been described. This article reviews the known and theoretical tissue effects of HBOT and discusses its potential role in treating patients with perineal Crohn's disease.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medicine, Albert Einstein College of Medicine, Bronx, New York 10461, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Noyer</LastName>
+                    <ForeName>C M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brandt</LastName>
+                    <ForeName>L J</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Gastroenterol</MedlineTA>
+            <NlmUniqueID>0421030</NlmUniqueID>
+            <ISSNLinking>0002-9270</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Crohn Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hyperbaric Oxygenation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Perineum</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>27</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022622</ArticleId>
+            <ArticleId IdType="pii">S0002-9270(98)00729-1</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1572-0241.1999.00848.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

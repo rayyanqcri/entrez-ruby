@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10025043</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0043-5341</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>148</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Wiener medizinische Wochenschrift (1946)</Title>
+                <ISOAbbreviation>Wien Med Wochenschr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Protective effect of acupuncture on allergen provoked rhinitis].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>450-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A study of the protective effect of an acupuncture therapy against a nasal allergen-provoked rhinitis was undertaken on patients suffering from seasonal allergic rhinitis. The effects of a specific acupuncture therapy (&quot;verum&quot;) were compared with those of a non-specific acupuncture therapy (&quot;placebo&quot;). The allergen-provocation was carried out in the &quot;Vienna Provocation Chamber&quot; (VCC) (Horak, 1987). 24 patients suffering from seasonal allergic rhinitis were allocated at random either to Group B and given a specific (&quot;verum&quot;) acupuncture therapy or to Group A and given a non-specific (&quot;placebo&quot;) acupuncture therapy. A nasal allergen-provocation was carried out before onset and after completion of 9 treatments. The objective and subjective results of the allergen-provocation in the VCC were not able to verify a protective effect of the acupuncture therapy. The &quot;Diary of Complaints (Symptoms)&quot; which the participants had to keep over the 2 months following the treatment showed a definite reduction of the subjective complaints in the verum group during the second month. The range of scatter was too great for a statistically significant result.</AbstractText>
+            </Abstract>
+            <Affiliation>Kaiserin-Elisabeth-Spitals der Stadt Wien.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wolkenstein</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horak</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Protektiver Effekt von Akupunktur gegenüber einer mittels Allergenprovokation induzierten Rhinitis.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>AUSTRIA</Country>
+            <MedlineTA>Wien Med Wochenschr</MedlineTA>
+            <NlmUniqueID>8708475</NlmUniqueID>
+            <ISSNLinking>0043-5341</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Acupuncture Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Nasal Provocation Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Seasonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10025043</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

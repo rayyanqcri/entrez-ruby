@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10052444</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0098-7484</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>281</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA</Title>
+                <ISOAbbreviation>JAMA</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Increasing prevalence of antimicrobial resistance among uropathogens causing acute uncomplicated cystitis in women.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>736-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Guidelines for the management of acute uncomplicated cystitis in women that recommend empirical therapy in properly selected patients rely on the predictability of the agents causing cystitis and knowledge of their antimicrobial susceptibility patterns.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the prevalence of and trends in antimicrobial resistance among uropathogens causing well-defined episodes of acute uncomplicated cystitis in a large population of women.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Cross-sectional survey of antimicrobial susceptibilities of urine isolates collected during a 5-year period (January, May, and September 1992-1996).</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Health maintenance organization.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Women aged 18 to 50 years with an outpatient diagnosis of acute cystitis.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Proportion of uropathogens demonstrating in vitro resistance to selected antimicrobials; trends in resistance over the 5-year study period.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Escherichia coli and Staphylococcus saprophyticus were the most common uropathogens, accounting for 90% of the 4342 urine isolates studied. The prevalence of resistance among E coli and all isolates combined was more than 20% for ampicillin, cephalothin, and sulfamethoxazole in each year studied. The prevalence of resistance to trimethoprim and trimethoprim-sulfamethoxazole rose from more than 9% in 1992 to more than 18% in 1996 among E coli, and from 8% to 16% among all isolates combined. There was a statistically significant increasing linear trend in the prevalence of resistance from 1992 to 1996 among E coli and all isolates combined to ampicillin (P&lt;.002), and to cephalothin, trimethoprim, and trimethoprim-sulfamethoxazole (P&lt;.001). In contrast, the prevalence of resistance to nitrofurantoin, gentamicin, and ciprofloxacin hydrochloride was 0% to 2% among E coli and less than 10% among all isolates combined, and did not change significantly during the 5-year period.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">While the prevalence of resistance to trimethoprim-sulfamethoxazole, ampicillin, and cephalothin increased significantly among uropathogens causing acute cystitis, resistance to nitrofurantoin and ciprofloxacin remained infrequent. These in vitro susceptibility patterns should be considered along with other factors, such as efficacy, cost, and cost-effectiveness in selecting empirical therapy for acute uncomplicated cystitis in women.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medicine, University of Washington School of Medicine, Seattle 98195, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scholes</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stamm</LastName>
+                    <ForeName>W E</ForeName>
+                    <Initials>WE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DK 53369</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>JAMA</MedlineTA>
+            <NlmUniqueID>7501160</NlmUniqueID>
+            <ISSNLinking>0098-7484</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>JAMA. 1999 Jul 28;282(4):325-6</RefSource>
+                <PMID Version="1">10432024</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acute Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Citrobacter</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cystitis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Drug Resistance, Microbial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enterobacter</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enterococcus</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Klebsiella</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microbial Sensitivity Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteus</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Staphylococcus</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urine</DescriptorName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>3</Hour>
+                <Minute>4</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>3</Hour>
+                <Minute>4</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10052444</ArticleId>
+            <ArticleId IdType="pii">jbr80382</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

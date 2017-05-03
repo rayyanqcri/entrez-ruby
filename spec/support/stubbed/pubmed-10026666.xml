@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10026666</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0025-729X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>170</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Medical journal of Australia</Title>
+                <ISOAbbreviation>Med. J. Aust.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A quality management intervention to improve clinical laboratory use in acute myocardial infarction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the effect of a total quality management (TQM) approach on the appropriateness of clinical laboratory testing of patients with acute myocardial infarction.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Retrospective, control-group, quasi-experimental study.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Two metropolitan teaching hospitals: one involved in the intervention (TQM experimental group); the other had no intervention (control group).</AbstractText>
+                <AbstractText Label="INTERVENTION" NlmCategory="METHODS">A multidisciplinary team involved in the development of improvement strategies, including laboratory testing guidelines, education programs, data collection, monitoring and feedback.</AbstractText>
+                <AbstractText Label="OUTCOME MEASURES" NlmCategory="METHODS">Total number of requested clinically indicated and non-clinically indicated tests.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The proportion of clinically indicated tests that were requested increased from 77.5% to 88.2% (P &lt; 0.01) and the number of non-clinically indicated tests was reduced by 81.7% with the introduction of the TQM strategies (P &lt; 0.01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The introduction of a TQM approach has improved the appropriateness of test ordering in acute myocardial infarction. The reduction in non-clinically indicated tests could produce substantial savings in hospital pathology costs, and the increase in clinically indicated tests provides better patient care.</AbstractText>
+            </Abstract>
+            <Affiliation>Division of Public Health, University of Western Sydney, Macarthur, NSW. g.isouard@uws.edu.au</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Isouard</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Controlled Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Multicenter Study</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>AUSTRALIA</Country>
+            <MedlineTA>Med J Aust</MedlineTA>
+            <NlmUniqueID>0400714</NlmUniqueID>
+            <ISSNLinking>0025-729X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Isoenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.3.2</RegistryNumber>
+                <NameOfSubstance>Creatine Kinase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Jan 4;170(1):8-9</RefSource>
+                <PMID Version="1">10026664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Aug 16;171(4):222; author reply 222-3</RefSource>
+                <PMID Version="1">10494247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Aug 16;171(4):221-2; author reply 222-3</RefSource>
+                <PMID Version="1">10494246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Aug 16;171(4):221; author reply 222-3</RefSource>
+                <PMID Version="1">10494244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Med J Aust. 1999 Aug 16;171(4):221; author reply 222-3</RefSource>
+                <PMID Version="1">10494245</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clinical Laboratory Techniques</DescriptorName>
+                <QualifierName MajorTopicYN="N">standards</QualifierName>
+                <QualifierName MajorTopicYN="Y">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Creatine Kinase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Health Services Misuse</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hospitals, Teaching</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Isoenzymes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Laboratories, Hospital</DescriptorName>
+                <QualifierName MajorTopicYN="N">standards</QualifierName>
+                <QualifierName MajorTopicYN="Y">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocardial Infarction</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">New South Wales</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Outcome and Process Assessment (Health Care)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Total Quality Management</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10026666</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

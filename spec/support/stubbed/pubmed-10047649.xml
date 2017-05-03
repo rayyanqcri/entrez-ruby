@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10047649</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-5223</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>117</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of thoracic and cardiovascular surgery</Title>
+                <ISOAbbreviation>J. Thorac. Cardiovasc. Surg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Potential mechanism of left ventricular outflow tract obstruction after mitral ring annuloplasty.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>472-80</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The purpose of this study was to explore whether geometric changes that predispose to left ventricular outflow tract obstruction after mitral ring annuloplasty are coupled to subvalvular apparatus disturbances.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Radiopaque markers were implanted in sheep: 9 in the ventricle, 1 in the high interventricular septum, 1 on each papillary muscle tip, 8 around the mitral anulus, 4 on the anterior mitral leaflet, and 2 on the posterior leaflet. One group served as control (n = 5); the others were randomized to undergo annuloplasty with the Duran ring (n = 6; Medtronic, Inc, Minneapolis, Minn) or Carpentier-Edwards Physio ring (n = 6; Baxter Healthcare Corp, Irvine, Calif). After a 7- to 10-day recovery period, 3-dimensional marker coordinates were measured with biplane videofluoroscopy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At the beginning of ejection, (1) the anterior leaflet was displaced toward the left ventricular outflow tract; (2) the normal atrially flexed anterior anulus was flattened into the left ventricular outflow tract; (3) the posterior anulus was displaced toward the left ventricular outflow tract; (4) the anterior papillary muscle was displaced septally; and (5) the posterior papillary muscle was dislocated inwardly toward the anterior papillary muscle in the Physio ring group compared with the control group. During ejection, all these structures moved septally, encroaching further on the left ventricular outflow tract. In the Duran ring group, only the posterior anulus was displaced toward the left ventricular outflow tract; the anterior leaflet was not displaced toward the left ventricular outflow tract, and it did not move septally during ejection.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The semirigid Physio ring was associated with perturbations in annular dynamics that caused changes in papillary muscle geometry. We propose an integrated valvular-subvalvular mechanism to explain displacement of the anterior leaflet into the left ventricular outflow tract after mitral ring annuloplasty.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Cardiovascular and Thoracic Surgery, the Division of Cardiovascular Medicine, Stanford, CA, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dagum</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Green</LastName>
+                    <ForeName>G R</ForeName>
+                    <Initials>GR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glasson</LastName>
+                    <ForeName>J R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daughters</LastName>
+                    <ForeName>G T</ForeName>
+                    <Initials>GT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bolger</LastName>
+                    <ForeName>A F</ForeName>
+                    <Initials>AF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foppiano</LastName>
+                    <ForeName>L E</ForeName>
+                    <Initials>LE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ingels</LastName>
+                    <ForeName>N B</ForeName>
+                    <Initials>NB</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>D C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="N">
+                <Grant>
+                    <GrantID>HL-29589</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL-48837</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL10000-01</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Thorac Cardiovasc Surg</MedlineTA>
+            <NlmUniqueID>0376343</NlmUniqueID>
+            <ISSNLinking>0022-5223</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Valve Prosthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Valve Prosthesis Implantation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemodynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mitral Valve</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sheep</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stroke Volume</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ventricular Outflow Obstruction</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>3</Hour>
+                <Minute>14</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>3</Hour>
+                <Minute>14</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10047649</ArticleId>
+            <ArticleId IdType="pii">S0022522399000355</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

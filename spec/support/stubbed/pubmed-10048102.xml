@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10048102</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0091-7435</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>28</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Preventive medicine</Title>
+                <ISOAbbreviation>Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The smoking cessation efficacy of varying doses of nicotine patch delivery systems 4 to 5 years post-quit day.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>113-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study was undertaken to evaluate the long-term smoking cessation efficacy of varying doses of transdermal nicotine delivery systems 4 to 5 years post-quit day.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A follow-up study was conducted 48 to 62 months after quit day among patients who were enrolled in the Transdermal Nicotine Study Group investigation. The latter study included group smoking cessation counseling and randomized assignment to 21, 14, or 7 mg nicotine patches or placebo patches. Seven of nine smoking cessation research centers participated in the long term follow-up investigation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The self-reported continuous quit rate among patients originally assigned 21 mg (20.2%) was significantly higher than rates for patients assigned 14 mg (10.4%), 7 mg (11.8%), or placebo patches (7.4%). Log rank survival analysis found no difference in relapse rates after 1 year postcessation. Smokers under age 30 years were significantly less likely to be abstinent at long term follow-up compared to smokers &gt; or = 30 years of age (3 vs 13%, respectively). Mean weight gain in confirmed continuous quitters was 10.1 kg in men and 8.0 kg in women. Of the 63 continuous abstainers surveyed, 30 respondents (48%) reported that they no longer craved cigarettes, and no individual reported daily craving for cigarettes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Nicotine patch therapy with 21 mg/day patches resulted in a significantly higher long-term continuous abstinence rate compared to lower dose patches and placebo. Relapse rates among the various treatment conditions were similar after 1 year postcessation.</AbstractText>
+            </Abstract>
+            <Affiliation>University of Nebraska Medical Center, Omaha 68198, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Daughton</LastName>
+                    <ForeName>D M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fortmann</LastName>
+                    <ForeName>S P</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glover</LastName>
+                    <ForeName>E D</ForeName>
+                    <Initials>ED</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hatsukami</LastName>
+                    <ForeName>D K</ForeName>
+                    <Initials>DK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heatley</LastName>
+                    <ForeName>S A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lichtenstein</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Repsher</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Millatmal</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Killen</LastName>
+                    <ForeName>J D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nowak</LastName>
+                    <ForeName>R T</ForeName>
+                    <Initials>RT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ullrich</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patil</LastName>
+                    <ForeName>K D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rennard</LastName>
+                    <ForeName>S I</ForeName>
+                    <Initials>SI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Prev Med</MedlineTA>
+            <NlmUniqueID>0322116</NlmUniqueID>
+            <ISSNLinking>0091-7435</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nicotinic Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>54-11-5</RegistryNumber>
+                <NameOfSubstance>Nicotine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Administration, Cutaneous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Behavior, Addictive</DescriptorName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chi-Square Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Motivation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nicotine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nicotinic Agonists</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recurrence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Smoking Cessation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tobacco Use Disorder</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Weight Gain</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10048102</ArticleId>
+            <ArticleId IdType="pii">S0091-7435(98)90391-7</ArticleId>
+            <ArticleId IdType="doi">10.1006/pmed.1998.0391</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

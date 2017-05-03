@@ -12,20 +12,17 @@
 
 module RayyanScrapers
   class NihFulltextScraper < PubMedScraper
-    def initialize(query, content_dir = 'nihfulltext-contents')
-      #super('nihfulltext.log', content_dir)
-      super(query, content_dir)
+    def initialize(query, logger = nil)
+      super(query, logger)
       @refs_url = "#{@base_url}/elink.fcgi?dbfrom=pmc&db=pubmed"
       @refs_link_name = "pmc_refs_pubmed"
 
       @base_url = 'http://localhost:8000/fromNIH'
       @logger.debug "NIH Fulltext scraper initialized"
-      @source = Source.find_by_name 'NIH Fulltext'
-      @stop_on_seen_page = false
     end
 
-    def create_search_url(page)
-      section = case page
+    def create_search_url(page, page_id)
+      section = case page_id
       when 1
         'DARE'
       when 2
@@ -38,7 +35,7 @@ module RayyanScrapers
     end
     
     def get_start_page
-      @agent.get(create_search_url(1))
+      create_search_url nil, 1
     end
 
     def self.max_pages_to_scrape
@@ -49,8 +46,8 @@ module RayyanScrapers
       0
     end
    
-    def get_next_page_link(page)
-      create_search_url @curr_page rescue nil
+    def get_next_page_link(page, page_id)
+      create_search_url page, page_id rescue nil
     end
 
     # NOTUSED by islam

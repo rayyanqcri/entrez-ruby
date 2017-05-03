@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10050242</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0749-0712</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hand clinics</Title>
+                <ISOAbbreviation>Hand Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Epidemiology of Dupuytren's disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>53-62, vi</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Studying the epidemiology of Dupuytren's disease allows the identification of populations at risk and may point to inferences regarding etiology. Data suggest the highest prevalence of the disease occurs in people of northern European stock. However, the disease does occur in nearly all populations examined. Dupuytren's disease occurs more frequently in men than women and becomes symptomatic approximately 10 years earlier in the lives of men than in women. Dupuytren's disease has been associated with a number of other diseases including seizure disorders, alcoholism, diabetes mellitus, and cigarette smoking. There is conflicting evidence as to whether manual labor or HIV seropositivity increases the prevalence of the disorder.</AbstractText>
+            </Abstract>
+            <Affiliation>Division of Plastic Surgery, University of Western Ontario, Hand and Upper Limb Centre, St. Joseph's Health Centre, London, Canada.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ross</LastName>
+                    <ForeName>D C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Hand Clin</MedlineTA>
+            <NlmUniqueID>8510415</NlmUniqueID>
+            <ISSNLinking>0749-0712</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dupuytren Contracture</DescriptorName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ethnology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>65</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10050242</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

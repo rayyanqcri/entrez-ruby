@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10025688</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1362-4393</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>37</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Spinal cord</Title>
+                <ISOAbbreviation>Spinal Cord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The changes in human spinal sympathetic preganglionic neurons after spinal cord injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6-13</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have applied conventional histochemical, immunocytochemical and morphometric techniques to study the changes within the human spinal sympathetic preganglionic neurons (SPNs) after spinal cord injury. SPNs are localized within the intermediolateral nucleus (IML) of the lateral horn at the thoraco-lumbar level of the spinal cord and are the major contributors to central cardiovascular control. SPNs in different thoracic segments in the normal spinal cord were similar in soma size. SPNs in the IML were also identified using immunoreactivity to choline acetyltransferase. Soma area of SPNs was 400.7+15 microm2 and 409.9+/-22 microm2 at the upper thoracic (T3) and middle thoracic (T7) segments, respectively. In the spinal cord obtained from a person who survived for 2 weeks following a spinal cord injury at T5, we found a significant decrease in soma area of the SPNs in the segments below the site of injury: soma area of SPNs at T8 was 272.9+/-11 microm2. At T1 the soma area was 418+/-19 microm2. In the spinal cord obtained from a person who survived 23 years after cord injury at T3, the soma area of SPNs above (T1) and below (T7) the site of injury was similar (416.2+/-19 and 425.0+/-20 microm2 respectively). The findings demonstrate that the SPNs in spinal segments caudal to the level of the lesion undergo a significant decrease of their size 2 weeks after spinal cord injury resulting in complete transection of the spinal cord. The impaired cardiovascular control after spinal cord injury may be accounted for, in part, by the described changes of the SPNs. The SPNs in spinal segments caudal to the injury were of normal size in the case studied 23 years after the injury, suggesting that the atrophy observed at 2 weeks is transient. More studies are necessary to establish the precise time course of these morphological changes in the spinal preganglionic neurons.</AbstractText>
+            </Abstract>
+            <Affiliation>The JP Robarts Research Institute, The Department of Physiology of the University of Western Ontario, London, Canada.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Krassioukov</LastName>
+                    <ForeName>A V</ForeName>
+                    <Initials>AV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bunge</LastName>
+                    <ForeName>R P</ForeName>
+                    <Initials>RP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pucket</LastName>
+                    <ForeName>W R</ForeName>
+                    <Initials>WR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bygrave</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Spinal Cord</MedlineTA>
+            <NlmUniqueID>9609749</NlmUniqueID>
+            <ISSNLinking>1362-4393</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acute Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Autonomic Fibers, Preganglionic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cardiovascular System</DescriptorName>
+                <QualifierName MajorTopicYN="N">innervation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chronic Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spinal Cord</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spinal Cord Injuries</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sympathetic Nervous System</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thoracic Vertebrae</DescriptorName>
+                <QualifierName MajorTopicYN="N">injuries</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wounds, Gunshot</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10025688</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

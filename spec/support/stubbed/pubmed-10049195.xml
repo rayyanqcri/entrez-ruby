@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10049195</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-4819</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>130</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>2</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of internal medicine</Title>
+                <ISOAbbreviation>Ann. Intern. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of cardiovascular procedures among black persons and white persons: a 7-year nationwide study in patients with renal disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>173-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Black persons historically undergo fewer invasive cardiovascular procedures than white persons.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether acquisition of Medicare health insurance and comprehensive care for severe illness reduce ethnic disparity in use of cardiovascular procedures.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">7-year longitudinal analyses in a cohort from the United States Renal Data System.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Health care institutions in the United States.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Nationwide random sample of 4987 adult black and white patients with incident end-stage renal disease (ESRD) from 303 dialysis facilities in 1986 to 1987.</AbstractText>
+                <AbstractText Label="MEASUREMENTS" NlmCategory="METHODS">Medical history and service use records, physical examination, and laboratory data. Main outcome measures were receipt of a coronary catheterization or revascularization procedure before (baseline) and after (follow-up) development of ESRD and acquisition of Medicare, adjusted for clinical and socioeconomic variables.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At baseline, 9.9% of white patients and 2.8% of black patients had had a cardiac procedure; the odds were almost three times greater in white than in black patients (adjusted odds ratio, 2.92 [95% CI, 2.04 to 4.18]). During follow-up, white patients were only 1.4 times more likely than black patients to have a procedure (adjusted relative risk, 1.41 [CI, 1.13 to 1.77]); rates were 7.8% for white persons and 8.5% for black persons. In patients with Medicare coverage before development of ESRD, the initial three-fold difference in procedure use was eliminated over follow-up (odds ratio, 1.05 [CI, 0.56 to 1.60]). For procedures after hospital admission for myocardial infarction or coronary disease, no difference between ethnic groups was seen during follow-up (relative risk, 1.12 [CI, 0.68 to 1.85]).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Differences between ethnic groups in use of cardiovascular procedures narrowed markedly once a serious illness (ESRD) developed and adequate insurance coverage was ensured; the disparity was eliminated in patients with previous Medicare insurance or a stronger indication for a procedure. These findings suggest that almost equal access to care is attainable by combining insurance with delivery of comprehensive, clinically appropriate care.</AbstractText>
+            </Abstract>
+            <Affiliation>Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Daumit</LastName>
+                    <ForeName>G L</ForeName>
+                    <Initials>GL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hermann</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coresh</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Powe</LastName>
+                    <ForeName>N R</ForeName>
+                    <Initials>NR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32HLO7024</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01DK47797</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Ann Intern Med</MedlineTA>
+            <NlmUniqueID>0372351</NlmUniqueID>
+            <ISSNLinking>0003-4819</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Ann Intern Med. 1999 Feb 2;130(3):231-3</RefSource>
+                <PMID Version="1">10049202</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">African Americans</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Angioplasty</DescriptorName>
+                <QualifierName MajorTopicYN="Y">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cardiac Catheterization</DescriptorName>
+                <QualifierName MajorTopicYN="Y">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Artery Bypass</DescriptorName>
+                <QualifierName MajorTopicYN="Y">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Data Interpretation, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">European Continental Ancestry Group</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Insurance, Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocardial Revascularization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Socioeconomic Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>3</Hour>
+                <Minute>15</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>11</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>3</Hour>
+                <Minute>15</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10049195</ArticleId>
+            <ArticleId IdType="pii">199902020-00002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10051074</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0342-4642</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>25</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Intensive care medicine</Title>
+                <ISOAbbreviation>Intensive Care Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Noninvasive pressure support ventilation (NIPSV) with face mask in patients with acute cardiogenic pulmonary edema (ACPE)</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To assess (1) the short-term hemodynamic, respiratory and arterial blood gas effects of NIPSV in patients with ACPE who were likely to require endotracheal intubation, (2) the initial causes of failure and (3) the side effects and the difficulties of this technique.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Uncontrolled, prospective clinical study.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Teaching hospital intensive care unit.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">26 consecutive patients with severe ACPE. Interventions: Noninvasive ventilation via a face mask, using a pressure support mode (20.5+/-4.7 cm H2O), with an initial fractional inspired oxygen of 93.0+/-16% and a positive end-expiratory pressure of 3.5+/-2.3 cm H2O. The need to intubate the patients within 48 h was considered as a criterion of failure of the procedure.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND RESULTS" NlmCategory="RESULTS">Clinical and biological parameters were measured at 15 and 30 minutes, 1 h and 2 h and at 1 h and 2 h, respectively. There were 5 (21%) failures and 21 (79%) successes. In both the success and the failure groups, clinical and blood gas parameters improved at the first measure. In the success group, within 15 min of the start of NIPSV, pulse oximetry saturation (SpO2) had increased from 84+/-12 to 96+/-4% (p&lt;0.001), the respiratory rate (RR) had decreased from 36+/-5.3 to 22.4+/-4.9 breaths/ min (p&lt;0.0001) and within 1 h the arterial oxygen tension and pH, respectively, had increased from 61+/-14 to 270+/-126 mm Hg (p&lt;0.0001) and from 7.25+/-0.11 to 7.34+/-0.07 (p&lt;0.01) and the arterial carbon dioxide tension (PaCO2) had decreased from 54.2+/-15 to 43.4+/-6.4 mm Hg (p&lt;0.01). There were no statistical differences between the success and failure groups for the initial clinical parameters: SpO2, RR, heart rate, mean arterial pressure. The only differences between the success and failure groups were in the PaCO2 (54.2+/-15 vs. 32+/-2.1 mm Hg, p&lt;0.001) and the creatine kinase (CPK) (176+/-149 vs. 1282+/-2080 IU/l, p&lt;0.05); this difference in CPK activity was related to the number of patients who had an acute myocardial infarction (AMI) (4/5 in the failure group vs. 2/21 in the success group, p&lt;0.05). All patients with AMI in the failure group died.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Among patients in acute respiratory failure, those with severe ACPE could benefit from NIPSV if they are hypercapnic, but NIPSV should be avoided in those with AMI.</AbstractText>
+            </Abstract>
+            <Affiliation>Service de Réanimation Médicale et Centre Anti Poisons, Hôpitaux Universitaires de Strasbourg, France.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rusterholtz</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kempf</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berton</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gayol</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tournoud</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zaehringer</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jaeger</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sauder</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Intensive Care Med</MedlineTA>
+            <NlmUniqueID>7704851</NlmUniqueID>
+            <ISSNLinking>0342-4642</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Intensive Care Med. 1999 Jan;25(1):1-2</RefSource>
+                <PMID Version="1">10051070</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acute Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Gas Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hemodynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Masks</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Positive-Pressure Respiration</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pulmonary Edema</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pulmonary Ventilation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Distress Syndrome, Adult</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10051074</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

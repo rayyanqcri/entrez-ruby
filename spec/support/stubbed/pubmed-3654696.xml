@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">3654696</PMID>
+        <DateCreated>
+            <Year>1987</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1987</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9355</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>69</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>1987</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of bone and joint surgery. American volume</Title>
+                <ISOAbbreviation>J Bone Joint Surg Am</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dislocation of the acromioclavicular joint. An end-result study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1045-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The cases of 127 patients who had an acute dislocation of the acromioclavicular joint were studied. Fifty-two patients, with an average follow-up of 10.8 years, were managed operatively, and seventy-five patients, with an average follow-up of 9.5 years, were managed non-operatively. Using a rating system that included subjective, objective, and roentgenographic criteria, it did not appear that reduction of the acromioclavicular joint was necessary to obtain consistently good results. Operative management, using either coracoclavicular or acromioclavicular fixation, was associated with a higher rate of complications than non-operative treatment. The use of a sling for four weeks without reduction of the joint, followed by a graduated exercise program, led to acceptable clinical results. In patients who had persistent pain and stiffness of the acromioclavicular joint, or in whom symptomatic post-traumatic arthritis developed, resection of the distal part of the clavicle reliably produced significant improvement.</AbstractText>
+            </Abstract>
+            <Affiliation>Division of Orthopaedics, University of North Carolina School of Medicine, Chapel Hill 27514.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Taft</LastName>
+                    <ForeName>T N</ForeName>
+                    <Initials>TN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>F C</ForeName>
+                    <Initials>FC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oglesby</LastName>
+                    <ForeName>J W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Bone Joint Surg Am</MedlineTA>
+            <NlmUniqueID>0014030</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acromioclavicular Joint</DescriptorName>
+                <QualifierName MajorTopicYN="Y">injuries</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Nails</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Screws</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clavicle</DescriptorName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dislocations</DescriptorName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Orthotic Devices</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1987</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1987</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1987</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">3654696</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

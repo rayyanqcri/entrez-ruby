@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10022284</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0378-4274</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>102-103</Volume>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Dec</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicology letters</Title>
+                <ISOAbbreviation>Toxicol. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Photocarcinogenicity of drugs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>389-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A number of commonly used medications including quinolone antibiotics, psoralens and various tetracycline derivatives are photosensitizers. These chemicals enhance the erythema response to sunlight. The effect of such exposures on cancer risk has only been quantified in humans for oral psoralen photochemotherapy (PUVA). The experience of a cohort of 1380 patients followed for more than 20 years who received PUVA therapy for the treatment of psoriasis documents that long-term high dose exposure to PUVA greatly increases the risk of squamous cell carcinoma. After 15 years, the risk of melanoma is also increased among high dose patients. With PUVA therapy, an agent which is immunosuppressive in the skin, induces psoralen DNA adducts, is genotoxic and mutagenic. Substantially increased risk is only observed after many purposeful exposures to ultraviolet and this drug. These data suggest that at least some photosensitizing chemicals can substantially increase the risk of skin cancer in humans, but long-term multiple exposures appear to be necessary for a clinical meaningful increase of risk.</AbstractText>
+            </Abstract>
+            <Affiliation>Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. rstern@bidmc.harvard.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stern</LastName>
+                    <ForeName>R S</ForeName>
+                    <Initials>RS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>Toxicol Lett</MedlineTA>
+            <NlmUniqueID>7709027</NlmUniqueID>
+            <ISSNLinking>0378-4274</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">PUVA Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022284</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

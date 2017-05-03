@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10022110</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0098-7484</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>281</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA</Title>
+                <ISOAbbreviation>JAMA</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sexual dysfunction in the United States: prevalence and predictors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>537-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">While recent pharmacological advances have generated increased public interest and demand for clinical services regarding erectile dysfunction, epidemiologic data on sexual dysfunction are relatively scant for both women and men.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the prevalence and risk of experiencing sexual dysfunction across various social groups and examine the determinants and health consequences of these disorders.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Analysis of data from the National Health and Social Life Survey, a probability sample study of sexual behavior in a demographically representative, 1992 cohort of US adults.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">A national probability sample of 1749 women and 1410 men aged 18 to 59 years at the time of the survey.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Risk of experiencing sexual dysfunction as well as negative concomitant outcomes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sexual dysfunction is more prevalent for women (43%) than men (31%) and is associated with various demographic characteristics, including age and educational attainment. Women of different racial groups demonstrate different patterns of sexual dysfunction. Differences among men are not as marked but generally consistent with women. Experience of sexual dysfunction is more likely among women and men with poor physical and emotional health. Moreover, sexual dysfunction is highly associated with negative experiences in sexual relationships and overall well-being.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results indicate that sexual dysfunction is an important public health concern, and emotional problems likely contribute to the experience of these problems.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Sociology, University of Chicago, Ill 60637, USA. ob01@midway.uchicago.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Laumann</LastName>
+                    <ForeName>E O</ForeName>
+                    <Initials>EO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paik</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosen</LastName>
+                    <ForeName>R C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01-HD28356</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>JAMA</MedlineTA>
+            <NlmUniqueID>7501160</NlmUniqueID>
+            <ISSNLinking>0098-7484</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>JAMA. 1999 Oct 6;282(13):1229</RefSource>
+                <PMID Version="1">10517424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>JAMA 1999 Apr 7;281(13):1174</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Erectile Dysfunction</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Population Surveillance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quality of Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sexual Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sexual Dysfunction, Physiological</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sexual Dysfunctions, Psychological</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022110</ArticleId>
+            <ArticleId IdType="pii">joc80785</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

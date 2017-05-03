@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10025501</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-9993</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>80</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of physical medicine and rehabilitation</Title>
+                <ISOAbbreviation>Arch Phys Med Rehabil</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Acute hospitalization and discharge outcome of neurologically intact trauma patients sustaining thoracolumbar vertebral fractures managed conservatively with thoracolumbosacral orthoses and physical therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>221-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To identify the acute hospital discharge functional status achieved and the amount of physical therapy (PT) and occupational therapy (OT) received by neurologically intact patients with thoracolumbar vertebral fractures managed only by bracing with a custom-molded thoracolumbosacral orthosis (TLSO). These patients would be expected to ambulate independently soon after receiving their TLSOs unless they had concomitant lower extremity injuries, but they may need assistance with lower extremity activities of daily living.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Retrospective study.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Urban, level I trauma center.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Twenty-seven subjects who sustained one or more thoracolumbar fractures, were neurologically intact, and were managed nonoperatively with a custom-molded TLSO.</AbstractText>
+                <AbstractText Label="OUTCOME MEASURES" NlmCategory="METHODS">Median time to TLSO arrival, start of PT, number of PT sessions, time to ambulate independently from admission, and length of stay (LOS).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Median time to TLSO arrival was 2 days, start of PT was 4 days, number of PT sessions was one, time to ambulate independently from admission was 3(1/2) days, and LOS was 5 days. Subjects with lower extremity fractures required significantly (p &lt; .037) more PT sessions to achieve independent ambulation than those without lower extremity fractures. Almost 89% of the subjects ambulated independently with or without an assistive device at discharge. Fifty-nine percent of subjects were discharged home the day they cleared PT for independent ambulation. Only 11% of the subjects received OT.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A majority of neurologically intact patients with thoracolumbar fractures managed conservatively with a TLSO ambulate independently after receiving one or two sessions of PT and can be discharged home on the same day of PT clearance. Patients with lower-extremity fractures need more PT to achieve independent ambulation. The consequences of a minority of these patients being evaluated and seen by OT are not fully known. Future research may be able to document the need for more OT services.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Physical Medicine and Rehabilitation, UMDNJ-New Jersey, Medical School, Newark, NJ, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Melchiorre</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Arch Phys Med Rehabil</MedlineTA>
+            <NlmUniqueID>2985158R</NlmUniqueID>
+            <ISSNLinking>0003-9993</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acute Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disability Evaluation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hospitalization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Length of Stay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lumbar Vertebrae</DescriptorName>
+                <QualifierName MajorTopicYN="Y">injuries</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Orthotic Devices</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Patient Discharge</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Physical Therapy Modalities</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spinal Fractures</DescriptorName>
+                <QualifierName MajorTopicYN="Y">rehabilitation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thoracic Vertebrae</DescriptorName>
+                <QualifierName MajorTopicYN="Y">injuries</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10025501</ArticleId>
+            <ArticleId IdType="pii">S0003-9993(99)90125-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

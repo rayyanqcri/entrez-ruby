@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10051289</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4539</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>99</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Mar</Month>
+                        <Day>2</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Circulation</Title>
+                <ISOAbbreviation>Circulation</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Addition of angiotensin II receptor blockade to maximal angiotensin-converting enzyme inhibition improves exercise capacity in patients with severe congestive heart failure.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>990-2</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Incomplete suppression of the renin-angiotensin system during long-term ACE inhibition may contribute to symptomatic deterioration in patients with severe congestive heart failure (CHF). Combined angiotensin II type I (AT1) receptor blockade and ACE inhibition more completely suppresses the activated renin-angiotensin system than either intervention alone in sodium-depleted normal individuals. Whether AT1 receptor blockade with losartan improves exercise capacity in patients with severe CHF already treated with ACE inhibitors is unknown.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Thirty-three patients with severe CHF despite treatment with maximally recommended or tolerated doses of ACE inhibitors were randomized 1:1 to receive 50 mg/d losartan or placebo for 6 months in addition to standard therapy in a multicenter, double-blind trial. Peak aerobic capacity (V(O2)) during symptom-limited treadmill exercise and NYHA functional class were determined at baseline and after 3 and 6 months of double-blind therapy. Peak V(O2) at baseline and after 3 and 6 months were 13.5+/-0.6, 15.1+/-1.0, and 15.7+/-1.1 mL. kg-1. min-1, respectively, in patients receiving losartan and 14.1+/-0.6, 14.3+/-0.9, and 13.6+/-1.1 mL. kg-1. min-1, respectively, in patients receiving placebo (P&lt;0.02 for treatment group-by-time interaction). Functional class improved by at least one NYHA class in 9 of 16 patients receiving losartan and 1 of 17 patients receiving placebo.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Losartan enhances peak exercise capacity and alleviates symptoms in patients with CHF who are severely symptomatic despite treatment with maximally recommended or tolerated doses of ACE inhibitors.</AbstractText>
+            </Abstract>
+            <Affiliation>Departments of Medicine, Divisions of Cardiology, The Albert Einstein College of Medicine, Bronx, NY, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hamroff</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katz</LastName>
+                    <ForeName>S D</ForeName>
+                    <Initials>SD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mancini</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blaufarb</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bijou</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jondeau</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olivari</LastName>
+                    <ForeName>M T</ForeName>
+                    <Initials>MT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Jemtel</LastName>
+                    <ForeName>T H</ForeName>
+                    <Initials>TH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Multicenter Study</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Circulation</MedlineTA>
+            <NlmUniqueID>0147763</NlmUniqueID>
+            <ISSNLinking>0009-7322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Angiotensin Receptor Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Angiotensin-Converting Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>114798-26-4</RegistryNumber>
+                <NameOfSubstance>Losartan</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Angiotensin Receptor Antagonists</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Angiotensin-Converting Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Exercise</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Losartan</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10051289</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10029647</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-4793</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>340</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New England journal of medicine</Title>
+                <ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effect of race and sex on physicians' recommendations for cardiac catheterization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>618-26</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Epidemiologic studies have reported differences in the use of cardiovascular procedures according to the race and sex of the patient. Whether the differences stem from differences in the recommendations of physicians remains uncertain.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We developed a computerized survey instrument to assess physicians' recommendations for managing chest pain. Actors portrayed patients with particular characteristics in scripted interviews about their symptoms. A total of 720 physicians at two national meetings of organizations of primary care physicians participated in the survey. Each physician viewed a recorded interview and was given other data about a hypothetical patient. He or she then made recommendations about that patient's care. We used multivariate logistic-regression analysis to assess the effects of the race and sex of the patients on treatment recommendations, while controlling for the physicians' assessment of the probability of coronary artery disease as well as for the age of the patient, the level of coronary risk, the type of chest pain, and the results of an exercise stress test.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The physicians' mean (+/-SD) estimates of the probability of coronary artery disease were lower for women (probability, 64.1+/-19.3 percent, vs. 69.2+/-18.2 percent for men; P&lt;0.001), younger patients (63.8+/-19.5 percent for patients who were 55 years old, vs. 69.5+/-17.9 percent for patients who were 70 years old; P&lt;0.001), and patients with nonanginal pain (58.3+/-19.0 percent, vs. 64.4+/-18.3 percent for patients with possible angina and 77.1+/-14.0 percent for those with definite angina; P=0.001). Logistic-regression analysis indicated that women (odds ratio, 0.60; 95 percent confidence interval, 0.4 to 0.9; P=0.02) and blacks (odds ratio, 0.60; 95 percent confidence interval, 0.4 to 0.9; P=0.02) were less likely to be referred for cardiac catheterization than men and whites, respectively. Analysis of race-sex interactions showed that black women were significantly less likely to be referred for catheterization than white men (odds ratio, 0.4; 95 percent confidence interval, 0.2 to 0.7; P=0.004).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our findings suggest that the race and sex of a patient independently influence how physicians manage chest pain.</AbstractText>
+            </Abstract>
+            <Affiliation>Clinical Economics Research Unit, Georgetown University Medical Center, Washington, DC 20007, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schulman</LastName>
+                    <ForeName>K A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berlin</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harless</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerner</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sistrunk</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gersh</LastName>
+                    <ForeName>B J</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dubé</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taleghani</LastName>
+                    <ForeName>C K</ForeName>
+                    <Initials>CK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>J E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eisenberg</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escarce</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HS07315</GrantID>
+                    <Acronym>HS</Acronym>
+                    <Agency>AHRQ HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>N Engl J Med</MedlineTA>
+            <NlmUniqueID>0255562</NlmUniqueID>
+            <ISSNLinking>0028-4793</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>E</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Jul 22;341(4):279-83; discussion 286-7</RefSource>
+                <PMID Version="1">10413743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Dec 23;341(26):2021-2</RefSource>
+                <PMID Version="1">10617404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Dec 23;341(26):2021; author reply 2022</RefSource>
+                <PMID Version="1">10617403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Jul 22;341(4):285; author reply 286-7</RefSource>
+                <PMID Version="1">10419386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Jul 22;341(4):285-7</RefSource>
+                <PMID Version="1">10419387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>N Engl J Med 1999 Apr 8;340(14):1130</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">African Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Angina Pectoris</DescriptorName>
+                <QualifierName MajorTopicYN="Y">ethnology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Attitude of Health Personnel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cardiac Catheterization</DescriptorName>
+                <QualifierName MajorTopicYN="Y">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chest Pain</DescriptorName>
+                <QualifierName MajorTopicYN="Y">ethnology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">ethnology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Data Collection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Decision Making</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">European Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Patient Selection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Physicians</DescriptorName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Physicians, Family</DescriptorName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Primary Health Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sex Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="KIE">60948</OtherID>
+        <KeywordList Owner="KIE">
+            <Keyword MajorTopicYN="N">American Academy of Family Practice</Keyword>
+            <Keyword MajorTopicYN="N">American College of Physicians</Keyword>
+            <Keyword MajorTopicYN="N">Empirical Approach</Keyword>
+            <Keyword MajorTopicYN="N">Professional Patient Relationship</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="KIE">KIE BoB Subject Heading: selection for treatment</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Schulman, Kevin A</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Berlin, Jesse A</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Harless, William</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Kerner, Jon F</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Sistrunk, Shyrl</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Gersh, Bernard J</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Dubé, Ross</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Taleghani, Christopher K</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Burke, Jennifer E</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Williams, Sankey</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Eisenberg, John M</GeneralNote>
+        <GeneralNote Owner="KIE">Full author name: Escarce, José J</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>3</Hour>
+                <Minute>3</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>3</Hour>
+                <Minute>3</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10029647</ArticleId>
+            <ArticleId IdType="doi">10.1056/NEJM199902253400806</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

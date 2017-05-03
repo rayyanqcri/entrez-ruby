@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10025458</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0004-0010</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>134</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of surgery (Chicago, Ill. 1960)</Title>
+                <ISOAbbreviation>Arch Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selective decontamination of the digestive tract in surgical patients: a systematic review of the evidence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>170-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the comparative efficacy of selective decontamination of the digestive tract in critically ill surgical and medical patients, and in selected subgroups of surgical patients with pancreatitis, major burn injury, and those undergoing major elective surgery and transplantation.</AbstractText>
+                <AbstractText Label="DATA SOURCES" NlmCategory="METHODS">The MEDLINE database was searched from January 1966 to December 1996 using the terms &quot;decontamination or prophylaxis,&quot; &quot;intensive care units,&quot; and &quot;antibiotics.&quot; The search was limited to English-language studies evaluating the efficacy of selective decontamination of the digestive tract in human subjects.</AbstractText>
+                <AbstractText Label="STUDY SELECTION" NlmCategory="METHODS">The primary review was restricted to prospective randomized trials.</AbstractText>
+                <AbstractText Label="DATA EXTRACTION" NlmCategory="METHODS">End points of interest included rates of nosocomial pneumonia, bacteremia, urinary tract infection, wound infection, mortality, and length of intensive care unit stay. Methodologic quality of individual studies was assessed using a previously described model.</AbstractText>
+                <AbstractText Label="DATA SYNTHESIS" NlmCategory="RESULTS">Odds ratios (ORs) together with their (95% confidence interval [Cls]) were reported and determined using the Mantel-Haenszel method. Mortality was significantly reduced with the use of selective decontamination of the digestive tract in critically ill surgical patients (OR, 0.7, 95% CI, 0.52-0.93), while no such effect was demonstrated in critically ill medical patients (OR, 0.91; 95% CI, 0.71-1.18). The greatest effect was demonstrated in studies where both the topical and systemic components of the regimen were used. Rates of pneumonia were reduced in both subsets of patients, while those of bacteremia were significantly reduced only in surgical patients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Selective decontamination of the digestive tract notably reduces mortality in critically ill surgical patients, while critically ill medical patients derive no such benefit. These data suggest that the use of selective decontamination of the digestive tract should be limited to those populations in whom rates of nosocomial infection are high and in whom infection contributes notably to adverse outcome.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Surgery, University of Toronto, Ontario, Canada.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nathens</LastName>
+                    <ForeName>A B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marshall</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Arch Surg</MedlineTA>
+            <NlmUniqueID>9716528</NlmUniqueID>
+            <ISSNLinking>0004-0010</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>N</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>ACP J Club. 1999 Sep-Oct;131(2):37</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Antibiotic Prophylaxis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Critical Illness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Digestive System</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Organ Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pancreatitis</DescriptorName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Surgical Procedures, Elective</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Surgical Procedures, Operative</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>76</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10025458</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

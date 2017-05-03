@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10027033</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0001-5172</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>43</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta anaesthesiologica Scandinavica</Title>
+                <ISOAbbreviation>Acta Anaesthesiol Scand</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lack of pre-emptive analgesic effect of (R)-ketamine in laparoscopic cholecystectomy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>220-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">This study evaluated the pre-emptive analgesic effect of intravenous (i.v.) (R)-ketamine in laparoscopic cholecystectomy. (R)-ketamine was used due to the lower incidence of side-effects.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Sixty patients who underwent surgery under general anesthesia were randomly allocated to 3 groups and studied in a double-blind manner. Two i.v. injections were administered: one after induction of anesthesia, approximately 3 min before surgery, and one after surgery. The placebo group (PLA, n = 20) received saline in both injections. The preoperative group (PRE, n = 20) received (R)-ketamine 1 mg/kg and then saline. The postoperative group (POST, n = 20) received saline and then (R)-ketamine 1 mg/kg. Postoperatively, the patients used a patient-controlled analgesia (PCA) pump. Pain was evaluated with a visual analog scale (VAS) at 30 min and every hour for 4 h and with a verbal rating scale (VRS) at 24 h and after 7 days.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were no occurrence of side-effects from (R)-ketamine. VAS and VRS at 1, 2, 3, and 4 h postoperatively showed no statistical differences. In the POST group, extubation was delayed and pain score (VAS) at 30 min postoperatively was significantly lower (P &lt; 0.05) than the two other groups. There were no statistical differences in meperidine consumption during the first 4 h postoperatively and no differences in consumption of analgesics at 24 h and 7 days.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this study a 1 mg/kg dose of (R)-ketamine given at the end of surgery exerted a short-lasting hypnotic and analgesic effect. The same dose given preoperatively did not show postoperative analgesic effect or pre-emptive effect.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Pharmacology, Oslo University School of Medicine, Norway.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mathisen</LastName>
+                    <ForeName>L C</ForeName>
+                    <Initials>LC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aasbø</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raeder</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>DENMARK</Country>
+            <MedlineTA>Acta Anaesthesiol Scand</MedlineTA>
+            <NlmUniqueID>0370270</NlmUniqueID>
+            <ISSNLinking>0001-5172</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Analgesics, Opioid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anesthetics, Dissociative</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57-42-1</RegistryNumber>
+                <NameOfSubstance>Meperidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6740-88-1</RegistryNumber>
+                <NameOfSubstance>Ketamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Analgesia, Patient-Controlled</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Analgesics, Opioid</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anesthesia, General</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anesthetics, Dissociative</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cholecystectomy, Laparoscopic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ketamine</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Meperidine</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pain Measurement</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10027033</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

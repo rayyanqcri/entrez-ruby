@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10027447</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-3692</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>115</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chest</Title>
+                <ISOAbbreviation>Chest</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A randomized and controlled trial of the effect of treatment aimed at maximizing oxygen delivery in patients with severe sepsis or septic shock.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>453-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the effects of increased oxygen delivery on mortality and morbidity.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Randomized, controlled trial.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Medical-surgical ICU of a tertiary care hospital.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Sixty-three patients classified according to predetermined criteria as having severe sepsis or septic shock.</AbstractText>
+                <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">The patients were randomly assigned to one of two groups: the control group (n = 32) received conventional therapy with a normal targeted value of oxygen delivery, and the treatment group (n = 31) received therapy with a targeted oxygen delivery index (DO2I) value of &gt; 600 mL/min/m2. The therapeutic approach to maintain BP, arterial saturation, hemoglobin concentration, and pulmonary artery occlusion pressure was similar in both groups.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">The hemodynamic, oxygen transport, and gastric intramucosal pH measurements were recorded at the time of admission to the study and every 6 h for the next 96 h. The outcome measures were the rate of patient mortality and the number of organ dysfunctions occurring during the ICU stay. The study groups were similar with respect to demographics and admission hemodynamic variables, but the percentage of patients with positive blood cultures was significantly higher in the control group than in the treatment group, respectively: 34 vs 13% (p = 0.04). The average cardiac index was significantly higher in the treatment group than in the control group, respectively: 3.96 vs 3.05 L/min/m2 (p = 0.01). This factor did not significantly affect the DO2I. Nine of the 31 treatment group patients reached an average DO2I value of &gt; 600 mL/min/m2. The rate of mortality in the control group patients up to the time of ICU discharge (66%) was similar to that seen in the treatment group (74%), respectively: 21 of 32 vs 23 of 31 (p = 0.46). The number of dysfunctional organs per patient was also similar in the control and treatment groups, respectively: 2.1+/-1.1 vs 2.6+/-1.2 (p = 0.12).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Treatment aimed at maximizing oxygen delivery in patients with severe sepsis or septic shock does not reduce mortality or morbidity.</AbstractText>
+            </Abstract>
+            <Affiliation>Hospital Universitario de Getafe, Madrid, Spain.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alía</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esteban</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordo</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lorente</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diaz</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frutos</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Chest</MedlineTA>
+            <NlmUniqueID>0231335</NlmUniqueID>
+            <ISSNLinking>0012-3692</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Chest. 1999 Oct;116(4):1145</RefSource>
+                <PMID Version="1">10531197</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Length of Stay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multiple Organ Failure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sepsis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Shock, Septic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10027447</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

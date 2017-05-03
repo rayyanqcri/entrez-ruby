@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10051073</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0342-4642</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>25</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Intensive care medicine</Title>
+                <ISOAbbreviation>Intensive Care Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The use of noninvasive pressure support ventilation for severe respiratory insufficiency due to pulmonary oedema.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>15-20</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Experimental use of noninvasive pressure support ventilation (NIPSV) in patients with severe pulmonary oedema who would have been intubated if noninvasive ventilation were not available.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Open, prospective, within patients non comparative study.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Internal intensive care unit (11 beds) at a university hospital. Patients: 29 patients with severe respiratory distress and confirmed pulmonary oedema.</AbstractText>
+                <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">NIPSV was applied via a tight fitting face mask delivering between 13 and 24 cm H2O inspiratory airway pressure and 2 to 8 cm H2O expiratory airway pressure.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND RESULTS" NlmCategory="RESULTS">One patient required endotracheal intubation. Mean plethysmographic oxygen saturation rose significantly within 30 min from 73.8+/-11 to 90.3+/-5%, while the oxygen supply was reduced from 7.3+/-3.7 to 5.1+/-3 l/min. Mean pH increased significantly (p&lt;0.01) from 7.22+/-0.1 before NIPSV to 7.31+/-0.07 after 60 min of NIPSV. Partial pressure of carbon dioxide was 62+/-18.5 mmHg but decreased significantly within 60 min to 48.4+/-11.5 mm Hg. Heart rate and-blood pressure stabilised continuously during the observation time. Mean duration of NIPSV was 6 h 9 min (range 60 min to 24 h). There were no serious side effects. Four patients died from underlying diseases between 1 and 28 days after NIPSV.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">NIPSV is a highly effective technique with which to treat patients with severe cardiogenic pulmonary oedema.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Cardiology, Angiology and Pneumology, Otto-von-Guericke University, Magdeburg, Germany.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hoffmann</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Welte</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Intensive Care Med</MedlineTA>
+            <NlmUniqueID>7704851</NlmUniqueID>
+            <ISSNLinking>0342-4642</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Intensive Care Med. 1999 Jan;25(1):1-2</RefSource>
+                <PMID Version="1">10051070</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Masks</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Positive-Pressure Respiration</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pulmonary Edema</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pulmonary Ventilation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Insufficiency</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10051073</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

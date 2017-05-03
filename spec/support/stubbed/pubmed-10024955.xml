@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10024955</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0942-2056</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Knee surgery, sports traumatology, arthroscopy</Title>
+                <ISOAbbreviation>Knee Surg Sports Traumatol Arthrosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complications following arthroscopic anterior cruciate ligament reconstruction. A 2-5-year follow-up of 604 patients with special emphasis on anterior knee pain.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The aim of the study was to assess knee function after arthroscopic anterior cruciate ligament reconstruction and to analyse complications impeding rehabilitation, additional surgery until the final follow-up, as well as residual patellofemoral pain and donor-site problems. Between 1991 and 1994, 635 patients were operated on using patellar tendon autografts and interference screw fixation. Of these, 604 (95.1%) patients (403 male and 201 female) were re-examined by independent observers at the final follow-up 38 (range 21-68) months post-operatively. The Lysholm score was 85 (range 14-100) points and the Tegner activity level was 6 (range 1-10). Using the IKDC score, 206 patients (34.1%) were classified as normal, 244 (40.4%) as nearly normal, 122 (20.2%) as abnormal and 32 (5.3%) as severely abnormal. In patients with an uninjured contralateral knee (n = 527), the KT-1000 revealed a total side-to-side difference of 1.5 (range -7-11) mm, and 384/527 (72.9%) had a side-to-side difference of &lt; or = 3 mm. The one-leg-hop test was 95% (range 0%-167%). One or more complications impeding rehabilitation were recorded in 184/604 patients (30.5%). The most common was an extension deficit (&gt; 5 degrees), in 81 patients (13.4%). During the period until the final follow-up, 196 re-operations were performed in 161/604 (26.7%) patients. More than one re-operation was required in 27 patients. Shaving and anterior scar resection due to extension deficit were the most common procedures performed (on 65 occasions). Moderate to severe subjective anterior knee pain related to activity, walking up and down stairs, and sitting with the knee flexed was found in 203/604 patients (33.6%). The median loss of anterior knee sensitivity was 16 (range 0-288) cm2. Patients with a full range of motion had less anterior knee pain than patients with isolated flexion or extension deficits, or combined flexion and extension deficits (P &lt; 0.05, P = 0.08 and P &lt; 0.001, respectively). Patients with a full range of motion had less anterior knee pain than patients with extension deficits (with and without flexion deficits) (P &lt; 0.001). Patients with a full range of motion and a minimal loss (&lt; or = 4 cm2) of anterior knee sensitivity had significantly (P &lt; 0.01) less subjective anterior knee pain than patients who did not fulfil these criteria. A considerable number of complications hindering the rehabilitation and conditions requiring additional surgery until the final follow-up were recorded. Anterior knee pain and problems with knee-walking were correlated with the loss of range of motion and anterior knee sensitivity.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Orthopaedics, Norra Alvsborgs County Hospital, Trollhättan, Sweden. juri.kartus@trollhattan.mail.telia.com</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kartus</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magnusson</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stener</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brandsson</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eriksson</LastName>
+                    <ForeName>B I</ForeName>
+                    <Initials>BI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karlsson</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Knee Surg Sports Traumatol Arthrosc</MedlineTA>
+            <NlmUniqueID>9314730</NlmUniqueID>
+            <ISSNLinking>0942-2056</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anterior Cruciate Ligament</DescriptorName>
+                <QualifierName MajorTopicYN="Y">injuries</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arthroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Endoscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Knee Injuries</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Postoperative Complications</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Range of Motion, Articular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reoperation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rupture</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10024955</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

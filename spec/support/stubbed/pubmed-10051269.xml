@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10051269</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1073-449X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>159</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of respiratory and critical care medicine</Title>
+                <ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Aerobic and strength training in patients with chronic obstructive pulmonary disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>896-901</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The purpose of this study was to evaluate whether strength training is a useful addition to aerobic training in patients with chronic obstructive pulmonary disease (COPD). Forty-five patients with moderate to severe COPD were randomized to 12 wk of aerobic training alone (AERO) or combined with strength training (AERO + ST). The AERO regimen consisted of three weekly 30-min exercise sessions on a calibrated ergocycle, and the ST regimen included three series of eight to 10 repetitions of four weight lifting exercises. Measurements of peripheral muscle strength, thigh muscle cross-sectional area (MCSA) by computed tomographic scanning, maximal exercise capacity, 6-min walking distance (6MWD), and quality of life with the chronic respiratory questionnaire were obtained at baseline and after training. Thirty-six patients completed the program and constituted the study group. The strength of the quadriceps femoris increased significantly in both groups (p &lt; 0.05), but the improvement was greater in the AERO + ST group (20 +/- 12% versus 8 +/- 10% [mean +/- SD] in the AERO group, p &lt; 0.005). The thigh MCSA and strength of the pectoralis major muscle increased in the AERO + ST group by 8 +/- 13% and 15 +/- 9%, respectively (p &lt; 0.001), but not in the AERO group (3 +/- 6% and 2 +/- 10%, respectively, p &gt; 0.05). These changes were significantly different in the two study groups (p &lt; 0.01). The increase in strength of the latissimus dorsi muscle after training was modest and of similar magnitude for both groups. The changes in peak exercise work rate, 6MWD, and quality of life were comparable in the two groups. In conclusion, the addition of strength training to aerobic training in patients with COPD is associated with significantly greater increases in muscle strength and mass, but does not provide additional improvement in exercise capacity or quality of life.</AbstractText>
+            </Abstract>
+            <Affiliation>Unité de Recherche, Institut de Cardiologie et de Pneumologie de Québec, Université Laval, Ste-Foy, Québec, Canada.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bernard</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whittom</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leblanc</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jobin</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Belleau</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bérubé</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrier</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maltais</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+            <NlmUniqueID>9421642</NlmUniqueID>
+            <ISSNLinking>1073-449X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Exercise Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise Tolerance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leg</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung Diseases, Obstructive</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle Contraction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quality of Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Mechanics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Weight Lifting</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10051269</ArticleId>
+            <ArticleId IdType="doi">10.1164/ajrccm.159.3.9807034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

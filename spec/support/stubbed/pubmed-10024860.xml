@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10024860</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0828-282X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Canadian journal of cardiology</Title>
+                <ISOAbbreviation>Can J Cardiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevention of recurrent cerebral ischemic events in patients with patent foramen ovale and cryptogenic strokes or transient ischemic attacks.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>57-64</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patent foramen ovale (PFO) is found in up to 50% of patients less than 55 years of age who have had a stroke. Therapeutic options include no therapy, antiplatelet therapy, warfarin and surgical closure of the PFO.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine the relative and attributable risks of PFO for recurrent cerebral ischemic events in young patients with stroke or transient ischemic attacks. The predictors of recurrent cerebral ischemic events and the effects of different therapies on recurrence rates were sought.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Follow-up of a retrospective cohort of patients with cryptogenic stroke or transient ischemic attacks identified from an echocardiography database.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">University-based regional neurology referral centre.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Consecutive group of 90 patients less than 60 years of age who underwent transesophageal echocardiography following a cryptogenic transient ischemic attack (TIA) or stroke (cerebrovascular accident [CVA]) between 1991 and 1997.</AbstractText>
+                <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">Structured telephone interviews and chart reviews.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty-two patients had a PFO, and 38 patients did not have a PFO. During a mean follow-up of 46 months, 19 recurrent cerebral ischemic events (12 TIA and seven CVA) occurred in 14 patients with PFO, and eight recurrent events (three TIA and five CVA) occurred in six patients without PFO. The recurrence rates were 12% and 5%/patient/year in the PFO and control groups, respectively, for a crude recurrence rate ratio of 2.39 (95% CI 1.01 to 6.32, P &lt; 0.03). The attributable risk of PFO in recurrent neurological events was 7%/patient/year. In a Cox regression model, predictors of recurrent neurological events were presence of PFO (hazard ratio 5.27, 95% CI 1.58 to 17.6, P &lt; 0.007), history of migraine (hazard ratio 4.54, 95% CI 1.11 to 18.52, P &lt; 0.035), hypertension requiring therapy (hazard ratio 3.5, 95% CI 1.33 to 9.01, P &lt; 0.01), and antiplatelet or no therapy instead of warfarin therapy (hazard ratio 2.88, 95% CI 1.11 to 8.7, P &lt; 0.04). Fourteen patients underwent surgical closure of PFO; there were no neurological recurrences during a mean follow-up of 43 months (crude incidence rate difference 12%/patient/year, 95% CI 6.6 to 17.9, P &lt; 0.02).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Patients with PFO had a significantly higher rate of recurrent cerebral ischemic events than those without PFO. Surgical PFO closure prevented any recurrences during a mean follow-up of 43 months. Warfarin was better than antiplatelet therapy or no therapy in preventing recurrences.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medicine, University of Saskatchewan, Saskatoon. cujec@v-wave.com</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cujec</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mainra</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>D H</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>CANADA</Country>
+            <MedlineTA>Can J Cardiol</MedlineTA>
+            <NlmUniqueID>8510280</NlmUniqueID>
+            <ISSNLinking>0828-282X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerebrovascular Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Echocardiography, Transesophageal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Septal Defects, Atrial</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrasonography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Informed Consent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ischemic Attack, Transient</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Odds Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recurrence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10024860</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

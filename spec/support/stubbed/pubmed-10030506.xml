@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10030506</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1079-2082</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>56</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists</Title>
+                <ISOAbbreviation>Am J Health Syst Pharm</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Work patterns of ambulatory care pharmacists with access to electronic guideline-based treatment suggestions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>225-32</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The effects of the electronic display of guideline-based, patient-specific treatment suggestions on pharmacist work patterns were studied. A total of 28 pharmacists at a hospital-based ambulatory care pharmacy were randomly assigned to intervention and control groups. The intervention group had access to electronic treatment suggestions for heart failure, ischemic heart disease, reactive airways disease, and uncomplicated hypertension, while the control group did not. Starting 9 and 19 months after the initial display of treatment suggestions, all pharmacists recorded the time they spent on a variety of activities, the purpose of each activity, and persons contacted during the activity; these observations were recorded in response to a pager-like device that randomly buzzed four times an hour. A total of 11,102 observations were recorded. Pharmacists in the intervention group spent significantly more of their time discussing information, advising and informing, and solving problems than pharmacists in the control group but significantly less of their time checking and filling prescriptions. Pharmacists in both groups completed a majority of their work alone, but pharmacists in the intervention group worked significantly less by themselves and significantly more with other pharmacy personnel, patients, and physicians and nurses than control-group pharmacists. The delivery of patient-specific information to pharmacists at the time of dispensing had a significant positive impact on pharmacist work patterns.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Pharmacy Practice, School of Pharmacy, Purdue University, Indianapolis, IN, USA. murray_m@regenstrief.iupui.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loos</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tu</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eckert</LastName>
+                    <ForeName>G J</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>X H</ForeName>
+                    <Initials>XH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tierney</LastName>
+                    <ForeName>W M</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01-HS07763</GrantID>
+                    <Acronym>HS</Acronym>
+                    <Agency>AHRQ HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Health Syst Pharm</MedlineTA>
+            <NlmUniqueID>9503023</NlmUniqueID>
+            <ISSNLinking>1079-2082</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Clinical Pharmacy Information Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Indiana</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Outpatient Clinics, Hospital</DescriptorName>
+                <QualifierName MajorTopicYN="N">manpower</QualifierName>
+                <QualifierName MajorTopicYN="Y">organization &amp; administration</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pharmacists</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Practice Guidelines as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Task Performance and Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Workload</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10030506</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

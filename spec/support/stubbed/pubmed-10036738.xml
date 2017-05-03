@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10036738</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0044-3220</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>136</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>1998 Nov-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zeitschrift für Orthopädie und ihre Grenzgebiete</Title>
+                <ISOAbbreviation>Z Orthop Ihre Grenzgeb</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Initial results of the evaluation study of ultrasound hip screening in Germany].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>508-12</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM OF STUDY" NlmCategory="OBJECTIVE">To assess the effectiveness of a universal sonographic screening of developmental dysplasia of the hip (DDH) established in Germany since 1996.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Currently a national survey is being performed in Germany to identify infants and young children who receive inpatient treatment for DDH. Between May, 1997 and October, 1997 monthly questionnaires were sent to all pediatric orthopaedic surgeons (active surveillance) and they were asked to report all inpatient cases between 10 weeks of age and 5 years with current closed or open reduction and/or osteotomies due to DDH. Information on time and results of previous ultrasound screening as well as treatment modalities was obtained in reported cases.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">129 children (mean age at hospital admission 15.9 months, range 1.1 to 57.1 months) underwent closed reduction (n = 51), open reduction (n = 40) and osteotomies of the hip (n = 38) in the 6-month study period. Ultrasound screening has been performed too late and not at all in 45 children (35.1%). While in 18 cases (13.7%) no information could be obtained on screening results, the majority of children (n = 66, 51.2%) had completed DDH screening prior to the sixth week of life as recommended. Preliminary calculation of the unadjusted incidence of inpatient treatment for DDH in Germany was 0.33 per 1000 livebirths.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">DDH cases are still identified after introduction of an universal ultrasound hip screening in Germany. Continued evaluation must show, whether the incidence will decrease throughout the next few years.</AbstractText>
+            </Abstract>
+            <Affiliation>Orthopädische Klinik, Universität Ulm (RKU).</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Günther</LastName>
+                    <ForeName>K P</ForeName>
+                    <Initials>KP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoll</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmitz</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niethard</LastName>
+                    <ForeName>F U</ForeName>
+                    <Initials>FU</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altenhofen</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melzer</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>von Kries</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Erste Ergebnisse aus der Evaluationsstudie des sonographischen Hüftscreenings in der Bundesrepublik Deutschland.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Z Orthop Ihre Grenzgeb</MedlineTA>
+            <NlmUniqueID>1256465</NlmUniqueID>
+            <ISSNLinking>0044-3220</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Evaluation Studies as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Germany</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hip Dislocation, Congenital</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrasonography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Neonatal Screening</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Care Team</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Population Surveillance</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10036738</ArticleId>
+            <ArticleId IdType="doi">10.1055/s-2008-1045178</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

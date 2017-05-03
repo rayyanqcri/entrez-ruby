@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10023731</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1071-7323</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Obesity research</Title>
+                <ISOAbbreviation>Obes. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The impact of a shipboard weight control program.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>60-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The specific aim was to determine whether a multifaceted approach to weight loss and physical readiness could be implemented onboard a deployed combatant ship of the U.S. Navy.</AbstractText>
+                <AbstractText Label="RESEARCH METHODS AND PROCEDURES" NlmCategory="METHODS">Thirty-nine men (31+/-6 years old, mean+/-standard deviation) assigned to the USS ENTERPRISE (CVN 65) during a 6-month Mediterranean deployment who had failed their previous Physical Readiness Test due to excessive body weight (108+/-11 kg overweight) were randomly assigned to nutrition, cognitive-behavioral obesity treatment plus exercise or to the Navy's usual treatment (control), which is exercise alone.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Outcomes for the treatment group were significantly better than the controls, with 8.6+/-5.0 vs. 5.0+/-4.1 kg weight loss, 8% vs. 5% reduction in original body weight, and body fat loss of 7% vs. 5%. Triglycerides declined significantly greater in the treatment group than the controls (145 mg/dL to 109 mg/dL vs. 146 mg/dL to 145 mg/dL, p&lt;0.05), whereas depression and eating behaviors significantly improved among treated men. Problematic environmental factors were the limited variety of heart healthy foods in the galley, short meal breaks, and long mess hall lines that led to eating snacks from vending machines and frequent port calls.</AbstractText>
+                <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">Although greater weight loss than would be expected of a Navy usual care group diluted the treatment effect, the treated men still fared significantly better. The physical readiness implication of this research has the potential to impact Navy health promotion programs and policy, the health and well-being of its personnel, and the Navy's ability to meet mission requirements.</AbstractText>
+            </Abstract>
+            <Affiliation>US Naval Reserve, VA Maryland Health Care System, University of Maryland, Baltimore 21201, USA. kdennis@umaryland.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dennis</LastName>
+                    <ForeName>K E</ForeName>
+                    <Initials>KE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pane</LastName>
+                    <ForeName>K W</ForeName>
+                    <Initials>KW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>B K</ForeName>
+                    <Initials>BK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qi</LastName>
+                    <ForeName>B B</ForeName>
+                    <Initials>BB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Obes Res</MedlineTA>
+            <NlmUniqueID>9305691</NlmUniqueID>
+            <ISSNLinking>1071-7323</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Blood Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lipoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Triglycerides</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Absorptiometry, Photon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Behavior Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Pressure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Body Composition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Body Weight</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diet, Reducing</DescriptorName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Feeding Behavior</DescriptorName>
+                <QualifierName MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Military Personnel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Naval Medicine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Obesity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">psychology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ships</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Weight Loss</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10023731</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

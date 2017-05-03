@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10022414</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-972X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>84</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of clinical endocrinology and metabolism</Title>
+                <ISOAbbreviation>J. Clin. Endocrinol. Metab.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevention of femoral and lumbar bone loss with hormone replacement therapy and vitamin D3 in early postmenopausal women: a population-based 5-year randomized trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>546-52</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The long term effects of hormone replacement therapy (HRT) and vitamin D3 (Vit D) on bone mineral density (BMD) were studied. A total of 464 nonosteoporotic early postmenopausal women from the Kuopio Osteoporosis Study (n = 13100) were randomized to four groups: 1) HRT (sequential combination of 2 mg estradiol valerate and 1 mg cyproterone acetate, 2) Vit D3 (300 and 100 IU/day during the fifth year), 3) HRT and Vit D combined, and 4) placebo. Lumbar (L2-L4) and femoral neck BMD were determined by dual x-ray absorptiometry (DXA) at baseline and after 2.5 and 5 yr of treatment. Intention to treat analysis (n = 464) showed that after 5 yr, lumbar BMD remained unchanged in the HRT and HRT plus Vit D groups [+0.2% (P = 0.658) and +0.9% (P = 0.117), respectively], whereas lumbar BMD decreased by 4.6% in the Vit D group and by 4.5% in the placebo group (P &lt; 0.001 in both). The loss of femoral neck BMD was less in the HRT (-1.4%; P = 0.005) and HRT plus Vit D (-1.3%; P = 0.003) groups than in the Vit D and placebo groups (-4.3%; P &lt; 0.001 in both). Among those 370 women who complied with the 5-yr treatment, the effect was more pronounced: lumbar BMD had increased by 1.5% in the HRT (P = 0.009) and by 1.8% in the HRT plus Vit D group (P = 0.005), with a plateau after 2.5 yr, whereas lumbar BMD had decreased in both the Vit D and placebo groups (4.6% and 4.7%; P &lt; 0.001, respectively). Femoral neck BMD decreased again less in the HRT (-0.4%) and HRT plus Vit D (-0.6%) groups than in the Vit D and placebo groups (-4.4% in both). This study confirms the positive long term effect of HRT on BMD also seen in intention to treat analysis. The data suggest that low dose vitamin D3 supplementation does not prevent bone loss in healthy, nonosteoporotic, early postmenopausal women, and it confers no benefit additional to that of HRT alone.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Obstetrics and Gynecology, Kuopio University Hospital, University of Kuopio, Finland. mkomulai@uku.fi</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Komulainen</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kröger</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tuppurainen</LastName>
+                    <ForeName>M T</ForeName>
+                    <Initials>MT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heikkinen</LastName>
+                    <ForeName>A M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alhava</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honkanen</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jurvelin</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saarikoski</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Clin Endocrinol Metab</MedlineTA>
+            <NlmUniqueID>0375362</NlmUniqueID>
+            <ISSNLinking>0021-972X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Placebos</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>427-51-0</RegistryNumber>
+                <NameOfSubstance>Cyproterone Acetate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50-28-2</RegistryNumber>
+                <NameOfSubstance>Estradiol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>67-97-0</RegistryNumber>
+                <NameOfSubstance>Cholecalciferol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>979-32-8</RegistryNumber>
+                <NameOfSubstance>estradiol valerate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cyproterone Acetate</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Estradiol</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Estrogen Replacement Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Femur</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lumbar Vertebrae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteoporosis, Postmenopausal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Placebos</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Postmenopause</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022414</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

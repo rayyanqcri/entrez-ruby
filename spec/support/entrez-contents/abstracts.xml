@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article>
+  <Abstract>
+    <AbstractText NlmCategory="category1" Label="label1">abstract1</AbstractText>
+  </Abstract>
+  <Abstract>
+    <AbstractText NlmCategory="category2" Label="label2">abstract2</AbstractText>
+  </Abstract>
+  <Abstract>
+    <AbstractText NlmCategory="category3" Label="label3">abstract3</AbstractText>
+  </Abstract>
+</Article>

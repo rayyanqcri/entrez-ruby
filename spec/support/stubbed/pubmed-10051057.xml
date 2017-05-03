@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10051057</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>05</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0163-4356</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>21</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Therapeutic drug monitoring</Title>
+                <ISOAbbreviation>Ther Drug Monit</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An investigation into variability in the therapeutic response to deferiprone in patients with thalassemia major.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>74-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Data suggest a large variability in the effectiveness of the orally active iron chelator, deferiprone, in inducing a sustained decrease in body iron to concentrations compatible with the avoidance of complications from iron overload. We analyzed 19 patients with thalassemia major who were undergoing long-term therapy with deferiprone (75 mg/kg/day every 8 hours). In seven of the 19 patients, hepatic iron concentration had been reduced or maintained at less than 7 mg/g of dry weight liver tissue, associated with no evidence of iron-induced toxicity (group A). In the remaining 12, hepatic iron concentration had either stabilized at higher than 7 mg/g of dry weight liver tissue, or increased to such concentrations during therapy with deferiprone (group B). We studied in these patients determinants that may explain such variability, including initial hepatic iron concentrations, compliance, transfusion index, pharmacokinetic characteristics of deferiprone, and plasma vitamin C status. Patients in group B showed significantly decreased plasma vitamin C concentrations compared with those in group A, who demonstrated normal levels (0.04 mg/dl [0.04-0.19 mg/dl] and 0.62 mg/day [0.44-1.05 mg/day], respectively; p = 0.02). A significant difference in apparent volume of distribution (Vd/F) had developed between the groups over time, with a higher Vd/F in group B (1.66 [0.681, group A] and 3.16 [0.811, group B]; p = 0.006). Group B had started with hepatic iron concentrations that were significantly higher than those of group A, a difference that became more pronounced over time. In the initial analysis, serum ferritin concentrations were also higher in group B. The two groups did not differ in the remaining factors. The initial hepatic iron concentrations predicted the slope of change in this value. Regression analysis suggested that patients with initial hepatic iron concentration of less than or equal to 7.22 mg/g of dry weight liver tissue are unlikely to further decrease while taking deferiprone 75 mg/kg/day. Vitamin C deficiency developed in patients in group B over time. Vitamin C is an important biologic cofactor that plays a role in the distribution of iron. The trend of increase in Vd/F of deferiprone over time may imply a compartment shift of iron stores to one less accessed by deferiprone. This study confirmed the effectiveness of deferiprone in heavily iron-loaded patients and provided evidence that its effectiveness decreases in proportion to liver iron load.</AbstractText>
+            </Abstract>
+            <Affiliation>The Hospital for Sick Children, and Department of Pediatrics, Pharmacology, Pharmacy, and Medicine, The University of Toronto, Ontario, Canada.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Diav-Citrin</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Atanackovic</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koren</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Ther Drug Monit</MedlineTA>
+            <NlmUniqueID>7909660</NlmUniqueID>
+            <ISSNLinking>0163-4356</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Iron Chelating Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyridones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>30652-11-0</RegistryNumber>
+                <NameOfSubstance>deferiprone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50-81-7</RegistryNumber>
+                <NameOfSubstance>Ascorbic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7439-89-6</RegistryNumber>
+                <NameOfSubstance>Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-73-2</RegistryNumber>
+                <NameOfSubstance>Ferritins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Ther Drug Monit. 2004 Apr;26(2):following table of contents</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ascorbic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ferritins</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Iron Chelating Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Outcome Assessment (Health Care)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Compliance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyridones</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta-Thalassemia</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10051057</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

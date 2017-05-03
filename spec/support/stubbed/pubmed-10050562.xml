@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10050562</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0026-4075</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>164</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Military medicine</Title>
+                <ISOAbbreviation>Mil Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glucosamine, chondroitin, and manganese ascorbate for degenerative joint disease of the knee or low back: a randomized, double-blind, placebo-controlled pilot study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>85-91</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">A 16-week randomized, double-blind, placebo-controlled crossover trial of a combination of glucosamine HCl (1,500 mg/day), chondroitin sulfate (1,200 mg/day), and manganese ascorbate (228 mg/day) in degenerative joint disease (DJD) of the knee or low back was conducted.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty-four males from the U.S. Navy diving and special warfare community with chronic pain and radiographic DJD of the knee or low back were randomized. A summary disease score incorporated results of pain and functional questionnaires, physical examination scores, and running times. Changes were presented as a percentage of the patient's average score.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Knee osteoarthritis symptoms were relieved as demonstrated by the summary disease score (-16.3%; p = 0.05), patient assessment of treatment effect (p = 0.02), visual analog scale for pain recorded at clinic visits (-26.6%; p = 0.05) and in a diary (-28.6%; p = 0.02), and physical examination score (-43.3%; p = 0.01). Running times did not change. The study neither demonstrated, nor excluded, a benefit for spinal DJD. Side effect frequency was similar to that at baseline. There were no hematologic effects.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The combination therapy relieves symptoms of knee osteoarthritis. A larger data set is needed to determine the value of this therapy for spinal DJD. Short-term combination therapy appears safe in this setting.</AbstractText>
+            </Abstract>
+            <Affiliation>Medical Department, Naval Special Warfare Group Two, Naval Amphibious Base Little Creek, Norfolk, VA 23521, USA. occdr@aol.com</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Leffler</LastName>
+                    <ForeName>C T</ForeName>
+                    <Initials>CT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Philippi</LastName>
+                    <ForeName>A F</ForeName>
+                    <Initials>AF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leffler</LastName>
+                    <ForeName>S G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosure</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>P D</ForeName>
+                    <Initials>PD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Mil Med</MedlineTA>
+            <NlmUniqueID>2984771R</NlmUniqueID>
+            <ISSNLinking>0026-4075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Drug Combinations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Manganese Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3416-24-8</RegistryNumber>
+                <NameOfSubstance>Glucosamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50-81-7</RegistryNumber>
+                <NameOfSubstance>Ascorbic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-28-7</RegistryNumber>
+                <NameOfSubstance>Chondroitin Sulfates</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ascorbic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chondroitin Sulfates</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chronic Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Combinations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucosamine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lumbar Vertebrae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Manganese Compounds</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Military Personnel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Naval Medicine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteoarthritis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteoarthritis, Knee</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pain</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Running</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10050562</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

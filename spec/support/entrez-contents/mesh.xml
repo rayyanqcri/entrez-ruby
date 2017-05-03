@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Article>
+  <Citation>
+    <MeshHeadingList>
+      <MeshHeading>
+        <DescriptorName>mesh1</DescriptorName>
+      </MeshHeading>
+      <MeshHeading>
+        <DescriptorName>mesh2</DescriptorName>
+      </MeshHeading>
+    </MeshHeadingList>
+    <KeywordList>
+      <Keyword>mesh3</Keyword>
+    </KeywordList>
+  </Citation>
+</Article>

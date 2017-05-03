@@ -1,3 +1,5 @@
+require 'typhoeus'
+
 module RayyanScrapers
   class Hercules
     attr_accessor :enable_cache
@@ -8,8 +10,9 @@ module RayyanScrapers
       @pending_requests = 0
       @done_requests = 0
       @max_hydra_queue_length = 200
-      @logger = logger
+      @logger = logger || DummyLogger.new
       @after_kill = nil
+      @cache = nil # TODO get from params
     end
 
     # hydra_run
@@ -21,14 +24,15 @@ module RayyanScrapers
     end
 
     # hydra_queue
-    def strike(link, cached_path = nil, yield_exception = false)
+    def strike(link, cache_key = nil, yield_exception = false)
       request = Typhoeus::Request.new(link, :followlocation => true, headers: {"User-Agent"=>"Mozilla/5.0"})
-      if cached_path && self.enable_cache
+      if @cache && cache_key && self.enable_cache
         # look for cached version
-        if File.exist? cached_path
-          log "Cache hit: #{cached_path}", "debug"
-          # load from file
-          yield request, File.read(cached_path)
+        response = @cache.get(cache_key)
+        unless response.nil?
+          @logger.debug "Cache hit: #{cache_key}"
+          # load from cache
+          yield request, response
           return
         end
       end
@@ -36,26 +40,26 @@ module RayyanScrapers
         if response.code == 0
           # Could not get an http response, something's wrong.
           err = "ERROR: Unknown error (#{response}) while requesting #{link}"
-          log err, "error"
+          @logger.error err
           yield request, Exception.new(err) if yield_exception
         elsif response.timed_out?
           # aw hell no
           err = "ERROR: Timed out while requesting #{link}"
-          log err, "error"
+          @logger.error err
           yield request, Exception.new(err) if yield_exception
         elsif response.success? || response.code - 200 < 100
           # in the middle of such dead slow network/processing, I am optimizing a compare and an AND! #funny 
           begin
-            ScraperBase.saveResultsToFile cached_path, response.body if cached_path
+            @cache.set(cache_key, response.body) if @cache && cache_key && self.enable_cache
             yield request, response.body
           rescue => e
-            log "WARNING: Exception while processing response for #{link}", "warn"
-            log e, "warn"
+            @logger.warn "WARNING: Exception while processing response for #{link}"
+            @logger.warn e
           end
         else
           # Received a non-successful http response.
           err = "ERROR: HTTP request failed: #{response.code.to_s} while requesting #{link}"
-          log err, "error"
+          @logger.error err
           yield request, Exception.new(err) if yield_exception
         end
         @done_requests += 1
@@ -64,7 +68,7 @@ module RayyanScrapers
       end
       @pending_requests += 1
       @hydra.queue(request)
-      log "++++ Hydra has #{@hydra.queued_requests.length} queued requests", "debug"
+      @logger.debug "++++ Hydra has #{@hydra.queued_requests.length} queued requests"
       # prevent queue from growing too big, thus delaying hydra.run too much
       @hydra.run if @hydra.queued_requests.length > @max_hydra_queue_length
     end
@@ -76,14 +80,9 @@ module RayyanScrapers
     end
 
     def check_killed
-      log "+-+-+- pending_requests: #{@pending_requests}, done_requests: #{@done_requests}", "debug"
+      @logger.debug "+-+-+- pending_requests: #{@pending_requests}, done_requests: #{@done_requests}"
       return if !@killed || @pending_requests > 0
       @after_kill.call @done_requests if @after_kill
     end
-
-    def log(message, level = "log")
-      @logger.send(level, message) if @logger
-    end
-
   end
 end

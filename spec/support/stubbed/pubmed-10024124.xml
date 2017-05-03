@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10024124</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0025-7079</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>37</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical care</Title>
+                <ISOAbbreviation>Med Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Patient preferences for location of care: implications for regionalization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>204-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Regionalization of high-risk surgical procedures to selected high-volume centers has been proposed as a way to reduce operative mortality. For patients, however, travel to regional centers may be undesirable despite the expected mortality benefit.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the strength of patient preferences for local care.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Using a scenario of potentially resectable pancreatic cancer and a modification of the standard gamble utility assessment technique, we determined the level of additional operative mortality risk patients would accept to undergo surgery at a local rather than at a distant regional hospital in which operative mortality was assumed to be 3%. We used multiple logistic regression to identify predictors of willingness to accept additional risk.</AbstractText>
+                <AbstractText Label="SUBJECTS" NlmCategory="METHODS">One hundred consecutive patients (95% male, median age 65) awaiting elective surgery at the Veterans Affairs Medical Center in White River Jct., VT.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURE" NlmCategory="METHODS">Additional operative mortality risk patients would accept to keep care local.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All patients preferred local surgery if the operative mortality risk at the local hospital were the same as the regional hospital (3%). If local operative mortality risk were 6%, which is twice the regional risk, 45 of 100 patients would still prefer local surgery. If local risk were 12%, 23 of 100 patients would prefer local surgery. If local risk were 18%, 18 of 100 patients would prefer local surgery. Further increases in local risk did not result in large changes in the proportion of patients preferring local care.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Many patients prefer to undergo surgery locally even when travel to a regional center would result in lower operative mortality risk. Therefore, policy makers should consider patient preferences when assessing the expected value of regionalizing major surgery.</AbstractText>
+            </Abstract>
+            <Affiliation>VA Outcomes Group, Department of Veteran Affairs Medical Center, White River Junction, VT 05001, USA. samuel.r.g.finlayson@dartmouth.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Finlayson</LastName>
+                    <ForeName>S R</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Birkmeyer</LastName>
+                    <ForeName>J D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tosteson</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nease</LastName>
+                    <ForeName>R F</ForeName>
+                    <Initials>RF</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Med Care</MedlineTA>
+            <NlmUniqueID>0230027</NlmUniqueID>
+            <ISSNLinking>0025-7079</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Catchment Area (Health)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Health Services Accessibility</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hospital Mortality</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hospital Planning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hospitals, Veterans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pancreatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+                <QualifierName MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Satisfaction</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Travel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Vermont</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>4</Hour>
+                <Minute>31</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>4</Hour>
+                <Minute>31</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10024124</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

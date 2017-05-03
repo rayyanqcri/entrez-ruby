@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10036376</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0915-1753</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>9</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rinshō Biseibutsu Jinsoku Shindan Kenkyūkai shi = JARMAM : Journal of the Association for Rapid Method and Automation in Microbiology</Title>
+                <ISOAbbreviation>Rinsho Biseibutshu Jinsoku Shindan Kenkyukai Shi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Experience and clinical usefulness of BACTEC MGIT 960.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59-65</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Recently, an automatic instrument for culturing acid-fast bacteria in liquid media has been introduced in Japan to accelerate and increase the detection of the bacteria as well as the work e ciency of test lab technicians. We compared the MGIT (Mycobacterium Growth Indicator Tube) method and the two conventional culture methods used in our lab by testing 176 specimens (130 cases) submitted for acid-fast testing between July 27 and September 18, 1998. BACTEC MGIT 960 (Nippon Becton Dickinson) was used in the MGIT method while Ogawa K medium and Kudo PD medium were used for our conventional culture methods. Of the 176 specimens, 26 specimens were MGIT positive, 22 specimens were Ogawa K medium positive, and 21 specimens were Kudo PD medium positive. Among these three culture methods, M. tuberculosis was found in 8 specimens, M. avium was found in 9 specimens, M. intracellulare was found in 4 specimens, and other acid-fast bacteria were found in 5 specimens. It took an average of 13.5 days to detect M. tuberculosis by the MGIT method, 23.0 days by the Ogawa K medium, and 24.3 days by the Kudo PD medium, suggesting that the MGIT method is signi cantly faster than the conventional methods (p &lt; 0.05). The MGIT method took an average of 5.7 days to detect M. avium and M. intracellulare while the two conventional methods required more than 20 days, suggesting that the MGIT method is signi cantly faster than the conventional methods (p &lt; 0.05). The BACTEC MGIT 960 was extremely useful for clinical diagnosis in some of the cases and our results indicated that the MGIT method led to more rapid diagnosis and earlier treatment than the conventional methods.</AbstractText>
+            </Abstract>
+            <Affiliation>Clinical Laboratory, NTT Kanto Teishin Hospital, 5-9-22 Higashigotanda, Shinagawa-ku, Tokyo 141-8625, Japan.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tazawa</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishikawa</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Furuhata</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kikuchi</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okada</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>jpn</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>JAPAN</Country>
+            <MedlineTA>Rinsho Biseibutshu Jinsoku Shindan Kenkyukai Shi</MedlineTA>
+            <NlmUniqueID>9419185</NlmUniqueID>
+            <ISSNLinking>0915-1753</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Culture Media</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Bacteriological Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Culture Media</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nontuberculous Mycobacteria</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10036376</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

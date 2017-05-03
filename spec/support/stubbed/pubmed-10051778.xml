@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10051778</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>04</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0884-8734</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>14</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of general internal medicine</Title>
+                <ISOAbbreviation>J Gen Intern Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of language barriers on patient satisfaction in an emergency department.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>82-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To examine patient satisfaction and willingness to return to an emergency department (ED) among non-English speakers.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Cross-sectional survey and follow-up interviews 10 days after ED visit.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Five urban teaching hospital EDs in the Northeastern United States.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">We surveyed 2,333 patients who presented to the ED with one of six chief complaints.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Patient satisfaction, willingness to return to the same ED if emergency care was needed, and patient-reported problems with care were measured. Three hundred fifty-four (15%) of the patients reported English was not their primary language. Using an overall measure of patient satisfaction, only 52% of non-English-speaking patients were satisfied as compared with 71% of English speakers (p &lt; .01). Among non-English speakers, 14% said they would not return to the same ED if they had another problem requiring emergency care as compared with 9.5% of English speakers (p &lt; .05). In multivariate analysis adjusting for hospital site, age, gender, race/ethnicity, education, income, chief complaint, urgency, insurance status, Medicaid status, ED as the patient's principal source of care, and presence of a regular provider of care, non-English speakers were significantly less likely to be satisfied (odds ratio [OR] 0.59; 95% confidence interval [CI] 0.39, 0.90) and significantly less willing to return to the same ED (OR 0.57; 95% CI 0.34, 0.95). Non-English speakers also were significantly more likely to report overall problems with care (OR 1.70; 95% CI 1.05, 2.74), communication (OR 1.71; 95% CI 1.18, 2.47), and testing (OR 1.77; 95% CI 1.19, 2.64).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Non-English speakers were less satisfied with their care in the ED, less willing to return to the same ED if they had a problem they felt required emergency care, and reported more problems with emergency care. Strategies to improve satisfaction among this group of patients may include appropriate use of professional interpreters and increasing the language concordance between patients and providers.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medicine, Cambridge Hospital, Mass, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Carrasquillo</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orav</LastName>
+                    <ForeName>E J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brennan</LastName>
+                    <ForeName>T A</ForeName>
+                    <Initials>TA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burstin</LastName>
+                    <ForeName>H R</ForeName>
+                    <Initials>HR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2D28 PE50018-04</GrantID>
+                    <Acronym>PE</Acronym>
+                    <Agency>BHP HRSA HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Gen Intern Med</MedlineTA>
+            <NlmUniqueID>8605834</NlmUniqueID>
+            <ISSNLinking>0884-8734</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Communication Barriers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Data Collection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Emergency Service, Hospital</DescriptorName>
+                <QualifierName MajorTopicYN="Y">standards</QualifierName>
+                <QualifierName MajorTopicYN="N">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Language</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Massachusetts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Odds Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Outcome Assessment (Health Care)</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Patient Satisfaction</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10051778</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

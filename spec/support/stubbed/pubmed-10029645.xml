@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10029645</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-4793</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>340</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New England journal of medicine</Title>
+                <ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Racial differences in the outcome of left ventricular dysfunction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>609-16</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Population-based studies have found that black patients with congestive heart failure have a higher mortality rate than whites with the same condition. This finding has been attributed to differences in the severity, causes, and management of heart failure, the prevalence of coexisting conditions, and socioeconomic factors. Although these factors probably account for some of the higher mortality due to congestive heart failure among blacks, we hypothesized that racial differences in the natural history of left ventricular dysfunction might also have a role.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using data from the Studies of Left Ventricular Dysfunction (SOLVD) prevention and treatment trials, in which all patients received standardized therapy and follow-up, we conducted a retrospective analysis of the outcomes of asymptomatic and symptomatic left ventricular systolic dysfunction among black and white participants. The mean (+/-SD) follow-up was 34.2+/-14.0 months in the prevention trial and 32.3+/-14.8 months in the treatment trial among the black and white participants.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The overall mortality rates in the prevention trial were 8.1 per 100 person-years for blacks and 5.1 per 100 person years for whites. In the treatment trial, the rates were 16.7 per 100 person-years and 13.4 per 100 person-years, respectively. After adjustment for age, coexisting conditions, severity and causes of heart failure, and use of medications, blacks had a higher risk of death from all causes in both the SOLVD prevention trial (relative risk, 1.36; 95 percent confidence interval, 1.06 to 1.74; P=0.02) and the treatment trial (relative risk, 1.25; 95 percent confidence interval, 1.04 to 1.50; P=0.02). In both trials blacks were also at higher risk for death due to pump failure and for the combined end point of death from any cause or hospitalization for heart failure, our two predefined indicators of the progression of left ventricular systolic dysfunction.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Blacks with mild-to-moderate left ventricular systolic dysfunction appear to be at higher risk for progression of heart failure and death from any cause than similarly treated whites. These results suggest that there may be racial differences in the outcome of asymptomatic and symptomatic left ventricular systolic dysfunction.</AbstractText>
+            </Abstract>
+            <Affiliation>Clinical Trials Scientific Research Group, Division of Epidemiology and Clinical Application, National Heart, Lung, and Blood Institute, Bethesda, MD 20892-7936, USA. ddries@aol.com</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dries</LastName>
+                    <ForeName>D L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Exner</LastName>
+                    <ForeName>D V</ForeName>
+                    <Initials>DV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gersh</LastName>
+                    <ForeName>B J</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>H A</ForeName>
+                    <Initials>HA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carson</LastName>
+                    <ForeName>P E</ForeName>
+                    <Initials>PE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Domanski</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>TA-HL-1002</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>N Engl J Med</MedlineTA>
+            <NlmUniqueID>0255562</NlmUniqueID>
+            <ISSNLinking>0028-4793</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Angiotensin-Converting Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>75847-73-3</RegistryNumber>
+                <NameOfSubstance>Enalapril</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Jul 22;341(4):288</RefSource>
+                <PMID Version="1">10419390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Jul 22;341(4):287; author reply 288</RefSource>
+                <PMID Version="1">10419388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1999 Jul 22;341(4):287; author reply 288</RefSource>
+                <PMID Version="1">10419389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>N Engl J Med 1999 Jul 22;341(4):298</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">African Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Analysis of Variance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Angiotensin-Converting Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enalapril</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">European Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Socioeconomic Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ventricular Dysfunction, Left</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10029645</ArticleId>
+            <ArticleId IdType="doi">10.1056/NEJM199902253400804</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

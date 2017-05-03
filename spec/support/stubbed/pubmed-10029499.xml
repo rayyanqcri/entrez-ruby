@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10029499</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0017-9124</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>33</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Health services research</Title>
+                <ISOAbbreviation>Health Serv Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Can restrictions on reimbursement for anti-ulcer drugs decrease Medicaid pharmacy costs without increasing hospitalizations?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1593-610</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To examine the impact of a policy restricting reimbursement for Medicaid anti-ulcer drugs on anti-ulcer drug use and peptic-related hospitalizations.</AbstractText>
+                <AbstractText Label="DATA SOURCES/STUDY SETTING" NlmCategory="METHODS">In addition to U.S. Census Bureau data, all of the following from Florida: Medicaid anti-ulcer drug claims data, 1989-1993; Medicaid eligibility data, 1989-1993; and acute care nonfederal hospital discharge abstract data (Medicaid and non-Medicaid), 1989-1993.</AbstractText>
+                <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">In this observational study, a Poisson multiple regression model was used to compare changes, after policy implementation, in Medicaid reimbursement for prescription anti-ulcer drugs as well as hospitalization rates between pre- and post-implementation periods in Medicaid versus non-Medicaid patients hospitalized with peptic ulcer disease.</AbstractText>
+                <AbstractText Label="PRINCIPAL FINDINGS" NlmCategory="RESULTS">Following policy implementation, the rate of Medicaid reimbursement for anti-ulcer drugs decreased 33 percent (p &lt; .001). No associated increase occurred in the rate of Medicaid peptic-related hospitalizations.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Florida's policy restricting Medicaid reimbursement for anti-ulcer drugs was associated with a substantial reduction in outpatient anti-ulcer drug utilization without any significant increase in the rate of hospitalization for peptic-related conditions.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medicine, The Johns Hopkins University, Baltimore, MD 21205, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cromwell</LastName>
+                    <ForeName>D M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bass</LastName>
+                    <ForeName>E B</ForeName>
+                    <Initials>EB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steinberg</LastName>
+                    <ForeName>E P</ForeName>
+                    <Initials>EP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yasui</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ravich</LastName>
+                    <ForeName>W J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hendrix</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLeod</LastName>
+                    <ForeName>S F</ForeName>
+                    <Initials>SF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>R D</ForeName>
+                    <Initials>RD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F32 HS00083</GrantID>
+                    <Acronym>HS</Acronym>
+                    <Agency>AHRQ HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Health Serv Res</MedlineTA>
+            <NlmUniqueID>0053006</NlmUniqueID>
+            <ISSNLinking>0017-9124</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Ulcer Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Surg. 1991 Jan;78(1):28-31</RefSource>
+                <PMID Version="1">1671826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1991 Oct 10;325(15):1072-7</RefSource>
+                <PMID Version="1">1891009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 1991 Jul;36(7):911-6</RefSource>
+                <PMID Version="1">2070704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 1988 Jan;207(1):4-6</RefSource>
+                <PMID Version="1">2892468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1987 Aug 27;317(9):550-6</RefSource>
+                <PMID Version="1">3302713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Milbank Q. 1993;71(2):217-52</RefSource>
+                <PMID Version="1">8510601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Gastroenterol Suppl. 1986;125:32-41</RefSource>
+                <PMID Version="1">3547614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Surg. 1982 Jun;69(6):319-20</RefSource>
+                <PMID Version="1">7082957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hosp Pharm. 1993 Sep;50(9):1898-902</RefSource>
+                <PMID Version="1">7907839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Inquiry. 1994 Spring;31(1):89-101</RefSource>
+                <PMID Version="1">7909535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1994 Sep 8;331(10):650-5</RefSource>
+                <PMID Version="1">8052275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br Med J. 1978 Apr 29;1(6120):1095-7</RefSource>
+                <PMID Version="1">346161</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Ulcer Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">economics</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cost Control</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Costs</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Utilization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Florida</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hospitalization</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+                <QualifierName MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Medicaid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">economics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Organizational Policy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptic Ulcer</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">economics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reimbursement Mechanisms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">economics</QualifierName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+                <QualifierName MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1070338</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10029499</ArticleId>
+            <ArticleId IdType="pmc">PMC1070338</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
