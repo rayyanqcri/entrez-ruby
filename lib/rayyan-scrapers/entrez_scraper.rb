@@ -312,7 +312,7 @@ module RayyanScrapers
     end
 
     def extract_mesh(xml, mArticle)
-      mArticle.keyphrases = (xml/"./#{@xml_element_citation}/MeshHeadingList//DescriptorName" \
+      mArticle.keywords = (xml/"./#{@xml_element_citation}/MeshHeadingList//DescriptorName" \
         " | ./#{@xml_element_citation}/KeywordList/Keyword").to_enum.map(&:text)
     end
 

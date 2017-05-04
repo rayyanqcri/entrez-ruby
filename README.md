@@ -3,7 +3,10 @@
 
 # RayyanScrapers
 
-TODO
+A set of Ruby scrapers (web crawlers) used by [Rayyan](https://rayyan.qcri.org).
+It currently supports [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)
+using the [Entrez API](https://www.ncbi.nlm.nih.gov/books/NBK25501/)
+but more scrapers can be added easily.
 
 ## Installation
 
@@ -18,6 +21,121 @@ And then execute:
 Or install it yourself as:
 
     $ gem install rayyan-scrapers
+
+## Usage
+
+### Topic search
+
+Before doing any topic search using the Entrez API, you must set your tool name and email.
+Otherwise, you may get Access Denied errors from the API and your IP address may get blocked altogether.
+See the configuration section below.
+
+To issue a search query using PubMedScraper (ESearch followed by EFetch for results):
+
+    keywords = [['diabetic', 'type-2 diabetes'], ['exercise', 'physical']]
+    scraper = RayyanScrapers::PubMedScraper.new(keywords)
+    scraper.scrape(:topic) do |article, total|
+      puts total
+      puts article
+    end
+
+This will send a query to the ESearch utility with the `keywords` specified.
+Notice that the `keywords` parameter is an array of arrays. Each keyword in the
+second level arrays will be *ORed* while the outside array will be the *ANDed* query.
+So the above `keywords` will generate this query:
+
+    (diabetic OR type-2 diabetes) AND (exercise OR physical)
+
+The `scrape` method will repeatedly yield control with every resulting article along with the total number found.
+This will allow results to be yielded as soon as they are fetched (using the EFetch utility) and parsed
+instead of waiting for the whole result set to finish, which may not fit in memory anyway.
+
+### PubMed XML file parsing
+
+If you have downloaded a PubMed XML file of the search results, you can parse it
+and get the resulting articles the same way returned from the scraping process.
+This is even faster as it involves no remote HTTP activity.
+
+    keywords = [[]]
+    body = File.read('/path/to/pubmed-results.xml')
+    total = RayyanScrapers::PubMedScraper.new(keywords).parse_search_results(body) do |article, total|
+      puts total
+      puts article
+    end
+    raise 'Unknown XML' if total == 0
+
+The above code will read a file then passes it to the parser. It will yield articles as they are parsed
+as in the scraping process. If the returned `total` equals to zero, then either the XML was invalid or empty.
+
+### Data types
+
+The article objects are of type `RayyanFormats::Target`.
+More details on this can be found [here](https://github.com/rayyanqcri/rayyan-formats-core#rayyanformatstarget).
+Specifically, the article objects will have these methods (unless otherwise noted, all values are of type `String`):
+
+- `title`: Article/Book title
+- `copyright`: Copyright information
+- `affiliation`: Main authors affiliation
+- `language`: Article original language
+- `publisher_name`: Publisher name
+- `publisher_location`: Publisher address
+- `collection`: Book collection name
+- `collection_code`: Book collection code
+- `abstracts`: `Array` of abstracts. Each abstract is a `Hash` object with `label`, `category` and `content` fields
+- `authors`: `Array` of ordered authors in the format `last name, first name`
+- `article_ids`: `Array` of unique article identifiers (DOI, PMID, ...). Each identifier is a `Hash` object with `idtype` and `value` fields
+- `publication_types`: `Array` of publication types. For books it will have only 1 type: `Book`
+- `keywords`: `Array` of keywords
+- `sections`: `Array` of book sections. Each section is a `Hash` object with `code`, `location` and `title` fields
+- `journal_title`: Journal title
+- `journal_issn`: Journal ISSN
+- `journal_abbreviation`: Journal abbreviation
+- `jvolume`: Volume number (`Fixnum`)
+- `jissue`: Issue number (`Fixnum`)
+- `pagination`: Pagination information
+- `date_array`: `Array` of date components (e.g. `["2017", "10", "1"]`). Note that the day alone or month+day could be missing
+
+
+## Configuration
+
+### Tool name and email
+
+Set 2 environment variables before creating the scraper instance (`PubMedScraper.new`).
+There are multiple ways to set environment variables in Ruby. Either using command line,
+Rails environments.rb, [.env file](https://github.com/bkeepers/dotenv), or through code.
+
+    ENV['PUBMED_CLIENT_TOOL_NAME'] = 'your_tool_name'
+    ENV['PUBMED_CLIENT_TOOL_EMAIL'] = 'your_tool_email'
+
+### Limiting results
+
+By default, `PubMedScraper` will scrape up to 10 pages only with 100 results per page.
+This makes 1000 maximum results. To change these limits, create 2 new environment variables:
+
+    ENV['PUBMED_MAX_PAGES'] = 100
+    ENV['PUBMED_RESULTS_PER_PAGE'] = 1000
+
+This will raise the limit to `100 * 1000 = 100000` results.
+
+### Logging
+
+You can specify a logger object to receive various scraper logs in different log levels.
+
+For pure Ruby, use the standard [Logger](http://ruby-doc.org/stdlib-2.1.0/libdoc/logger/rdoc/Logger.html) object:
+
+    require 'logger'
+    logger = Logger.new(STDOUT) # or specify a file
+    logger.level = Logger::DEBUG # INFO, WARN, ERROR or FATAL
+
+    RayyanScrapers::PubMedScraper.new(keywords, logger)
+
+For Rails, you can log to the configured Rails logger:
+
+    RayyanScrapers::PubMedScraper.new(keywords, Rails.logger)
+
+### Caching HTTP responses
+
+TODO
 
 ## Testing
 

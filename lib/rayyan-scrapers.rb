@@ -1,3 +1,4 @@
+require "rayyan-formats-core"
 require "rayyan-scrapers/version"
 require "rayyan-scrapers/stubber"
 require "rayyan-scrapers/scraper_base"
@@ -12,7 +13,6 @@ require "rayyan-scrapers/pub_med_health_guides_scraper"
 require "rayyan-scrapers/pub_med_health_scraper"
 require "rayyan-scrapers/pub_med_health_summaries_scraper"
 require "rayyan-scrapers/eric_scraper"
-require "rayyan-formats-core"
 
 module RayyanScrapers
 end
