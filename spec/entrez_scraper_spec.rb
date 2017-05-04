@@ -14,7 +14,6 @@ describe EntrezScraper do
   let(:article) { RayyanFormats::Target.new }
 
   before do
-    allow_any_instance_of(Hercules).to receive(:enable_cache).and_return(true)
     entrez_scraper.instance_variable_set(:@xml_element_root, "ArticleSet")
     entrez_scraper.instance_variable_set(:@xml_element_root_article, "Article")
     entrez_scraper.instance_variable_set(:@xml_element_citation, "Element")

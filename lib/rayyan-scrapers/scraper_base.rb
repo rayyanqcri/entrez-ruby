@@ -5,7 +5,7 @@ require_relative '../support/dummy_logger'
 
 module RayyanScrapers
   class ScraperBase
-    def initialize(logger = nil)
+    def initialize(logger = nil, moneta_options = nil)
       @site_id = 'UNKNOWN'
       # During capybara tests (stubbed Typheous, no cache), hydra stops processing queue on reaching @max_parallel_articles!
       #@max_parallel_articles = 20
@@ -14,15 +14,14 @@ module RayyanScrapers
 
       @logger = logger || DummyLogger.new
 
-      @hercules_articles = Hercules.new @logger, :max_concurrency => @max_parallel_articles
-      @hercules_refpages = Hercules.new @logger, :max_concurrency => @max_parallel_refpages
+      @hercules_articles = Hercules.new @logger, {:max_concurrency => @max_parallel_articles}, moneta_options
+      @hercules_refpages = Hercules.new @logger, {:max_concurrency => @max_parallel_refpages}, moneta_options
 
       @headers = {headers: {"User-Agent"=>"Mozilla/5.0"}}
     end
 
-    def scrape(search_type, enable_cache = true)
-      @hercules_articles.enable_cache = @hercules_refpages.enable_cache = enable_cache
-      @logger.info "Scraping as #{self.class.name} with caching #{enable_cache ? 'enabled' : 'disabled'}"
+    def scrape(search_type)
+      @logger.info "Scraping as #{self.class.name}"
       t1 = Time.now
 
       case search_type

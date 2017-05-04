@@ -1,18 +1,17 @@
 require 'typhoeus'
+require 'moneta'
 
 module RayyanScrapers
   class Hercules
-    attr_accessor :enable_cache
-
-    def initialize(logger, options = {})
-      @hydra = Typhoeus::Hydra.new options
+    def initialize(logger, hydra_options = {}, moneta_options = nil)
+      @hydra = Typhoeus::Hydra.new hydra_options
       @killed = false
       @pending_requests = 0
       @done_requests = 0
       @max_hydra_queue_length = 200
       @logger = logger || DummyLogger.new
       @after_kill = nil
-      @cache = nil # TODO get from params
+      @cache = moneta_options ? Moneta.new(*moneta_options) : Moneta.new(:Null)
     end
 
     # hydra_run
@@ -26,12 +25,11 @@ module RayyanScrapers
     # hydra_queue
     def strike(link, cache_key = nil, yield_exception = false)
       request = Typhoeus::Request.new(link, :followlocation => true, headers: {"User-Agent"=>"Mozilla/5.0"})
-      if @cache && cache_key && self.enable_cache
+      if cache_key
         # look for cached version
-        response = @cache.get(cache_key)
+        response = @cache[cache_key]
         unless response.nil?
           @logger.debug "Cache hit: #{cache_key}"
-          # load from cache
           yield request, response
           return
         end
@@ -50,7 +48,7 @@ module RayyanScrapers
         elsif response.success? || response.code - 200 < 100
           # in the middle of such dead slow network/processing, I am optimizing a compare and an AND! #funny 
           begin
-            @cache.set(cache_key, response.body) if @cache && cache_key && self.enable_cache
+            @cache[cache_key] = response.body if cache_key
             yield request, response.body
           rescue => e
             @logger.warn "WARNING: Exception while processing response for #{link}"

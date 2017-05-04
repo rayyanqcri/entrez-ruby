@@ -19,8 +19,8 @@ module RayyanScrapers
       sections: 1
     }
 
-    def initialize(query, logger = nil)
-      super(logger)
+    def initialize(query, logger = nil, moneta_options = nil)
+      super(logger, moneta_options)
 
       begin
         @query = query.map do |topic_query|

@@ -17,15 +17,6 @@ describe ScraperBase do
       }
     }
 
-    it "sets enable_cache in hercules objects" do
-      enable_cache = double
-      scraper.scrape(nil, enable_cache)
-      expect(scraper.instance_variable_get("@hercules_articles").enable_cache).to \
-        eq(enable_cache)
-      expect(scraper.instance_variable_get("@hercules_refpages").enable_cache).to \
-        eq(enable_cache)
-    end
-
     context 'search kind is topic' do
       let(:start_page) { double }
 

@@ -1,7 +1,7 @@
 module RayyanScrapers
   class CSXScraper < EntrezScraper
-    def initialize(query, logger = nil)
-      super(query, logger)
+    def initialize(query, logger = nil, moneta_options = nil)
+      super(query, logger, moneta_options)
 
       @base_url = 'http://10.153.18.33:5000/api/v1'
       @search_url = "#{@base_url}/search?db=csx"

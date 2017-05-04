@@ -2,8 +2,8 @@ module RayyanScrapers
   class EricScraper < ScraperBase
     attr_reader :query
 
-    def initialize(query, logger = nil)
-      super(logger)
+    def initialize(query, logger = nil, moneta_options = nil)
+      super(logger, moneta_options)
       @base_url = 'http://www.eric.ed.gov/ERICWebPortal'
       @search_url = "#{@base_url}/search/simpleSearch.jsp?searchtype=advanced"
       @detail_url = "#{@base_url}/detail?accno="

@@ -135,7 +135,26 @@ For Rails, you can log to the configured Rails logger:
 
 ### Caching HTTP responses
 
-TODO
+Usually it is desired to cache HTTP responses for fetched articles (EFetch not ESearch requests).
+RayyanScrapers uses [Moneta](https://github.com/minad/moneta)
+for a unified interface to dozens of cache store adapters (Memory, File, Memcached, Redis, ActiveRecord, MongoDB, S3, ...)
+You pass the cache constructor to the scraper constructor exactly the same way
+you use on Moneta. For example, to set a memory cache store:
+
+    moneta_options = [:Memory]
+    RayyanScrapers::PubMedScraper.new(keywords, logger, moneta_options)
+
+To use a file store:
+
+    moneta_options = [:File, {dir: 'my_cache_dir'}]
+    RayyanScrapers::PubMedScraper.new(keywords, logger, moneta_options)
+
+If you are using Rails and Dalli Memcached client:
+
+    moneta_options = [:MemcachedDalli, {backend: Rails.cache.dalli}]
+    RayyanScrapers::PubMedScraper.new(keywords, logger, moneta_options)
+
+All Moneta adapters are documented on its [rubydoc](http://www.rubydoc.info/github/minad/moneta/master/Moneta/Adapters).
 
 ## Testing
 
