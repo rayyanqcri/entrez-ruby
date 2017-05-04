@@ -581,7 +581,7 @@ describe EntrezScraper do
 
       it "assigns extracted text" do
         expect{entrez_scraper.extract_mesh(xml, article)}.to \
-          change{article.keyphrases}.to array
+          change{article.keywords}.to array
       end
     end
 
