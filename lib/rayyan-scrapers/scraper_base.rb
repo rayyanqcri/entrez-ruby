@@ -5,12 +5,15 @@ require_relative '../support/dummy_logger'
 
 module RayyanScrapers
   class ScraperBase
+
+    DEFAULT_MAX_PARALLEL_ARTICLES = 50
+    DEFAULT_MAX_PARALLEL_REFPAGES = 10
+
     def initialize(logger = nil, moneta_options = nil)
       @site_id = 'UNKNOWN'
       # During capybara tests (stubbed Typheous, no cache), hydra stops processing queue on reaching @max_parallel_articles!
-      #@max_parallel_articles = 20
-      @max_parallel_articles = 50
-      @max_parallel_refpages = 10
+      @max_parallel_articles = self.class.max_parallel_articles
+      @max_parallel_refpages = self.class.max_parallel_refpages
 
       @logger = logger || DummyLogger.new
 
@@ -76,6 +79,14 @@ module RayyanScrapers
     def self.node_html(page, xpath)
       n = page.at(xpath)
       n = n.inner_html.strip if n
+    end
+
+    def self.max_parallel_articles
+      (ENV['SCRAPERS_MAX_PARALLEL_ARTICLES'] || DEFAULT_MAX_PARALLEL_ARTICLES).to_i
+    end
+
+    def self.max_parallel_refpages
+      (ENV['SCRAPERS_MAX_PARALLEL_REFPAGES'] || DEFAULT_MAX_PARALLEL_REFPAGES).to_i
     end
 
     # functions to override in subclasses

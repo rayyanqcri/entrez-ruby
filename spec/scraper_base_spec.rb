@@ -10,6 +10,36 @@ describe ScraperBase do
   }
   let(:scraper) { ScraperBase.new(logger) }
 
+  describe '.initialize' do
+    context 'setting @max_parallel_articles' do
+      let(:max_parallel_articles) { 100 }
+
+      before {
+        allow(ScraperBase).to receive(:max_parallel_articles) { max_parallel_articles }
+      }
+
+      it 'sets @max_parallel_articles' do
+        expect(scraper.instance_variable_get('@max_parallel_articles')).to eq(max_parallel_articles)
+      end
+    end
+
+    it 'sets @logger to specified argument' do
+      expect(scraper.instance_variable_get('@logger')).to eq(logger)
+    end
+
+    context 'when no logger object is specified in arguments' do
+      let(:logger) { nil }
+
+      it 'sets @logger to a new instance of DummyLogger' do
+        expect(scraper.instance_variable_get('@logger')).to be_instance_of(DummyLogger)
+      end
+    end
+
+    it 'sets @hercules_articles to a new instance of Hercules' do
+      expect(scraper.instance_variable_get('@hercules_articles')).to be_instance_of(Hercules)
+    end
+  end
+
   describe '.scrape' do
     before {
       allow_any_instance_of(Hercules).to receive(:kill) {|&block|
@@ -170,6 +200,30 @@ describe ScraperBase do
     context 'valid inputs'  do
       html_doc = Nokogiri::HTML("<html><body><h1>node html</h1></body></html>")
       it { expect(ScraperBase.node_html(html_doc, '//body')).to eq("<h1>node html</h1>") }
+    end
+  end
+
+  describe '.max_parallel_articles' do
+    context 'when no environment variable set' do
+      before {
+        ENV['SCRAPERS_MAX_PARALLEL_ARTICLES'] = nil
+      }
+
+      it 'returns the default value' do
+        expect(ScraperBase.max_parallel_articles).to eq(ScraperBase::DEFAULT_MAX_PARALLEL_ARTICLES)
+      end
+    end
+
+    context 'when the environment variable is set' do
+      let(:max_parallel_articles) { 100 }
+
+      before {
+        ENV['SCRAPERS_MAX_PARALLEL_ARTICLES'] = max_parallel_articles.to_s
+      }
+
+      it 'returns the environment variable' do
+        expect(ScraperBase.max_parallel_articles).to eq(max_parallel_articles)
+      end
     end
   end
 

@@ -117,6 +117,14 @@ This makes 1000 maximum results. To change these limits, create 2 new environmen
 
 This will raise the limit to `100 * 1000 = 100000` results.
 
+### HTTP Parallelism
+
+You can control the parallelism degree by which article details are fetched.
+By default, 50 articles are fetched in parallel.
+To change this, set the following environment variable before creating the scraper instance:
+
+    ENV['SCRAPERS_MAX_PARALLEL_ARTICLES'] = 100
+
 ### Logging
 
 You can specify a logger object to receive various scraper logs in different log levels.
