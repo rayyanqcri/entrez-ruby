@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">1000147</PMID>
+        <DateCreated>
+            <Year>1977</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1977</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1293</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1976</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The British journal of social and clinical psychology</Title>
+                <ISOAbbreviation>Br J Soc Clin Psychol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A new personal disturbance scale (DSSI/sAD).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>387-94</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A brief self-report measure of personal disturbance is presented. Being derived from the Delusions-Symptoms-States Inventory, it focuses exclusively on recent symptomatology, uncontaminated by personality attributes. Data are presented which show significant agreement (a) for the allocation of the items to syndromes by experiences raters, and (b) between patients' self-report and their psychiatrists' ratings. At the anxiety, depression, and total sAD scale levels a high discrimination is found between the normal and pmal distributions, both of which are in contrast to personality measures. The scales appear relevant to treatment evaluation and for detecting the personally disturbed in general populations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bedford</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foulds</LastName>
+                    <ForeName>G A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheffield</LastName>
+                    <ForeName>B F</ForeName>
+                    <Initials>BF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Br J Soc Clin Psychol</MedlineTA>
+            <NlmUniqueID>0372552</NlmUniqueID>
+            <ISSNLinking>0007-1293</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adjustment Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Affective Symptoms</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anxiety</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anxiety Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Delusions</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Depression</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mental Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Personality Inventory</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Psychiatric Status Rating Scales</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1976</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1976</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1976</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1000147</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">100029</PMID>
+        <DateCreated>
+            <Year>1978</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1978</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-0805</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>118</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1978</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American review of respiratory disease</Title>
+                <ISOAbbreviation>Am. Rev. Respir. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Controlled trial of 6-month and 8-month regimens in the treatment of pulmonary tuberculosis. First report.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>219-28</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Four short-course antituberculosis regimens allocated at random were studied; (1) streptomycin, isoniazid, and rifampin given daily for 6 months; (2) these 3 drugs plus pyrazinamide given daily for 2 months, followed by twice-weekly administration of streptomycin, isoniazid, and pyrazinamide; (3) a regimen that differed from regimen 2 only in that ethambutol replaced pyrazinamide, and (4) streptomycin plus isoniazid plus rifampin plus pyrazinamide given 3 times per week for 4 months, followed by streptomycin plus isoniazid plus pyrazinamide administered twice per week. The last 3 regimens were given for 6 or 8 months at random. All except 1 of 680 patients with tubercle bacilli drug-susceptible before treatment had a favorable bacteriologic response during chemotherapy. The relapse rates during the first 6 months after chemotherapy were low, except in the ethambutol series, in which 19 per cent of the patients relapsed after 6 months of treatment, and 8 per cent relapsed after 8 months. A substantial proportion of the patients with strains initially resistant to either isoniazid or streptomycin had a favorable response to their allocated regimen, but the results were not as good for those patients with strains resistant to both drugs. An important finding is that the incidences of immunologic febrile reactions to rifampin and of rifampin-dependent antibodies were very low during the 3-times-weekly regimen.</AbstractText>
+            </Abstract>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am Rev Respir Dis</MedlineTA>
+            <NlmUniqueID>0370523</NlmUniqueID>
+            <ISSNLinking>0003-0805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antitubercular Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>13292-46-1</RegistryNumber>
+                <NameOfSubstance>Rifampin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>54-85-3</RegistryNumber>
+                <NameOfSubstance>Isoniazid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57-92-1</RegistryNumber>
+                <NameOfSubstance>Streptomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>74-55-5</RegistryNumber>
+                <NameOfSubstance>Ethambutol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>98-96-4</RegistryNumber>
+                <NameOfSubstance>Pyrazinamide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antitubercular Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Administration Schedule</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Evaluation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ethambutol</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Isoniazid</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrazinamide</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Random Allocation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rifampin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Streptomycin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tuberculosis, Pulmonary</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1978</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1978</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1978</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">100029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

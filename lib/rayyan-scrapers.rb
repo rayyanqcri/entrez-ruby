@@ -13,6 +13,7 @@ require "rayyan-scrapers/pub_med_health_guides_scraper"
 require "rayyan-scrapers/pub_med_health_scraper"
 require "rayyan-scrapers/pub_med_health_summaries_scraper"
 require "rayyan-scrapers/eric_scraper"
+require "rayyan-scrapers/rayyan-formats-pubmed_xml"
 
 module RayyanScrapers
 end

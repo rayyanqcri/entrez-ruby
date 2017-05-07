@@ -28,7 +28,7 @@ GEM
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
     rake (0.9.6)
-    rayyan-formats-core (0.1.3)
+    rayyan-formats-core (0.1.4)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)

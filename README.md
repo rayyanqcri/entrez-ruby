@@ -67,6 +67,21 @@ This is even faster as it involves no remote HTTP activity.
 The above code will read a file then passes it to the parser. It will yield articles as they are parsed
 as in the scraping process. If the returned `total` equals to zero, then either the XML was invalid or empty.
 
+### PubmedXML RayyanFormats plugin
+
+This gem also offers a plugin for [RayyanFormats](https://github.com/rayyanqcri/rayyan-formats-core) for importing Pubmed XML files.
+It can be typically added using the standard plugin configuration method:
+
+    RayyanFormats::Base.plugins = [
+      # ... others plugins
+      RayyanFormats::Plugins::PubmedXML
+      # ... others plugins
+    ]
+
+Once configured, it will be accepted as a valid format when calling:
+
+    RayyanFormats::Base.import
+
 ### Data types
 
 The article objects are of type `RayyanFormats::Target`.
