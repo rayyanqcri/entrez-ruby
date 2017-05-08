@@ -26,7 +26,6 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new [
 ]
 
 SimpleCov.start do
-  add_filter "/spec"
   add_filter "/lib/support/regexp.rb" # copied from activesupport
   add_filter "/lib/support/blank.rb" # copied from activesupport
 end

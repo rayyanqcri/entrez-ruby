@@ -59,6 +59,24 @@ describe EntrezScraper do
 
       it_behaves_like 'query analyzer'
     end
+
+    context "when query param is of unknown type" do
+      let(:input_query) { 100 }
+
+      it "raises an exception" do
+        expect{entrez_scraper.search input_query}.to \
+          raise_error RuntimeError, /^query must be either/
+      end
+    end
+
+    context "when query param is an array of unknown types" do
+      let(:input_query) { ["known", 100] }
+
+      it "raises an exception" do
+        expect{entrez_scraper.search input_query}.to \
+          raise_error RuntimeError, /^Array elements must be either/
+      end
+    end
   end
 
   describe "#escape_keyword" do
