@@ -11,7 +11,7 @@ module RayyanFormats
       end
 
       do_import do |body, filename, &block|
-        total = RayyanScrapers::PubMedScraper.new([[]], RayyanFormats::Base.logger).parse_search_results(body) do |target, total|
+        total = RayyanScrapers::PubMedScraper.new(RayyanFormats::Base.logger).parse_search_results(body) do |target, total|
           block.call(target, total)
         end
         raise "Invalid XML, please follow the PubMed guide to export valid PubMed XML files" if total.nil? || total == 0

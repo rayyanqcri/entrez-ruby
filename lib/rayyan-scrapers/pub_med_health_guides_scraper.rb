@@ -1,9 +1,9 @@
 module RayyanScrapers
   class PubMedHealthGuidesScraper < PubMedHealthScraper
-    def initialize(query)
-      super(query)
+    def initialize
+      super
       @search_url = "#{@base_url}/s/clinical_guides_medrev"
-      @logger.debug "PubMedHealthGuides scraper initialized with query #{@query}"
+      @logger.debug "PubMedHealthGuides scraper initialized"
     end
   end
 end

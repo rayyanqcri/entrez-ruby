@@ -3,7 +3,7 @@ require 'spec_helper'
 include RayyanScrapers
 
 describe PubMedHealthSummariesScraper do
-  let(:scraper) { PubMedHealthSummariesScraper.new("query") }
+  let(:scraper) { PubMedHealthSummariesScraper.new }
 
   describe ".initialize" do
     it "assigns @search_url" do

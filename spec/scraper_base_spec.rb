@@ -41,39 +41,18 @@ describe ScraperBase do
   end
 
   describe '.scrape' do
+    let(:start_page) { double }
+
     before {
+      allow(scraper).to receive(:get_start_page){ start_page }
       allow_any_instance_of(Hercules).to receive(:kill) {|&block|
         block.call(10)
       }
     }
 
-    context 'search kind is topic' do
-      let(:start_page) { double }
-
-      before {
-        allow(scraper).to receive(:get_start_page){ start_page }
-      }
-
-      it 'calls iterate_list_pages with start page' do
-        expect(scraper).to receive(:iterate_list_pages).with(start_page)
-        scraper.scrape(:topic)
-      end
-    end
-
-    context 'search kind is ref or cited' do
-      it 'calls iterate_list_pages with search_type' do
-        [:ref, :cited].each {|search_type|
-          expect(scraper).to receive(:iterate_input_items).with(search_type)
-          scraper.scrape(search_type)
-        }
-      end
-    end
-
-    context 'search type is manual' do
-      it 'calls iterate_manual_entries' do
-        expect(scraper).to receive(:iterate_manual_entries)
-        scraper.scrape(:manual)
-      end
+    it 'calls iterate_list_pages with start page' do
+      expect(scraper).to receive(:iterate_list_pages).with(start_page)
+      scraper.scrape
     end
   end
 
@@ -267,17 +246,6 @@ describe ScraperBase do
     describe '.results_per_page' do
       let(:method) { :results_per_page }
       let(:is_instance_method) { false }
-      it_behaves_like "not_implemented_method"
-    end
-
-    describe '#iterate_input_items' do
-      let(:method) { :iterate_input_items }
-      let(:args_count) { 1 }
-      it_behaves_like "not_implemented_method"
-    end
-
-    describe '#iterate_manual_entries' do
-      let(:method) { :iterate_manual_entries }
       it_behaves_like "not_implemented_method"
     end
 

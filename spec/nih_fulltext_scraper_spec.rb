@@ -3,8 +3,7 @@ require 'spec_helper'
 include RayyanScrapers
 
 describe NihFulltextScraper do
-  let(:list) { (1..5).to_a }
-  let(:nih_fulltext_scraper) { NihFulltextScraper.new(list) }
+  let(:nih_fulltext_scraper) { NihFulltextScraper.new }
   let(:base_url) { nih_fulltext_scraper.instance_variable_get(:@base_url) }
 
   describe "#initialize" do

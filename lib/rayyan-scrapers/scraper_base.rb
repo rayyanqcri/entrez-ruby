@@ -23,23 +23,14 @@ module RayyanScrapers
       @headers = {headers: {"User-Agent"=>"Mozilla/5.0"}}
     end
 
-    def scrape(search_type)
+    def scrape
       @logger.info "Scraping as #{self.class.name}"
       t1 = Time.now
 
-      case search_type
-      when :topic
-        page = get_start_page
-        total = total_pages page
-        @logger.info "Total results: #{total}"
-        iterate_list_pages(page) {|item| yield item, total if block_given?}
-      when :ref, :cited
-        total = total_pages nil
-        iterate_input_items(search_type) {|item| yield item, total if block_given?}
-      when :manual
-        total = total_pages nil
-        iterate_manual_entries {|item| yield item, total if block_given?}
-      end
+      page = get_start_page
+      total = total_pages page
+      @logger.info "Total results: #{total}"
+      iterate_list_pages(page) {|item| yield item, total if block_given?}
 
       @hercules_refpages.kill do |done_requests_refpages|
         @hercules_articles.kill do |done_requests_articles|
@@ -96,8 +87,6 @@ module RayyanScrapers
     def total_pages(page); 'Unknown' end
 
     def self.results_per_page; raise 'Not implemented' end
-    def iterate_input_items(search_type); raise 'Not implemented' end
-    def iterate_manual_entries; raise 'Not implemented' end
     def get_start_page; raise 'Not implemented' end
     def get_next_page_link(page, page_id); raise 'Not implemented' end
     def process_list_page(page); raise 'Not implemented' end

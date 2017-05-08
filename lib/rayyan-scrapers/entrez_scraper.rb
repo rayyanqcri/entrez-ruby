@@ -19,21 +19,32 @@ module RayyanScrapers
       sections: 1
     }
 
-    def initialize(query, logger = nil, moneta_options = nil)
-      super(logger, moneta_options)
-
-      begin
-        @query = query.map do |topic_query|
-          "(" + topic_query.map do |keyword|
-            URI.escape("(#{keyword})")
-          end.join("+OR+") + ")"
+    def search(query)
+      @query = if query.instance_of?(String)
+        escape_keyword query
+      elsif query.instance_of?(Array)
+        query.map do |topic_query|
+          if topic_query.instance_of?(String)
+            escape_keyword topic_query
+          elsif topic_query.instance_of?(Array)
+            "(" + topic_query.map do |keyword|
+              escape_keyword keyword
+            end.join("+OR+") + ")"
+          else
+            raise 'Array elements must be either Strings or Arrays'
+          end
         end.join("+AND+")
-        @logger.debug "Entrez scraper initialized with query #{@query}"
-      rescue
-        # query is not an array of arrays, it must be a list of input_article ids or sids
-        @input_articles = query
-        @logger.debug "Entrez scraper initialized with #{@input_articles.length} input articles"
+      else
+        raise 'query must be either String or Array'
       end
+
+      @logger.debug "Entrez scraper initialized with query #{@query}"
+
+      scrape
+    end
+
+    def escape_keyword(keyword)
+      "(" + URI.escape(keyword) + ")"
     end
 
     def create_search_url(page)
@@ -164,17 +175,6 @@ module RayyanScrapers
       extract_abstracts bookdoc, mArticle if extraction_fields[:abstracts]
       extract_sections bookdoc, mArticle if extraction_fields[:sections]
       extract_book_idtypes xml, mArticle if extraction_fields[:idtypes]
-    end
-
-    # not test covered
-    def iterate_manual_entries
-      @hercules_articles.fight(@input_articles) do |pmid|
-        pmid.gsub! /PMC|PMH/, ''
-        # fetch it
-        process_detail_page(pmid) do |article|
-          yield article if block_given?
-        end
-      end
     end
 
     # not test covered

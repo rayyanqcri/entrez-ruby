@@ -9,7 +9,7 @@ describe PubMedScraper do
       l.level = Logger::FATAL
       l
     }
-    let(:pub_med_scraper) { PubMedScraper.new([], logger) }
+    let(:pub_med_scraper) { PubMedScraper.new(logger) }
     let(:tool_name) { 'rspec_tool_name' }
     let(:tool_email) { 'rspec_tool@email.com' }
     let(:tool_params) { "tool=#{tool_name}&email=#{tool_email}" }

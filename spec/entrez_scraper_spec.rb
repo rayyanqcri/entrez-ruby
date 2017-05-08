@@ -9,7 +9,7 @@ describe EntrezScraper do
     l
   }
   let(:query) { (1..5).map{|i| "title#{i}"} }
-  let(:entrez_scraper) { EntrezScraper.new(query, logger) }
+  let(:entrez_scraper) { EntrezScraper.new(logger) }
   let(:contents_path) { Pathname.new "spec/support/entrez-contents" }
   let(:article) { RayyanFormats::Target.new }
 
@@ -20,28 +20,57 @@ describe EntrezScraper do
     entrez_scraper.instance_variable_set(:@xml_element_root_book, "Book")
   end
 
-  describe "#initialize" do
-    context "when query param is an array" do
-      it "assigns @input_articles to query param" do
-        expect(entrez_scraper.instance_variable_get("@input_articles")).to be(query)
+  describe "#search" do
+    before {
+      allow(entrez_scraper).to receive(:escape_keyword){|kw| kw}
+      allow(entrez_scraper).to receive(:scrape)
+    }
+
+    shared_examples "query analyzer" do
+      it "assigns @query to the analyzed query param" do
+        expect{entrez_scraper.search input_query}.to \
+          change{entrez_scraper.instance_variable_get("@query")}.to \
+          output_query
       end
 
-      it "assigns @query to nil" do
-        expect(entrez_scraper.instance_variable_get("@query")).to be_nil
+      it "calls base search" do
+        expect(entrez_scraper).to receive(:scrape)
+        entrez_scraper.search input_query
       end
     end
 
-    context "when query param is an array of arrays" do
-      let(:query) { [['k1', 'j2'], ['k3', 'j4'], ['k5', 'j6']] }
+    context "when query param is a string" do
+      let(:input_query) { "string" }
+      let(:output_query) { input_query }
 
-      it "assigns @input_articles to nil" do
-        expect(entrez_scraper.instance_variable_get("@input_articles")).to be(nil)
-      end
+      it_behaves_like 'query analyzer'
+    end
 
-      it "assigns @query to the product of sums for the query" do
-        expect(entrez_scraper.instance_variable_get("@query")).to \
-          eq("((k1)+OR+(j2))+AND+((k3)+OR+(j4))+AND+((k5)+OR+(j6))")
-      end
+    context "when query param is an array of strings" do
+      let(:input_query) { %w(k1 k2 k3) }
+      let(:output_query) { "k1+AND+k2+AND+k3" }
+
+      it_behaves_like 'query analyzer'
+    end
+
+    context "when query param is an array of arrays/strings" do
+      let(:input_query) { [['k1', 'j2'], ['k3', 'j4'], 'k5'] }
+      let(:output_query) { "(k1+OR+j2)+AND+(k3+OR+j4)+AND+k5" }
+
+      it_behaves_like 'query analyzer'
+    end
+  end
+
+  describe "#escape_keyword" do
+    let(:keyword) { double('keyword') }
+    let(:escaped_keyword) { 'escaped_keyword' }
+
+    before {
+      allow(URI).to receive(:escape).with(keyword) { escaped_keyword }
+    }
+
+    it "escapes keyword using URI.escape" do
+      expect(entrez_scraper.escape_keyword(keyword)).to eq('(' + escaped_keyword + ')')
     end
   end
 

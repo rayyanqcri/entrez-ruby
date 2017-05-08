@@ -27,28 +27,46 @@ Or install it yourself as:
 ### Topic search
 
 Before doing any topic search using the Entrez API, you must set your tool name and email.
-Otherwise, you may get Access Denied errors from the API and your IP address may get blocked altogether.
+Otherwise, you may get Access Denied errors from the API and your IP address may get blocked completely.
 See the configuration section below.
 
-To issue a search query using PubMedScraper (ESearch followed by EFetch for results):
+To issue a search query using `PubMedScraper` (ESearch followed by EFetch for results):
 
-    keywords = [['diabetic', 'type-2 diabetes'], ['exercise', 'physical']]
-    scraper = RayyanScrapers::PubMedScraper.new(keywords)
-    scraper.scrape(:topic) do |article, total|
+    keywords = 'diabetes'
+    scraper = RayyanScrapers::PubMedScraper.new
+    scraper.search(keywords) do |article, total|
       puts total
       puts article
     end
 
 This will send a query to the ESearch utility with the `keywords` specified.
-Notice that the `keywords` parameter is an array of arrays. Each keyword in the
-second level arrays will be *ORed* while the outside array will be the *ANDed* query.
+The `search` method will repeatedly yield control with every resulting article along with the total number found.
+This will allow results to be yielded as soon as they are fetched (using the EFetch utility) and parsed
+instead of waiting for the whole result set to finish, which may not fit in memory anyway.
+
+The `keywords` parameter can be in one of three formats:
+
+#### String
+
+    keywords = 'diabetes'
+
+This will simply use the specified string as the search criteria.
+
+#### Array of Strings
+
+    keywords = %w(diabetic exercise)
+
+This will search for the `AND` concatenated array (`diabetic AND exercise` in this example).
+
+#### Array of Arrays of Strings
+
+    keywords = [['diabetic', 'type-2 diabetes'], ['exercise', 'physical']]
+
+Each keyword in the second level arrays will be concatenated by `OR`
+and the resulting strings will be concatenated with `AND`.
 So the above `keywords` will generate this query:
 
     (diabetic OR type-2 diabetes) AND (exercise OR physical)
-
-The `scrape` method will repeatedly yield control with every resulting article along with the total number found.
-This will allow results to be yielded as soon as they are fetched (using the EFetch utility) and parsed
-instead of waiting for the whole result set to finish, which may not fit in memory anyway.
 
 ### PubMed XML file parsing
 
@@ -56,9 +74,8 @@ If you have downloaded a PubMed XML file of the search results, you can parse it
 and get the resulting articles the same way returned from the scraping process.
 This is even faster as it involves no remote HTTP activity.
 
-    keywords = [[]]
     body = File.read('/path/to/pubmed-results.xml')
-    total = RayyanScrapers::PubMedScraper.new(keywords).parse_search_results(body) do |article, total|
+    total = RayyanScrapers::PubMedScraper.new.parse_search_results(body) do |article, total|
       puts total
       puts article
     end
@@ -150,11 +167,11 @@ For pure Ruby, use the standard [Logger](http://ruby-doc.org/stdlib-2.1.0/libdoc
     logger = Logger.new(STDOUT) # or specify a file
     logger.level = Logger::DEBUG # INFO, WARN, ERROR or FATAL
 
-    RayyanScrapers::PubMedScraper.new(keywords, logger)
+    RayyanScrapers::PubMedScraper.new(logger)
 
 For Rails, you can log to the configured Rails logger:
 
-    RayyanScrapers::PubMedScraper.new(keywords, Rails.logger)
+    RayyanScrapers::PubMedScraper.new(Rails.logger)
 
 ### Caching HTTP responses
 
@@ -165,17 +182,17 @@ You pass the cache constructor to the scraper constructor exactly the same way
 you use on Moneta. For example, to set a memory cache store:
 
     moneta_options = [:Memory]
-    RayyanScrapers::PubMedScraper.new(keywords, logger, moneta_options)
+    RayyanScrapers::PubMedScraper.new(logger, moneta_options)
 
 To use a file store:
 
     moneta_options = [:File, {dir: 'my_cache_dir'}]
-    RayyanScrapers::PubMedScraper.new(keywords, logger, moneta_options)
+    RayyanScrapers::PubMedScraper.new(logger, moneta_options)
 
 If you are using Rails and Dalli Memcached client:
 
     moneta_options = [:MemcachedDalli, {backend: Rails.cache.dalli}]
-    RayyanScrapers::PubMedScraper.new(keywords, logger, moneta_options)
+    RayyanScrapers::PubMedScraper.new(logger, moneta_options)
 
 All Moneta adapters are documented on its [rubydoc](http://www.rubydoc.info/github/minad/moneta/master/Moneta/Adapters).
 

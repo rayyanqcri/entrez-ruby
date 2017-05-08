@@ -1,13 +1,13 @@
 module RayyanScrapers
   class PubMedHealthScraper < PubMedScraper
-    def initialize(query)
-      super(query)
+    def initialize
+      super
       @base_url = 'http://www.ncbi.nlm.nih.gov/pubmedhealth'
       @search_url = "#{@base_url}/s/full_text_reviews_medrev"
       @detail_url = @base_url
       @pubmed_detail_url = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml"
 
-      @logger.debug "PubMedHealth scraper initialized with query #{@query}"
+      @logger.debug "PubMedHealth scraper initialized"
     end
 
     def create_search_url(page)

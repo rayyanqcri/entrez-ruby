@@ -12,8 +12,8 @@
 
 module RayyanScrapers
   class NihFulltextScraper < PubMedScraper
-    def initialize(query, logger = nil, moneta_options = nil)
-      super(query, logger, moneta_options)
+    def initialize(logger = nil, moneta_options = nil)
+      super(logger, moneta_options)
       @refs_url = "#{@base_url}/elink.fcgi?dbfrom=pmc&db=pubmed"
       @refs_link_name = "pmc_refs_pubmed"
 

@@ -1,7 +1,7 @@
 module RayyanScrapers
   class PubMedScraper < EntrezScraper
-    def initialize(query, logger = nil, moneta_options = nil)
-      super(query, logger, moneta_options)
+    def initialize(logger = nil, moneta_options = nil)
+      super(logger, moneta_options)
 
       additional_params = "tool=#{self.class.client_tool_name}&email=#{self.class.client_tool_email}"
       @logger.debug "PubMedScraper configured with client tool information: #{additional_params}"
