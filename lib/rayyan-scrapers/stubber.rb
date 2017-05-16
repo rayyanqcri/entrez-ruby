@@ -4,14 +4,14 @@ require 'typhoeus'
 module RayyanScrapers
   class Stubber
     def self.stubbed_root
-      Pathname.new "../../../spec/support/stubbed"
+      Pathname.new File.expand_path("../../../spec/support/stubbed", __FILE__)
     end
 
     def self.stub_pubmed(set_id)
       sets = [2, 5, 50]
       raise "set_id argument should be one of #{sets.inspect}" unless sets.include? set_id
-      Rails.logger.info "Stubbing PubMed..."
-      base_url = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+      # Rails.logger.info "Stubbing PubMed..."
+      base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 
       stub_request_with_file(self.stubbed_root.join("pubmed-search-#{set_id}.xml"),
         Regexp.new(base_url))
@@ -19,17 +19,19 @@ module RayyanScrapers
     end
 
     def self.stub_pubmed_details
-      Rails.logger.info "Stubbing PubMed details..."
-      base_url = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml&id="
+      # Rails.logger.info "Stubbing PubMed details..."
+      base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml"
       DirIterator.new(self.stubbed_root).iterate do |file|
         pmid = file.match(/.*pubmed-([0-9]+).xml/)[1]
-        stub_request_with_file(file, "#{base_url}#{pmid}")
+        regex = "#{base_url}.*&id=#{pmid}"
+        stub_request_with_file(file, Regexp.new(regex))
+        # Rails.logger "stubbed #{regex} with #{file}"
       end
     end
 
     def self.stub_pubmed_refs
-      Rails.logger.info "Stubbing PubMed references..."
-      base_url = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&id="
+      # Rails.logger.info "Stubbing PubMed references..."
+      base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&id="
 
       DirIterator.new(self.stubbed_root.join("refs")).iterate do |file|
         pmid = file.match(/.*pubmed-refs-([0-9]+).xml/)[1]

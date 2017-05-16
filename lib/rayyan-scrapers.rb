@@ -1,5 +1,6 @@
 require "rayyan-formats-core"
 require "rayyan-scrapers/version"
+require "rayyan-scrapers/dir_iterator"
 require "rayyan-scrapers/stubber"
 require "rayyan-scrapers/scraper_base"
 require "rayyan-scrapers/entrez_scraper"
