@@ -19,7 +19,7 @@ module RayyanScrapers
       sections: 1
     }
 
-    def search(query)
+    def search(query, &block)
       @query = if query.instance_of?(String)
         escape_keyword query
       elsif query.instance_of?(Array)
@@ -40,7 +40,7 @@ module RayyanScrapers
 
       @logger.debug "Entrez scraper initialized with query #{@query}"
 
-      scrape
+      scrape &block
     end
 
     def escape_keyword(keyword)
@@ -92,6 +92,7 @@ module RayyanScrapers
         # get detailed info
         process_detail_page(pmid, &block)
       end # end fight
+      items.length
     end
 
     def process_detail_page(pmid, extraction_fields = nil, &block)

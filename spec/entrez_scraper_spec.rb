@@ -33,7 +33,7 @@ describe EntrezScraper do
           output_query
       end
 
-      it "calls base search" do
+      it "calls ScraperBase scrape method" do
         expect(entrez_scraper).to receive(:scrape)
         entrez_scraper.search input_query
       end
@@ -188,9 +188,10 @@ describe EntrezScraper do
     let(:body) { File.open(contents_path.join("entrez-test.log")) }
     let(:response) { Typhoeus::Response.new(code: 200, body: body) }
     let(:page) { Nokogiri::XML(body) }
+    let(:items_count) { 5 }
 
     before {
-      (1..5).each{|i| expect(entrez_scraper).to receive(:process_detail_page).with(i.to_s) }
+      (1..items_count).each{|i| expect(entrez_scraper).to receive(:process_detail_page).with(i.to_s) }
     }
 
     it "parses the page if not parsed already" do
@@ -199,6 +200,10 @@ describe EntrezScraper do
 
     it "calls process_detail_page for each entry in the list" do
       entrez_scraper.process_list_page(page)
+    end
+
+    it "returns items count" do
+      expect(entrez_scraper.process_list_page(page)).to eq(items_count)
     end
   end
 

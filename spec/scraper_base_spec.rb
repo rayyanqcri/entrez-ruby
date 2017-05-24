@@ -71,13 +71,9 @@ describe ScraperBase do
     end
 
     context "when start page is not nil" do
-      before {
-        expect(scraper).to receive(:process_list_page).with(start_page)
-      }
-
-      context "when have scraped enough pages" do
+      context "when no items returned from current page" do
         before {
-          allow(scraper).to receive(:enough_pages).with(2) { true }
+          expect(scraper).to receive(:process_list_page).with(start_page) { 0 }
         }
 
         it "does not call process_list_page again" do
@@ -86,40 +82,57 @@ describe ScraperBase do
         end
       end
 
-      context "when have not scraped enough pages" do
+      context "when some items returned from current page" do
         before {
-          allow(scraper).to receive(:enough_pages).with(2) { false }
+          expect(scraper).to receive(:process_list_page).with(start_page) { 1 }
         }
 
-        it "gets next page link" do
-          expect(scraper).to receive(:get_next_page_link).with(start_page, 2)
-          scraper.iterate_list_pages(start_page)
-        end
-
-        context "when there is a page next" do
-          let(:next_page_link) { "next_page_link" }
-          let(:next_page_body) { "body" }
-          let(:next_page) { Stubber.stub_request_with_body(next_page_body, next_page_link) }
-
+        context "when have scraped enough pages" do
           before {
-            allow(scraper).to receive(:get_next_page_link).with(start_page, 2) { next_page_link }
-            allow(scraper).to receive(:enough_pages).with(3) { true } # otherwise won't stop
-          }
-
-          it "calls process_list_page again on the next page" do
-            expect(scraper).to receive(:process_list_page).with(next_page)
-            scraper.iterate_list_pages(start_page)
-          end
-        end
-
-        context "when there is no page next" do
-          before {
-            allow(scraper).to receive(:get_next_page_link).with(start_page, 2)
+            allow(scraper).to receive(:enough_pages).with(2) { true }
           }
 
           it "does not call process_list_page again" do
             # expected start_page already in before{} and no more
             scraper.iterate_list_pages(start_page)
+          end
+        end
+
+        context "when have not scraped enough pages" do
+          before {
+            allow(scraper).to receive(:enough_pages).with(2) { false }
+          }
+
+          it "gets next page link" do
+            expect(scraper).to receive(:get_next_page_link).with(start_page, 2)
+            scraper.iterate_list_pages(start_page)
+          end
+
+          context "when there is a page next" do
+            let(:next_page_link) { "next_page_link" }
+            let(:next_page_body) { "body" }
+            let(:next_page) { Stubber.stub_request_with_body(next_page_body, next_page_link) }
+
+            before {
+              allow(scraper).to receive(:get_next_page_link).with(start_page, 2) { next_page_link }
+              allow(scraper).to receive(:enough_pages).with(3) { true } # otherwise won't stop
+            }
+
+            it "calls process_list_page again on the next page" do
+              expect(scraper).to receive(:process_list_page).with(next_page)
+              scraper.iterate_list_pages(start_page)
+            end
+          end
+
+          context "when there is no page next" do
+            before {
+              allow(scraper).to receive(:get_next_page_link).with(start_page, 2)
+            }
+
+            it "does not call process_list_page again" do
+              # expected start_page already in before{} and no more
+              scraper.iterate_list_pages(start_page)
+            end
           end
         end
       end

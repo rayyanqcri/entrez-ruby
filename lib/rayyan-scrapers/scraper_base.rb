@@ -46,14 +46,14 @@ module RayyanScrapers
       page_id = 1
       while page != nil
         @logger.info "Processing page #{page_id}..."
-        process_list_page(page, &block)
+        items_count = process_list_page(page, &block)
         page_id += 1
-        unless enough_pages page_id
+        if items_count == 0 || enough_pages(page_id)
+          @logger.info "Stopping at this page"
+          page = nil
+        else
           url = get_next_page_link page, page_id
           page = url ? Typhoeus::Request.get(url, @headers) : nil
-        else
-          @logger.info "Stopping at this page, enough results!"
-          page = nil
         end
       end
     end
