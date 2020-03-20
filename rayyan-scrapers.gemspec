@@ -27,6 +27,6 @@ Gem::Specification.new do |spec|
   
   spec.add_dependency 'nokogiri', '~> 1.6'
   spec.add_dependency 'typhoeus', '~> 1.1'
-  spec.add_dependency 'rayyan-formats-core', "~> 0.1.0"
+  spec.add_dependency 'rayyan-formats-core', "~> 0.2.1"
   spec.add_dependency 'moneta', "~> 1.0"
 end
