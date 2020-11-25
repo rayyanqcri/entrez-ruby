@@ -196,13 +196,36 @@ If you are using Rails and Dalli Memcached client:
 
 All Moneta adapters are documented on its [rubydoc](http://www.rubydoc.info/github/minad/moneta/master/Moneta/Adapters).
 
-## Testing
+## Development and Testing
 
-    rspec
+To build for local development and testing (requires Docker):
 
-Or
+```bash
+docker build . -t rayyan-scrapers:1
+```
 
-    rake
+To run the tests:
+
+```bash
+docker run -it --rm -v $PWD:/home rayyan-scrapers:1
+```
+
+This will allow you to edit files and re-run the tests without rebuilding
+the image.
+
+## Publishing the gem
+
+```bash
+docker build . -t rayyan-scrapers:1
+docker run -it --rm rayyan-scrapers:1 /home/publish.sh
+```
+
+Enter your email and password when prompted. If you want to skip interactive
+login, supply `RUBYGEMS_API_KEY` as an additional argument:
+
+```bash
+docker run -it --rm -e RUBYGEMS_API_KEY=YOUR_RUBYGEMS_API_KEY rayyan-scrapers:1 /home/publish.sh
+```
 
 ## Contributing
 
