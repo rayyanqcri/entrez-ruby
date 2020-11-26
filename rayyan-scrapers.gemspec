@@ -24,9 +24,9 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.5'
   spec.add_development_dependency 'coderay', '~> 1.1'
   spec.add_development_dependency 'coveralls', '~> 0.8'
-  
+
   spec.add_dependency 'nokogiri', '~> 1.6'
   spec.add_dependency 'typhoeus', '~> 1.1'
-  spec.add_dependency 'rayyan-formats-core', "~> 0.2.1"
+  spec.add_dependency 'rayyan-formats-core', "~> 0.2"
   spec.add_dependency 'moneta', "~> 1.0"
 end
