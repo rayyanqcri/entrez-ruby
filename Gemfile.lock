@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rayyan-scrapers (0.1.4)
+    rayyan-scrapers (0.1.5)
       moneta (~> 1.0)
       nokogiri (~> 1.6)
       rayyan-formats-core (~> 0.2)
@@ -21,14 +21,14 @@ GEM
     docile (1.3.2)
     ethon (0.12.0)
       ffi (>= 1.3.0)
-    ffi (1.13.1)
+    ffi (1.14.2)
     json (2.3.0)
     mini_portile2 (2.4.0)
     moneta (1.4.1)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     rake (0.9.6)
-    rayyan-formats-core (0.3.0)
+    rayyan-formats-core (0.3.1)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)

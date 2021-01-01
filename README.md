@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/rayyanqcri/rayyan-scrapers.svg?branch=master)](https://travis-ci.org/rayyanqcri/rayyan-scrapers)
-[![Coverage Status](https://coveralls.io/repos/github/rayyanqcri/rayyan-scrapers/badge.svg?branch=master)](https://coveralls.io/github/rayyanqcri/rayyan-scrapers?branch=master)
+[![Build Status](https://travis-ci.org/rayyansys/rayyan-scrapers.svg?branch=master)](https://travis-ci.org/rayyansys/rayyan-scrapers)
+[![Coverage Status](https://coveralls.io/repos/github/rayyansys/rayyan-scrapers/badge.svg?branch=master)](https://coveralls.io/github/rayyansys/rayyan-scrapers?branch=master)
 
 # RayyanScrapers
 
-A set of Ruby scrapers (web crawlers) used by [Rayyan](https://rayyan.qcri.org).
+A set of Ruby scrapers (web crawlers) used by [Rayyan](https://rayyan.ai).
 It currently supports [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)
 using the [Entrez API](https://www.ncbi.nlm.nih.gov/books/NBK25501/)
 but more scrapers can be added easily.
@@ -86,7 +86,7 @@ as in the scraping process. If the returned `total` equals to zero, then either 
 
 ### PubmedXML RayyanFormats plugin
 
-This gem also offers a plugin for [RayyanFormats](https://github.com/rayyanqcri/rayyan-formats-core) for importing Pubmed XML files.
+This gem also offers a plugin for [RayyanFormats](https://github.com/rayyansys/rayyan-formats-core) for importing Pubmed XML files.
 It can be typically added using the standard plugin configuration method:
 
     RayyanFormats::Base.plugins = [
@@ -102,7 +102,7 @@ Once configured, it will be accepted as a valid format when calling:
 ### Data types
 
 The article objects are of type `RayyanFormats::Target`.
-More details on this can be found [here](https://github.com/rayyanqcri/rayyan-formats-core#rayyanformatstarget).
+More details on this can be found [here](https://github.com/rayyansys/rayyan-formats-core#rayyanformatstarget).
 Specifically, the article objects will have these methods (unless otherwise noted, all values are of type `String`):
 
 - `title`: Article/Book title

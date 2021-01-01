@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["github@hammady.net"]
   spec.description   = %q{Rayyan scrapers that fetch external references like PubMed}
   spec.summary       = %q{Rayyan scrapers that fetch external references}
-  spec.homepage      = "https://github.com/rayyanqcri/rayyan-scrapers"
+  spec.homepage      = "https://github.com/rayyansys/rayyan-scrapers"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
